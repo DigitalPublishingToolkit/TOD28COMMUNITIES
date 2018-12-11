@@ -1,19 +1,25 @@
-<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
+<dc:identifier id="epub-id-1">urn:isbn:978-94-92302-26-7</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">The List Serves</dc:title>
+<dc:title id="epub-title-1">Communities at a Crossroads: Material Semiotics for Online Sociability in the Fade of Cyberculture</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2017-02</dc:date>
+<dc:date id="epub-date">2018-12</dc:date>
 <dc:language>en-US</dc:language>
-<dc:creator id="epub-creator-0">Kenneth C. Werbin</dc:creator>
+<dc:creator id="epub-creator-0">Annalisa Pelizza</dc:creator>
 <meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
-<dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
-<meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-5">Leonieke van Dipten</dc:contributor>
+<dc:contributor id="epub-contributor-5">Kelly Mostert</dc:contributor>
 <meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
-<dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
-<dc:subject>Lists</dc:subject>
-<dc:description>PUBLICATION SYNOPSIS</dc:description>
+<dc:rights>Creative Commons Attribution, NonCommercial, NoDerivatives 4.0 International (CC BY-NC-ND 4.0)</dc:rights>
+<dc:subject>Online Communities</dc:subject>
+<dc:description>Under what conditions is it possible to conceptualize online sociability in the 21st century? The author of this book asked this question ten years ago. With the burst of the creative-entrepreneur alliance, the territorialisation of the internet and the commercialization of interpersonal ties, mid 2000s constituted a turning point for digital communitarian cultures. In that period, many of the techno-libertarian culture’s utopias underpinning possibilities for online sociability faced counter evidence.
+
+Avoiding both void invocations of community and swift doomed conclusions, the book answers the above question by investigating the theories of actions that have underpinned the development of techno-social digital assemblages after the fade of the ‘golden age’ of online communities. It draws upon the analysis of Ars Electronica’s Digital Communities archive, the largest worldwide, and in doing so it returns a multi-faceted picture of internet sociability between the two centuries.
+
+Epistemologically, Communities at a Crossroads proposes a radical turn, privileging an anti-essentialist, performative approach over traditional understandings of online communities. It argues that in order to conceptualize contemporary online sociability, we need first to abandon the techno-libertarian communalist rhetoric. Second, it is necessary to move beyond the foundational distinction between gemeinschaft and gesellschaft, and adopt a material semiotic approach. Finally, the book suggests to relinquish the effort to define online or digital communities, and rather engage in more meaningful mapping exercises. Eventually, Communities at a Crossroads engages in a double archaeology. The result is an experiment in the possibility to dive into digital communalism at different depths. 
+
+
+Annalisa Pelizza is writer, teacher and associate professor in Science and Technology Studies (STS) at the University of Twente (NL). Her research unfolds at the intersection of technology studies, communication science and political theory. Before embracing the academic career, Annalisa was active in techno-social digital experimentation, worked as media art producer and designer, developed large-scale IT infrastructures. 
+</dc:description>
 
 
 
