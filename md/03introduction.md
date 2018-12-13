@@ -584,64 +584,10 @@ highlight the coherence and consistency of techniques for data
 collection and analysis with epistemological choices, as outlined in
 Table 1.
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Epistemologic | **Choice of the | **Method**      |                 |
-| al              | sample**        |                 |                 |
-| assumptions**   |                 |                 |                 |
-+=================+=================+=================+=================+
-|                 |                 | **Technique of  | **Technique of  |
-|                 |                 | data            | data analysis** |
-|                 |                 | collection**    |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Performative    | Objects of      | Submissionsexpo | Quali-quantitat |
-| classification  | study are the   | rted            | ive             |
-| of digital      | projects        | from online     | (for N cases)   |
-| communities     | participating   | archive as txt  | and qualitative |
-| (DC): DC        | in Ars          | file with ASCII | (for n cases)   |
-| definition is   | Electronica's   | codification    | analysis of     |
-| the result of   | competition.    |                 | submissions     |
-| clustering      | They are *said* | Navigation of   |                 |
-| together        | and             | DCs' websites   | Profile         |
-| objects *said*  | *acknowledged*  |                 | analysis of     |
-| to be           | as DCs by       |                 | websites        |
-| occurrences of  | different       |                 |                 |
-| the concept.    | social actors:  |                 |                 |
-| Acknowledgement | the projects    |                 |                 |
-| as distributed  | authors + Prix  |                 |                 |
-| enuciative      | Ars             |                 |                 |
-| action          | Electronica's   |                 |                 |
-|                 | International   |                 |                 |
-|                 | Advisory Board  |                 |                 |
-|                 | + independent   |                 |                 |
-|                 | jury            |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Study of        | 1\) Prix Ars    |                 |                 |
-| controversies   | Electronica     |                 |                 |
-|                 | competition     |                 |                 |
-| 1\) Meaning     | as a form of    |                 |                 |
-| emerges from    | controversy,    |                 |                 |
-| comparison      | a situation     |                 |                 |
-| and/or          | where meaning   |                 |                 |
-| polemic         | emerges from    |                 |                 |
-| structures.     | comparison      |                 |                 |
-|                 | between         |                 |                 |
-| 2)              | different       |                 |                 |
-| Controversies   | projects        |                 |                 |
-| and agency are  | struggling to   |                 |                 |
-| made visible    | be defined as   |                 |                 |
-| into accounts   | successful      |                 |                 |
-|                 | DC.             |                 |                 |
-|                 |                 |                 |                 |
-|                 | 2\) Use of      |                 |                 |
-|                 | archived        |                 |                 |
-|                 | submission      |                 |                 |
-|                 | forms as        |                 |                 |
-|                 | accounts:       |                 |                 |
-|                 | meaning         |                 |                 |
-|                 | emerges also    |                 |                 |
-|                 | from distance   |                 |                 |
-|                 | in time         |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| ﻿Epistemological assumptions | Choice of the sample | Technique of data collection | Technique of data analysis |
+| --- | --- | --- | --- |
+| Performative classification of digital communities (DC): DC definition is the result of clustering together objects said to be occurrences of the concept. Acknowledgement as distributed enuciative action | Objects of study are the projects participating in Ars Electronica’s competition. They are said and acknowledged as DCs by different social actors: the projects authors + Prix Ars Electronica’s International Advisory Board + independent jury | Submissions exported from online archive as txt file with ASCII codification | Quali-quantitative (for N cases) and qualitative (for n cases) analysis of submissions |
+| Study of controversies 1) Meaning emerges from comparison and/or polemic structures. 2) Controversies and agency are made visible into accounts | 1) Prix Ars Electronica competition as a form of controversy, a situation where meaning emerges from comparison between different projects struggling to be defined as successful DC. 2) Use of archived submission forms as accounts: meaning emerges also from distance in time | Navigation of DCs’ websites | Profile analysis of websites | 
 
 <small>Table 1 - *Resume: from epistemological assumptions to techniques of
 data collection and analysis*</small>

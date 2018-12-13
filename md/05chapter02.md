@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# CHAPTER 2. FROM THE PRAIRIE TO THE BATTLEFIELD
+# 2. FROM THE PRAIRIE TO THE BATTLEFIELD
 
 If there is a decision to be made,
 
