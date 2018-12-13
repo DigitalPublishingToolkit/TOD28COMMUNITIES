@@ -16,7 +16,6 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-
 # 3. IN SEARCH OF COMMUNITY
 
 By arguing that the anarchic internet prairie has turned into a
