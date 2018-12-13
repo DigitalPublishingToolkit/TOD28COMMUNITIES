@@ -125,7 +125,7 @@ img {
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #d5f099 solid;
+    border-left: 1px #4b6475solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
@@ -140,7 +140,7 @@ a:hover { color: #d5f099;
 
 
 table {
-    border: 1px #d5f099 solid;
+    border: 1px #4b6475solid;
     border-collapse: collapse;
     width:100%;
     vertical-align: top;
@@ -149,15 +149,15 @@ table {
 }
 
 table th {
-    border-bottom: 1px #d5f099 solid;
+    border-bottom: 1px #4b6475solid;
     color: #FFF;
     background: #d5f099;
     font-family: 'OpenSans-Semibold';
 }
 
 table th, td {
-    border-left: 1px #d5f099 solid;
-    border-right: 1px #d5f099 solid;
+    border-left: 1px #4b6475solid;
+    border-right: 1px #4b6475solid;
 }
 
 th, td {
