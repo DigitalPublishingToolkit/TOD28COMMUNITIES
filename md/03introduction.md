@@ -584,17 +584,9 @@ highlight the coherence and consistency of techniques for data
 collection and analysis with epistemological choices, as outlined in
 Table 1.
 
-| Videoblogger   | Self-defined type |
-| :-----------------------------|:----------------------------| 
-|   Zadi Diaz, Steve Garfield, Raymond M. Kristiansen, Brittany Shoot, Bekah Havens, Cheryl Cole, Gena Hackett, Juan Falla, Richard Hall, Susan Pitman, Ryanne Hodson, Rupert Howe, Richard BF, Mary Matthews, Adam Quirk   |Personal |
-|    Sam Reinsew, Mica Scalin, David Howell, Adam Quirk, Brittany Shoot, Andreas Haugstrup Pedersen, Daniel Liss, Jay Dedman, Jennifer Proctor, Markus Sandy, Loiez Deniel, Charlene Rule, Paris Marashi, Bekah Havens   | Art  |   
-|  Andreas Haugstrup Pedersen, Erin Nealey, Jay Dedman, Jen Gouvea, Juan Falla, Mary Matthews, Richard BF, Charlene Rule, Gena Hackett, Paris Marashi  |   Everyday life   | 
-| Mica Scalin, Jen Gouvea, Gromik Nicholas |   Documentary   | 
-| Erik Nelson, Enric Teller, Juan Falla |   Internet TV   | 
-| Adam Quirk, Casey McKinnon |  Comedy    |  
 
 | ﻿Epistemological assumptions | Choice of the sample | Technique of data collection | Technique of data analysis |
-| --- | --- | --- | --- |
+| -----------------------------| ----------------------------- | ----------------------------- | ----------------------------- |
 | Performative classification of digital communities (DC): DC definition is the result of clustering together objects said to be occurrences of the concept. Acknowledgement as distributed enuciative action | Objects of study are the projects participating in Ars Electronica’s competition. They are said and acknowledged as DCs by different social actors: the projects authors + Prix Ars Electronica’s International Advisory Board + independent jury | Submissions exported from online archive as txt file with ASCII codification | Quali-quantitative (for N cases) and qualitative (for n cases) analysis of submissions |
 | Study of controversies 1) Meaning emerges from comparison and/or polemic structures. 2) Controversies and agency are made visible into accounts | 1) Prix Ars Electronica competition as a form of controversy, a situation where meaning emerges from comparison between different projects struggling to be defined as successful DC. 2) Use of archived submission forms as accounts: meaning emerges also from distance in time | Navigation of DCs’ websites | Profile analysis of websites | 
 
