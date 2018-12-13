@@ -130,11 +130,11 @@ blockquote{
     margin-bottom: 1.5em;
 }
 
-a { color: #d5f099;
+a { color: #4b6475 ;
     text-decoration: none;
   }
 
-a:hover { color: #d5f099;
+a:hover { color: #4b6475 ;
       text-decoration: underline;
   }
 
@@ -151,7 +151,7 @@ table {
 table th {
     border-bottom: 1px #4b6475 solid;
     color: #FFF;
-    background: #d5f099;
+    background: #4b6475 ;
     font-family: 'OpenSans-Semibold';
 }
 
