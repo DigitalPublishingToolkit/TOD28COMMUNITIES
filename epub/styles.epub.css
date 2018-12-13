@@ -125,39 +125,39 @@ img {
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #e74011 solid;
+    border-left: 1px #ffa472 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
-a { color: #e74011;
+a { color: #ffa472;
     text-decoration: none;
   }
 
-a:hover { color: #e74011;
+a:hover { color: #ffa472;
       text-decoration: underline;
   }
 
 
 table {
-    border: 1px #e74011 solid;
+    border: 1px #ffa472 solid;
     border-collapse: collapse;
     width:100%;
     vertical-align: top;
-    font-size: 0.8em;
+    font-size: 0.5em;
     page-break-inside: avoid;
 }
 
 table th {
-    border-bottom: 1px #e74011 solid;
+    border-bottom: 1px #ffa472 solid;
     color: #FFF;
-    background: #e74011;
+    background: #ffa472;
     font-family: 'OpenSans-Semibold';
 }
 
 table th, td {
-    border-left: 1px #e74011 solid;
-    border-right: 1px #e74011 solid;
+    border-left: 1px #ffa472 solid;
+    border-right: 1px #ffa472 solid;
 }
 
 th, td {
