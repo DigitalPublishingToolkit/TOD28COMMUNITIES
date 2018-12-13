@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-To my family, in whichever odd geometry it materializes
+*To my family, in whichever odd geometry it materializes*
 
 # ACKNOWLEDGEMENTS
 

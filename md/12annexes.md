@@ -2570,8 +2570,7 @@ Figure 17 -- Visualization of the Overmundo network of mediators
 
 ### Table 3 -- Co-occurrence list for 'online community'
 
-![](media/image1.png){width="6.680555555555555in"
-height="4.666666666666667in"}
+![](imgs/Table03.png)
 
 ### Table 4 -- InfoRapid Search & Replace's results for A = DIGCOM&group&!network (Hypothesis A \< B) 
 

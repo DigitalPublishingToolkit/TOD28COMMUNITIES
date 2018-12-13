@@ -643,8 +643,8 @@ Table 1.
 |                 | in time         |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 
-Table 1 -- *Resume: from epistemological assumptions to techniques of
-data collection and analysis*
+<small>Table 1 - *Resume: from epistemological assumptions to techniques of
+data collection and analysis*</small>
 
 ## Structure of the Book
 

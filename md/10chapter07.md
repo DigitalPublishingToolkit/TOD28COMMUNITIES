@@ -62,10 +62,10 @@ ecumenical definition of 'digital communites'.
   Open Clothes                             Profit              Mainly online                          Yes                          Centralized
   dotSUB                                   Profit              Mainly online                          Yes                          Centralized
 
-Table 14 -- Classification of winning projects according to orientation
+<small>Table 14 - Classification of winning projects according to orientation
 to business, relationship between online and offline interaction, focus
 of interest, centralized/distributed technology used. No correlation
-emerges among these variables
+emerges among these variables</small>
 
 It is by now evident that communitarian relationships cannot be
 conceived in ontological terms, looking for an ideal 'essence' of online
@@ -698,8 +698,8 @@ Results are reported in Table 15.
 |             | *           |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 
-Table 15 -- Analysis of the websites of the winning projects according
-to the degree of visibility of the Outside
+<small>Table 15 - Analysis of the websites of the winning projects according
+to the degree of visibility of the Outside</small>
 
 ### 7.3.1 Configuring Users through Regimes of Access and Visibility
 
@@ -889,8 +889,8 @@ the two criteria and maps communities accordingly.
 |             | Foundation  |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 
-Table 16 -- Map of communities according to degree of permeability
-entailed by applications (rows) and software (columns)
+<small>Table 16 - Map of communities according to degree of permeability
+entailed by applications (rows) and software (columns)</small>
 
 The last cell in the first row includes cases where the number of
 mediators in the textual account is higher than the number of

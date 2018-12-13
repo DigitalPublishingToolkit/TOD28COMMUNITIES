@@ -70,9 +70,9 @@ clusters. Differently from the conceptual map in the previous chapter,
 in which loose concepts were reshuffled at every resetting, here it was
 possible to identify recurrent and stabilized concept clusters.
 
-Figure04
+![](imgs/Figure04.png)
 
-Figure 4 -- Conceptual map without word seeding. Bird's eye
+<small>Figure 4 - Conceptual map without word seeding. Bird's eye</small>
 
 Concepts are clustered in thematic circles that form around the most
 connected ones: *information, (web)site, social, art, work, software,
@@ -170,9 +170,9 @@ was quite recurrent, in our data set it followed a decreasing temporal
 trend. While several applications dealt with it in 2004, from that year
 onwards it became less and less popular, as figure 5 shows.
 
-Figure05
+![](imgs/Figure05.png)
 
-Figure 5 -- Temporal trend for 'rural'
+<small>Figure 5 - Temporal trend for 'rural'</small>
 
 In summary, the qualitative analysis conducted for all themes (figure 4)
 shows that not all of them correspond to full-blown topics. Some of them
@@ -201,9 +201,9 @@ concepts 'software', 'video', 'open', 'free', 'collaboration'. Also
 theme. Notably, a very strong co-occurrence pattern between 'software',
 'free' and 'open' was recognizable.
 
-Figure06
+![](imgs/Figure06.png)
 
-Figure 6 -- Temporal trend for 'software'
+<small>Figure 6 - Temporal trend for 'software'</small>
 
 'Software' was strongly related with 'free' (they co-occurred 11% of
 times in which 'software' appears) and 'open' (10,8%), while the
@@ -212,9 +212,9 @@ Similarly, while 'open', 'free', and 'software' appeared in similar
 conceptual contexts in the map, 'social' and 'software' did not (see
 figure 7).
 
-Figure07
+![](imgs/Figure07.png)
 
-Figure 7 -- Co-occurrence between 'software' and 'free'/'open'/'social'
+<small>Figure 7 - Co-occurrence between 'software' and 'free'/'open'/'social'</small>
 
 This evidence leads to register a predominance in the data set of the
 FLOSS and hacker discourse over the Web 2.0 one, one of whose key
@@ -402,10 +402,9 @@ figure 8 shows, the concept 'information' was most relevant in the
 applications submitted in 2004, while it progressively decreased in
 importance in the following years.
 
-![information0](media/image1.png){width="3.6458333333333335in"
-height="2.9166666666666665in"}
+![](imgs/Figure08.png)
 
-Figure 8 -- Temporal trend for 'information'
+<small>Figure 8 - Temporal trend for 'information'</small>
 
 In counter-tendency with the dominant internet discourse on
 de-territorialization (see sections 1.1, 3.1), and confirming more
@@ -417,9 +416,9 @@ territorial dimension ('local', 'government', 'rural'), while another
 one ('site') connoted both a physical and a virtual (website) portion of
 space (figure 9).
 
-Figure09
+![](imgs/Figure09.png)
 
-Figure 9 -- Co-occurrence map for 'information'
+<small>Figure 9 - Co-occurrence map for 'information'</small>
 
 The territorial topic was present also in the co-occurrence scheme for
 'development', the fifth item in the list. The strongest item
@@ -457,9 +456,9 @@ occur with any of the other territorial concepts (i.e., 'rural', 'site'
 or 'government', except 'local'), it showed a strong co-occurrence with
 'mobile' and 'map'.
 
-Figure10
+![](imgs/Figure10.png)
 
-Figure 10 -- Co-occurrence map for 'city'
+<small>Figure 10 - Co-occurrence map for 'city'</small>
 
 Analysing the textual instances, they all dealt with geo-referenced
 mobile systems allowing the creation of unconventional maps of the urban
@@ -500,7 +499,8 @@ relevant concepts are present. Furthermore, despite a decrease in 2005,
 the concept 'work' remained frequent over the four years of the Digital
 Communities competition (Figure 11).
 
-Figure 11 -- Temporal trend for 'work'
+![](imgs/Figure11.png)
+<small>Figure 11 - Temporal trend for 'work'</small>
 
 The thematic circle *Work* includes the concepts 'work', 'cultural',
 'international', 'network', 'text' (Figure 12). 'Work' more often occurs
@@ -512,9 +512,9 @@ paths show a dominant narrative about knowledge labour, testifying the
 reproduction of the creative class narrative well after the dotcom burst
 (see section 2.1).
 
-Figure12
+![](imgs/Figure12.png)
 
-Figure 12 -- Co-occurrence map for 'work'
+<small>Figure 12 - Co-occurrence map for 'work'</small>
 
 However, that narrative survives in more articulated ways. When it comes
 to the models of remuneration of cognitive labour, two different
@@ -567,9 +567,9 @@ knowledge:
 > enthusiastic volunteers work together on all aspects of the system,
 > providing a solid community orientated distribution.[^08chapter05_21]
 
-Figure13
+![](imgs/Figure13.png)
 
-Figure 13 -- Co-occurrence list for 'work'
+<small>Figure 13 - Co-occurrence list for 'work'</small>
 
 All in all, in the data set the topic of labour is still wavering
 between the need for economic models that can assure an adequate
@@ -595,17 +595,17 @@ concept 'art', we can see that in 2005 and 2006 the applications dealt
 less with 'art' than in 2004 and 2007, relatively to the total amount of
 submissions from each year (Figure 14).[^08chapter05_22]
 
-Figure14
+![](imgs/Figure14.png)
 
-Figure 14 -- Temporal trend for 'art'
+<small>Figure 14 - Temporal trend for 'art'</small>
 
 A similar trend was shown by the concept 'media': after a strong
 frequency in 2004, it decreased until 2007, when it re-gained importance
 (Figure 15).
 
-Figure15
+![](imgs/Figure15.png)
 
-Figure 15 -- Temporal trend for 'media'
+<small>Figure 15 - Temporal trend for 'media'</small>
 
 Among the ten concepts most-frequently occurring with 'art', three were
 related to the type of medium ('media' in general, 'online', 'digital'),
@@ -615,9 +615,9 @@ art-'world') (Figure 16). The last one, 'space', was alternatively
 included into expressions like 'public space', 'open space', and 'space
 of art'.
 
-Figure16
+![](imgs/Figure16.png)
 
-Figure 16 -- Co-occurrence map and concept list for 'art'
+<small>Figure 16 -- Co-occurrence map and concept list for 'art'</small>
 
 Browsing through textual excerpts in more depth, three coherent
 narratives emerged when 'art' co-occured with 'public' and 'open'. The

@@ -318,9 +318,9 @@ changing role of communication artefacts.
 |                       | Result of policies    | Intermediary          |
 +-----------------------+-----------------------+-----------------------+
 
-Table 11 -- *Proyecto Cyberela -- Radio Telecentros*. Variations in the
+<small>Table 11 - *Proyecto Cyberela -- Radio Telecentros*. Variations in the
 role of radio, ICT and gender commitment following the advent of digital
-media
+media</small>
 
 Ferrying the radio-makers assemblage into the digital age requires more
 adjutants than before: the World Bank *Infodev* Program, the *Kellogg*
@@ -566,8 +566,8 @@ populations.
 |           |           |           |           |           | blur      |
 +-----------+-----------+-----------+-----------+-----------+-----------+
 
-Table 12 -- Summary of the theories of action associated with
-'empowerment'
+<small>Table 12 - Summary of the theories of action associated with
+'empowerment'</small>
 
 This comparison shows that the source of boundaries is a crucial
 element. It is correlated to the theory of action that underpins the
@@ -971,7 +971,7 @@ audience into citizenship. Table 13 summarizes the above analyses.
 |                 | network sites   |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 
-Table 13 -- Comparison among EFF, FSF, Telestreet
+<small>Table 13 - Comparison among EFF, FSF, Telestreet</small>
 
 In all the three cases analyzed, the digital community participating in
 the competition is part of a wider global community pursuing
@@ -1017,9 +1017,9 @@ project's submission is the attentive account of how the *Overmundo*
 community has been constituted as the result of a long chain of actions
 mainly embedded in software.
 
-Figure17
+![](imgs/Figure17.png)
 
-Figure 17 -- Visualization of the Overmundo network of mediators
+<small>Figure 17 -- Visualization of the Overmundo network of mediators</small>
 
 Initially, twenty-seven contributors (one in each of the Brazilian
 states) were hired by the designer group to regularly post about

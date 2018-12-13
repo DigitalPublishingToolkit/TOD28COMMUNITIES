@@ -121,9 +121,9 @@ its connectedness. Nearness in the map indicates that two concepts
 appear in similar conceptual contexts. The colour indicates thematic
 groups.
 
-Figure01
+![](imgs/Figure01.png)
 
-Figure 1 -- Conceptual map for 'digital community'. Bird's eye
+<small>Figure 1 -- Conceptual map for 'digital community'. Bird's eye</small>
 
 Taking a bird's eye view, some concepts tend to remain close to each
 other at every resetting and re-learning and to form clusters:[^07chapter04_5]
@@ -254,9 +254,9 @@ pattern for 'online community' is also revealed by the brightness of the
 links, which represents to how often two connected concepts co-occur
 closely within the text.
 
-Figure02
+![](imgs/Figure02.png)
 
-Figure 2 -- Co-occurrence pattern for the concept 'online community'
+<small>Figure 2 - Co-occurrence pattern for the concept 'online community'</small>
 
 The most interesting results concern the co-occurrence between 'online
 community' and 'networks'. This provides the opportunity to recall
@@ -288,9 +288,10 @@ together. Even more, they should not jointly co-occur with 'online
 community'. Figure 3 visualizes these hypotheses and translates them
 into equations.
 
-Figure03\
-Figure 3 -- Logical intersections between 'online community', 'network',
-'group'
+![](imgs/Figure03.jpg)
+
+<small>Figure 3 - Logical intersections between 'online community', 'network',
+'group'</small>
 
 A represents the intersection of 'online community' with 'group', that
 is, the cases where both terms 'online community' and 'group' are
