@@ -1,11 +1,54 @@
 
+#Communities at a Crossroads
+##Material Semiotics for Online Sociability in the Fade of Cyberculture
+###Annalisa Pelizza
 
-**[Communities at a crossroads:]{.smallcaps}**
 
-**Material Semiotics for Online Sociability in the Fade of
-Cyberculture**
+Theory on Demand #28  
+**Commumities at a Crossroads: Material Semiotics for Online Sociability in the Fade of Cyberculture** Annalisa Pelizza  
 
-**Annalisa Pelizza**
+
+Cover design: Katja van Stiphout  
+Design and EPUB development: Kelly Mostert  
+
+
+Published by the Institute of Network Cultures, Amsterdam, 2018  
+
+ISBN: 978-94-92302-25-0
+
+**Contact**
+Institute of Network Cultures  
+Phone: +3120 5951865  
+Email: info@networkcultures.org  
+Web: http://www.networkcultures.org  
+
+
+This publication is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-SA 4.0)  
+
+
+This publication is available through various print on demand services and freely downloadable from http://networkcultures.org/publications
+
+#Contents
+
+Foreword to 2018 edition
+
+Acknowledgements 
+
+Introduction
+
+1. Unfolding Cultures
+2. From the Prairie to the Battlefield
+3. In Search of Community
+4. What Remains of Community
+5. Communities Beyond 'Community'
+6. Mediators Upkeeping Communities
+7. From Definitions to Maps
+8. Conclusions: Dropping Foundational Distinctions
+
+Annexes
+
+References 
+
 
 
 
@@ -152,7 +195,7 @@ Amsterdam/Sydney, August 2018
 
 
 
-To my family, in whichever odd geometry it materializes
+*To my family, in whichever odd geometry it materializes*
 
 # ACKNOWLEDGEMENTS
 
@@ -861,8 +904,8 @@ Table 1.
 |                 | in time         |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 
-Table 1 -- *Resume: from epistemological assumptions to techniques of
-data collection and analysis*
+<small>Table 1 - *Resume: from epistemological assumptions to techniques of
+data collection and analysis*</small>
 
 ## Structure of the Book
 
@@ -4539,9 +4582,9 @@ its connectedness. Nearness in the map indicates that two concepts
 appear in similar conceptual contexts. The colour indicates thematic
 groups.
 
-Figure01
+![](imgs/Figure01.png)
 
-Figure 1 -- Conceptual map for 'digital community'. Bird's eye
+<small>Figure 1 -- Conceptual map for 'digital community'. Bird's eye</small>
 
 Taking a bird's eye view, some concepts tend to remain close to each
 other at every resetting and re-learning and to form clusters:[^07chapter04_5]
@@ -4672,9 +4715,9 @@ pattern for 'online community' is also revealed by the brightness of the
 links, which represents to how often two connected concepts co-occur
 closely within the text.
 
-Figure02
+![](imgs/Figure02.png)
 
-Figure 2 -- Co-occurrence pattern for the concept 'online community'
+<small>Figure 2 - Co-occurrence pattern for the concept 'online community'</small>
 
 The most interesting results concern the co-occurrence between 'online
 community' and 'networks'. This provides the opportunity to recall
@@ -4706,9 +4749,10 @@ together. Even more, they should not jointly co-occur with 'online
 community'. Figure 3 visualizes these hypotheses and translates them
 into equations.
 
-Figure03\
-Figure 3 -- Logical intersections between 'online community', 'network',
-'group'
+![](imgs/Figure03.jpg)
+
+<small>Figure 3 - Logical intersections between 'online community', 'network',
+'group'</small>
 
 A represents the intersection of 'online community' with 'group', that
 is, the cases where both terms 'online community' and 'group' are
@@ -4910,9 +4954,9 @@ clusters. Differently from the conceptual map in the previous chapter,
 in which loose concepts were reshuffled at every resetting, here it was
 possible to identify recurrent and stabilized concept clusters.
 
-Figure04
+![](imgs/Figure04.png)
 
-Figure 4 -- Conceptual map without word seeding. Bird's eye
+<small>Figure 4 - Conceptual map without word seeding. Bird's eye</small>
 
 Concepts are clustered in thematic circles that form around the most
 connected ones: *information, (web)site, social, art, work, software,
@@ -5010,9 +5054,9 @@ was quite recurrent, in our data set it followed a decreasing temporal
 trend. While several applications dealt with it in 2004, from that year
 onwards it became less and less popular, as figure 5 shows.
 
-Figure05
+![](imgs/Figure05.png)
 
-Figure 5 -- Temporal trend for 'rural'
+<small>Figure 5 - Temporal trend for 'rural'</small>
 
 In summary, the qualitative analysis conducted for all themes (figure 4)
 shows that not all of them correspond to full-blown topics. Some of them
@@ -5041,9 +5085,9 @@ concepts 'software', 'video', 'open', 'free', 'collaboration'. Also
 theme. Notably, a very strong co-occurrence pattern between 'software',
 'free' and 'open' was recognizable.
 
-Figure06
+![](imgs/Figure06.png)
 
-Figure 6 -- Temporal trend for 'software'
+<small>Figure 6 - Temporal trend for 'software'</small>
 
 'Software' was strongly related with 'free' (they co-occurred 11% of
 times in which 'software' appears) and 'open' (10,8%), while the
@@ -5052,9 +5096,9 @@ Similarly, while 'open', 'free', and 'software' appeared in similar
 conceptual contexts in the map, 'social' and 'software' did not (see
 figure 7).
 
-Figure07
+![](imgs/Figure07.png)
 
-Figure 7 -- Co-occurrence between 'software' and 'free'/'open'/'social'
+<small>Figure 7 - Co-occurrence between 'software' and 'free'/'open'/'social'</small>
 
 This evidence leads to register a predominance in the data set of the
 FLOSS and hacker discourse over the Web 2.0 one, one of whose key
@@ -5242,10 +5286,9 @@ figure 8 shows, the concept 'information' was most relevant in the
 applications submitted in 2004, while it progressively decreased in
 importance in the following years.
 
-![information0](media/image1.png){width="3.6458333333333335in"
-height="2.9166666666666665in"}
+![](imgs/Figure08.png)
 
-Figure 8 -- Temporal trend for 'information'
+<small>Figure 8 - Temporal trend for 'information'</small>
 
 In counter-tendency with the dominant internet discourse on
 de-territorialization (see sections 1.1, 3.1), and confirming more
@@ -5257,9 +5300,9 @@ territorial dimension ('local', 'government', 'rural'), while another
 one ('site') connoted both a physical and a virtual (website) portion of
 space (figure 9).
 
-Figure09
+![](imgs/Figure09.png)
 
-Figure 9 -- Co-occurrence map for 'information'
+<small>Figure 9 - Co-occurrence map for 'information'</small>
 
 The territorial topic was present also in the co-occurrence scheme for
 'development', the fifth item in the list. The strongest item
@@ -5297,9 +5340,9 @@ occur with any of the other territorial concepts (i.e., 'rural', 'site'
 or 'government', except 'local'), it showed a strong co-occurrence with
 'mobile' and 'map'.
 
-Figure10
+![](imgs/Figure10.png)
 
-Figure 10 -- Co-occurrence map for 'city'
+<small>Figure 10 - Co-occurrence map for 'city'</small>
 
 Analysing the textual instances, they all dealt with geo-referenced
 mobile systems allowing the creation of unconventional maps of the urban
@@ -5340,7 +5383,8 @@ relevant concepts are present. Furthermore, despite a decrease in 2005,
 the concept 'work' remained frequent over the four years of the Digital
 Communities competition (Figure 11).
 
-Figure 11 -- Temporal trend for 'work'
+![](imgs/Figure11.png)
+<small>Figure 11 - Temporal trend for 'work'</small>
 
 The thematic circle *Work* includes the concepts 'work', 'cultural',
 'international', 'network', 'text' (Figure 12). 'Work' more often occurs
@@ -5352,9 +5396,9 @@ paths show a dominant narrative about knowledge labour, testifying the
 reproduction of the creative class narrative well after the dotcom burst
 (see section 2.1).
 
-Figure12
+![](imgs/Figure12.png)
 
-Figure 12 -- Co-occurrence map for 'work'
+<small>Figure 12 - Co-occurrence map for 'work'</small>
 
 However, that narrative survives in more articulated ways. When it comes
 to the models of remuneration of cognitive labour, two different
@@ -5407,9 +5451,9 @@ knowledge:
 > enthusiastic volunteers work together on all aspects of the system,
 > providing a solid community orientated distribution.[^08chapter05_21]
 
-Figure13
+![](imgs/Figure13.png)
 
-Figure 13 -- Co-occurrence list for 'work'
+<small>Figure 13 - Co-occurrence list for 'work'</small>
 
 All in all, in the data set the topic of labour is still wavering
 between the need for economic models that can assure an adequate
@@ -5435,17 +5479,17 @@ concept 'art', we can see that in 2005 and 2006 the applications dealt
 less with 'art' than in 2004 and 2007, relatively to the total amount of
 submissions from each year (Figure 14).[^08chapter05_22]
 
-Figure14
+![](imgs/Figure14.png)
 
-Figure 14 -- Temporal trend for 'art'
+<small>Figure 14 - Temporal trend for 'art'</small>
 
 A similar trend was shown by the concept 'media': after a strong
 frequency in 2004, it decreased until 2007, when it re-gained importance
 (Figure 15).
 
-Figure15
+![](imgs/Figure15.png)
 
-Figure 15 -- Temporal trend for 'media'
+<small>Figure 15 - Temporal trend for 'media'</small>
 
 Among the ten concepts most-frequently occurring with 'art', three were
 related to the type of medium ('media' in general, 'online', 'digital'),
@@ -5455,9 +5499,9 @@ art-'world') (Figure 16). The last one, 'space', was alternatively
 included into expressions like 'public space', 'open space', and 'space
 of art'.
 
-Figure16
+![](imgs/Figure16.png)
 
-Figure 16 -- Co-occurrence map and concept list for 'art'
+<small>Figure 16 -- Co-occurrence map and concept list for 'art'</small>
 
 Browsing through textual excerpts in more depth, three coherent
 narratives emerged when 'art' co-occured with 'public' and 'open'. The
@@ -5971,9 +6015,9 @@ changing role of communication artefacts.
 |                       | Result of policies    | Intermediary          |
 +-----------------------+-----------------------+-----------------------+
 
-Table 11 -- *Proyecto Cyberela -- Radio Telecentros*. Variations in the
+<small>Table 11 - *Proyecto Cyberela -- Radio Telecentros*. Variations in the
 role of radio, ICT and gender commitment following the advent of digital
-media
+media</small>
 
 Ferrying the radio-makers assemblage into the digital age requires more
 adjutants than before: the World Bank *Infodev* Program, the *Kellogg*
@@ -6219,8 +6263,8 @@ populations.
 |           |           |           |           |           | blur      |
 +-----------+-----------+-----------+-----------+-----------+-----------+
 
-Table 12 -- Summary of the theories of action associated with
-'empowerment'
+<small>Table 12 - Summary of the theories of action associated with
+'empowerment'</small>
 
 This comparison shows that the source of boundaries is a crucial
 element. It is correlated to the theory of action that underpins the
@@ -6624,7 +6668,7 @@ audience into citizenship. Table 13 summarizes the above analyses.
 |                 | network sites   |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 
-Table 13 -- Comparison among EFF, FSF, Telestreet
+<small>Table 13 - Comparison among EFF, FSF, Telestreet</small>
 
 In all the three cases analyzed, the digital community participating in
 the competition is part of a wider global community pursuing
@@ -6670,9 +6714,9 @@ project's submission is the attentive account of how the *Overmundo*
 community has been constituted as the result of a long chain of actions
 mainly embedded in software.
 
-Figure17
+![](imgs/Figure17.png)
 
-Figure 17 -- Visualization of the Overmundo network of mediators
+<small>Figure 17 -- Visualization of the Overmundo network of mediators</small>
 
 Initially, twenty-seven contributors (one in each of the Brazilian
 states) were hired by the designer group to regularly post about
@@ -7131,10 +7175,10 @@ ecumenical definition of 'digital communites'.
   Open Clothes                             Profit              Mainly online                          Yes                          Centralized
   dotSUB                                   Profit              Mainly online                          Yes                          Centralized
 
-Table 14 -- Classification of winning projects according to orientation
+<small>Table 14 - Classification of winning projects according to orientation
 to business, relationship between online and offline interaction, focus
 of interest, centralized/distributed technology used. No correlation
-emerges among these variables
+emerges among these variables</small>
 
 It is by now evident that communitarian relationships cannot be
 conceived in ontological terms, looking for an ideal 'essence' of online
@@ -7767,8 +7811,8 @@ Results are reported in Table 15.
 |             | *           |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 
-Table 15 -- Analysis of the websites of the winning projects according
-to the degree of visibility of the Outside
+<small>Table 15 - Analysis of the websites of the winning projects according
+to the degree of visibility of the Outside</small>
 
 ### 7.3.1 Configuring Users through Regimes of Access and Visibility
 
@@ -7958,8 +8002,8 @@ the two criteria and maps communities accordingly.
 |             | Foundation  |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 
-Table 16 -- Map of communities according to degree of permeability
-entailed by applications (rows) and software (columns)
+<small>Table 16 - Map of communities according to degree of permeability
+entailed by applications (rows) and software (columns)</small>
 
 The last cell in the first row includes cases where the number of
 mediators in the textual account is higher than the number of
@@ -11144,8 +11188,7 @@ Figure 17 -- Visualization of the Overmundo network of mediators
 
 ### Table 3 -- Co-occurrence list for 'online community'
 
-![](media/image1.png){width="6.680555555555555in"
-height="4.666666666666667in"}
+![](imgs/Table03.png)
 
 ### Table 4 -- InfoRapid Search & Replace's results for A = DIGCOM&group&!network (Hypothesis A \< B) 
 
