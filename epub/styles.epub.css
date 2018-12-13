@@ -125,22 +125,22 @@ img {
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #ffa472 solid;
+    border-left: 1px #d5f099 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
-a { color: #ffa472;
+a { color: #d5f099;
     text-decoration: none;
   }
 
-a:hover { color: #ffa472;
+a:hover { color: #d5f099;
       text-decoration: underline;
   }
 
 
 table {
-    border: 1px #ffa472 solid;
+    border: 1px #d5f099 solid;
     border-collapse: collapse;
     width:100%;
     vertical-align: top;
@@ -149,15 +149,15 @@ table {
 }
 
 table th {
-    border-bottom: 1px #ffa472 solid;
+    border-bottom: 1px #d5f099 solid;
     color: #FFF;
-    background: #ffa472;
+    background: #d5f099;
     font-family: 'OpenSans-Semibold';
 }
 
 table th, td {
-    border-left: 1px #ffa472 solid;
-    border-right: 1px #ffa472 solid;
+    border-left: 1px #d5f099 solid;
+    border-right: 1px #d5f099 solid;
 }
 
 th, td {
