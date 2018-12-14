@@ -1165,9 +1165,9 @@ net was at a crossroads, as we are going to discuss in the next chapter.
 
 [^04chapter01_20]: In this regard, Rheingold quotes Sara Kiesler's research on how
     e-mail systems changed hierarchical barriers and standard operating
-    procedures in organizations. See S. Kiesler, **'The Hidden Message
-    in Computer Networks',** *Harvard Business Review* **64.1 (1986):
-    46-58.**
+    procedures in organizations. See S. Kiesler, *'The Hidden Message
+    in Computer Networks',* Harvard Business Review 64.1 (1986):
+    46-58.
 
 [^04chapter01_21]: A. Saxenian, Regional Advantage: Culture and Competition in
     Silicon Valley and Route 128, Cambridge, Mass.: Harvard University
@@ -1427,7 +1427,7 @@ net was at a crossroads, as we are going to discuss in the next chapter.
 
 [^04chapter01_87]: J. Drew, 'From the Gulf War to the Battle of Seattle: Building an
     International Alternative Media Network', in A. Chandler and N.
-    Neumark (eds) *At a Distance. *
+    Neumark (eds) *At a Distance.*
 
 [^04chapter01_88]: Della Porta, D. et al. (2006), 'Searching the Net: An Analysis of
     the Democratic Use of Internet by 266 Social Movement Organizations.

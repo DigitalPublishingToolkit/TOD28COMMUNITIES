@@ -692,6 +692,8 @@ In so doing, it returns a multi-faceted picture of contemporary
 sociability online. The next chapter starts with an analysis of the
 notion of 'digital communities' in the words of their spokespersons.
 
+##
+
 [^06chapter03_1]: Castells, The Rise of The Network Society.
 
 [^06chapter03_2]: Castells, *Internet Galaxy*, p.128.

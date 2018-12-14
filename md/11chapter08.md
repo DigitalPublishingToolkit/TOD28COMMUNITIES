@@ -326,6 +326,8 @@ affirming that 'something happens along the strings' or that 'lines are
 not always tight but loose', the two authors argue for the necessity to
 think of action as a 'chain of encounters'.
 
+##
+
 [^11chapter08_1]: This might not be surprising, if one considers that Howard
     Rheingold was involved in the design of the competition since the
     beginning, and part of the first jury board.

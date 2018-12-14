@@ -494,7 +494,7 @@ traditional advertising finding new stimuli in fans' posts to
 talent-scout activities online, to the spontaneous activity of
 collaborative categorization performed by millions of individuals
 online. However, probably the most interesting example of a business
-model based on UGC comes from \$ 15bn *Facebook.*[^05chapter02_44] [^05chapter02_45] This
+model based on UGC comes from &dollar; 15bn *Facebook.*[^05chapter02_44] [^05chapter02_45] This
 popular social networking site in November 2007 had *Coca-Cola,
 Blockbuster, Verizon, Sony Pictures, Condé Nast*, and seven other global
 brands make large advertising investments on its platform. Furthermore,
@@ -668,81 +668,48 @@ need to first review two theories that try to answer the question about
 what remains of online communities once the techno-libertarian belief in
 an immaterial economy of the free has come to a crossroads.
 
-Box 1 -- The manifesto of the 'No Screw Tube' campaign numbering seven
+Box 1 - The manifesto of the 'No Screw Tube' campaign numbering seven
 good reasons not to upload videos on YouTube-like Web 2.0 platforms. The
 campaign was promoted by Transmission.cc, a global network of citizen
 journalists, video makers, artists, researchers, hackers, and web
 producers who developed online video distribution tools for social
 justice and media democracy
 
-+-----------------------------------------------------------------------+
-| ### Why NOT Just Use YouTube? {#why-not-just-use-youtube}             |
-|                                                                       |
-| ### The 'No Screw Tube' campaign is beginning... {#the-no-screw-tube- |
-| campaign-is-beginning}                                                |
-|                                                                       |
-| **1. Exploitation:**                                                  |
-|                                                                       |
-| ScrewTube exploits your free videomaking to gain ad revenue.          |
-|                                                                       |
-| **2. Surveillance:**                                                  |
-|                                                                       |
-| Posting on YT risks surveillance and IP tracking, both by             |
-| corporations and the state. For example in 2004 Yahoo collaborated    |
-| with Chinese authorities to identify dissident blogger Shi Tao. He is |
-| now serving 10 years in jail. Many sites record your IP address, not  |
-| just corporate projects.                                              |
-|                                                                       |
-| **3. Censorship:**                                                    |
-|                                                                       |
-| Posting on YT opens the door to censorship since they will do         |
-| takedowns at State request or for copyright violations.               |
-|                                                                       |
-| **4. When Sharing isn\'t really sharing:**                            |
-|                                                                       |
-| Sites like YT only allow sharing with other members, or by embedding  |
-| YT videos in your site or blog. There is no re-distribution via p2p   |
-| networks, or availability of high-resolution downloads for            |
-| screenings.                                                           |
-|                                                                       |
-| **5. When Free isn\'t really free:**                                  |
-|                                                                       |
-| Though free to use, the platform is closed -- using YT technology     |
-| entails using YT. With free software platforms, anyone can create     |
-| their own video-sharing site.                                         |
-|                                                                       |
-| **6. When a community isn\'t really a community:**                    |
-|                                                                       |
-| YouTube was sold to Google for \$1.65 billion in Google stock. If it  |
-| can be bought and sold, is it really a community? Editorial and       |
-| software control should be in the hands of the user community.        |
-| Control of ScrewTube sites is organised by the profit motive.         |
-|                                                                       |
-| **7. Intellectual Property:**                                         |
-|                                                                       |
-| Sites like ScrewTube place exploitative terms and conditions on your  |
-| contributions, allowing them to re-sell and remix your work.          |
-|                                                                       |
-| Using existing ethical and pirate technologies, we can do much, much  |
-| better...                                                             |
-|                                                                       |
-| Projects like VisiononTv, Ifiwatch.tv, Engagemedia.org (Australia)    |
-| and numerous Indymedia video spin-offs, coordinated through           |
-| Transmission, are linking up their databases to create decentralised  |
-| search tools. This will greatly increase the profile and              |
-| possibilities for social justice video online.                        |
-|                                                                       |
-| Using open source tools these projects hope that once you start       |
-| watching in this way you won\'t go back! Miro allows subscription to  |
-| different channels of video content; some themed and some the pick of |
-| channel editors. You can even subscribe to YouTube channels and it    |
-| sneakily downloads those videos for you.                              |
-|                                                                       |
-| Independent Media is not stagnant, it\'s mutating. We\'ll start to    |
-| see the fruits of this mutation soon... so stay tuned.                |
-+-----------------------------------------------------------------------+
 
-# 
+
+> ###Why NOT Just Use YouTube? 
+> ###The ‘No Screw Tube’ campaign is beginning…
+> 
+> **1. Exploitation:**
+> ScrewTube exploits your free videomaking to gain ad revenue.
+> 
+> **2. Surveillance:**
+> Posting on YT risks surveillance and IP tracking, both by corporations and the state. For example in 2004 Yahoo collaborated with Chinese authorities to identify dissident blogger Shi Tao. He is now serving 10 years in jail. Many sites record your IP address, not just corporate projects.
+>
+> **3. Censorship:**
+Posting on YT opens the door to censorship since they will do takedowns at State request or for copyright violations.
+>
+> **4. When Sharing isn't really sharing:**
+Sites like YT only allow sharing with other members, or by embedding YT videos in your site or blog. There is no re-distribution via p2p networks, or availability of high-resolution downloads for screenings.
+>
+> **5. When Free isn't really free:**
+Though free to use, the platform is closed – using YT technology entails using YT. With free software platforms, anyone can create their own video-sharing site.
+>
+> **6. When a community isn't really a community:**
+YouTube was sold to Google for &dollar;1.65 billion in Google stock. If it can be bought and sold, is it really a community? Editorial and software control should be in the hands of the user community. Control of ScrewTube sites is organised by the profit motive.
+>
+> **7. Intellectual Property:**
+Sites like ScrewTube place exploitative terms and conditions on your contributions, allowing them to re-sell and remix your work.
+>
+> Using existing ethical and pirate technologies, we can do much, much better…
+Projects like VisiononTv, Ifiwatch.tv, Engagemedia.org (Australia) and numerous Indymedia video spin-offs, coordinated through Transmission, are linking up their databases to create decentralised search tools. This will greatly increase the profile and possibilities for social justice video online.
+>
+> Using open source tools these projects hope that once you start watching in this way you won't go back! Miro allows subscription to different channels of video content; some themed and some the pick of channel editors. You can even subscribe to YouTube channels and it sneakily downloads those videos for you.
+>
+> Independent Media is not stagnant, it's mutating. We'll start to see the fruits of this mutation soon… so stay tuned. 
+
+
+##
 
 [^05chapter02_1]: Lovink and Rossiter, 'Dawn of the Organized Networks'*.*
 
@@ -879,7 +846,7 @@ justice and media democracy
     https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html. For
     a further, condensed definition see P. Graham, 'Web 2.0', 2005,
     http://www.paulgraham.com/web20.html. Paul Graham describes the
-    origins of the term from the title of a series of \$2800-fee
+    origins of the term from the title of a series of &dollar;2800-fee
     conferences oriented to 'throngs of VCs and biz dev guys' organized
     by O'Reilly Media and Medialive International in 2004-5. Graham also
     provides a definition of Web 2.0 as user-oriented 'Ajax' web-based
@@ -1016,8 +983,8 @@ justice and media democracy
     millions of revenue in US and between \$ 200 and 250 millions
     worldwide, while *Google* paid 1,65 billions to take it over in
     2006. Source: Bradshaw and Garrahan (2008). In 2007 *Facebook*'s
-    revenue amounted to \$150m millions, while they are expected to
-    reach \$ 265 millions in 2008. K. Swisher, 'Chatty Zuckerberg Tells
+    revenue amounted to &dollar;150m millions, while they are expected to
+    reach &dollar; 265 millions in 2008. K. Swisher, 'Chatty Zuckerberg Tells
     All About Facebook Finances', *All Things Digital*, 31 January 2008,
     http://kara.allthingsd.com/20080131/chatty-zuckerberg-tells-all-about-facebook-finances/.
 

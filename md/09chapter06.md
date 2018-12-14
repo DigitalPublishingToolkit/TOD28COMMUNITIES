@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-## 6. MEDIATORS UPKEEPING COMMUNITIES
+#6. MEDIATORS UPKEEPING COMMUNITIES
 
 Up to now we have struggled to extract meaning from a vast and
 variegated set of accounts. In order to deal with almost one thousand
@@ -301,22 +301,14 @@ that gender and human rights-focused contents act as mere
 intermediaries. Table 11 summarizes this analysis, stressing the
 changing role of communication artefacts.
 
-+-----------------------+-----------------------+-----------------------+
-|                       | Before the advent of  | With advent of the    |
-|                       | the digital domain    | digital domain        |
-+=======================+=======================+=======================+
-| Radio                 | (Analogue)            | (Internet radio)      |
-|                       |                       |                       |
-|                       | Mediator              | Mediator              |
-+-----------------------+-----------------------+-----------------------+
-| ICT                   | (correspond to        | (Seen as 'skills')    |
-|                       | analogue radio)       |                       |
-|                       |                       | Goal to be reached    |
-+-----------------------+-----------------------+-----------------------+
-| Gender and human      | (Attention)           | (Becomes 'Contents')  |
-| rights commitment     |                       |                       |
-|                       | Result of policies    | Intermediary          |
-+-----------------------+-----------------------+-----------------------+
+| ﻿                                   | Before the advent of the digital domain | With advent of the digital domain |
+|------------------------------------|-----------------------------------------|-----------------------------------|
+| Radio                              | (Analogue)                              | (Internet radio)                  |
+|                                    | Mediator                                | Mediator                          |
+| ICT                                | (Correspond to analogue radio)          | (Seen as ‘skills’)                |
+|                                    |                                         | Goal to be reached                |
+| Gender and human rights commitment | (Attention)                             | (Becomes ‘Contents’)              |
+|                                    | Result of policies                      | Intermediary                      |
 
 <small>Table 11 - *Proyecto Cyberela -- Radio Telecentros*. Variations in the
 role of radio, ICT and gender commitment following the advent of digital
@@ -495,77 +487,14 @@ Summing up the results of the four analyses, there emerge two
 macro-types of digital communities aiming at empowering disadvantaged
 populations.
 
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           | Tonga.On- | Akshaya   | Proyecto  | The World | canal\*   |
-|           | line      |           | Cyberela  | Starts    |           |
-|           |           |           | -- Radio  | with Me   | ACCESSI-B |
-|           |           |           | Tel.      |           | LE        |
-+===========+===========+===========+===========+===========+===========+
-| Source of | Cultural  | Geopoliti | Statistic | Statistic | Social    |
-| bound-ari | heritage  | cal/      | s         |           | discrimin |
-| es        | and       |           |           | (age and, | ation     |
-|           | tradition | administr | (gender)  | partially |           |
-|           | s         | ative     |           | ,         |           |
-|           |           | (local    |           | gender)   |           |
-|           | (Tonga    | communiti |           |           |           |
-|           | people)   | es        |           |           |           |
-|           |           | in        |           |           |           |
-|           |           | Kerala)   |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Role of   | Mediators | ICT-skill | ICT-skill | Pc as     | Mobile    |
-| digital   |           | s         | s         | intermedi | phones    |
-| ICT       | (Alpha    | and data  | are       | ary       | and       |
-|           | Smart     | repositor | goals.    | (may be   | digital   |
-|           | triggers  | y         | Technical | substitut | photos as |
-|           | 'msg and  | as goals. | facilitie | ed).      | intermedi |
-|           | digital   | Wireless  | s         | But       | -aries;   |
-|           | reflectio | net,      | as        | ICT-skill | Internet  |
-|           | ns'       | computers | intermedi | s         | alternati |
-|           | creating  | ,         | aries     | as a      | vely      |
-|           | associati | scanners, |           | competenc | as        |
-|           | ons       | etc. as   |           | e.        | mediator  |
-|           | with      | intermedi |           | WSWM is a | or        |
-|           | dispersed | aries     |           | mediator  | intermedi |
-|           | actants)  |           |           |           | ary       |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Role of   | Music as  | /         | Radio as  | Low-tech  | Broadcast |
-| other     | mediator  |           | mediator  | objects   | media as  |
-| tech-nolo | that      |           |           | (i.e.     | (anti-)   |
-| gies      | translate |           |           | paper&pen | mediators |
-|           | s         |           |           | cil,      |           |
-|           | the       |           |           | local     |           |
-|           | cultural  |           |           | materials |           |
-|           | heritage  |           |           | )         |           |
-|           | into the  |           |           | as        |           |
-|           | digital   |           |           | intermedi |           |
-|           | age       |           |           | aries     |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Medi-ator | Many      | One       | Few human | Many      | Three     |
-| s/        | mediators | mediator, | mediators | mediators | mediators |
-|           | ,         | some      | ,         |           | ,         |
-| inter-med |           | intermedi | some      |           | some      |
-| i-aries   | agency    | -aries.   | non-human |           | intermedi |
-|           | chain     | Very      | intermedi |           | aries     |
-|           | extends   | short     | aries     |           |           |
-|           | in many   | agency    |           |           |           |
-|           | direction | chain     |           |           |           |
-|           | s         |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Profes-si | Journalis | /         | /         | Teachers  | /         |
-| onals     | t         |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Relation- | No        | Clearly   | Fairly    | Only      | Fairly    |
-| ship      | distincti | distinct  | distinct  | during    | distinct: |
-| Address-e | on        |           | after the | course:   | 'disadvan |
-| r/Ad-dres |           | (Service  | advent of | stu-dents | taged     |
-| see       |           | delivery  | digital   | who       | groups'   |
-|           |           | business) | media     | finish it | and       |
-|           |           |           |           | become    | project   |
-|           |           |           |           | facilitat | promoters |
-|           |           |           |           | ors       | do not    |
-|           |           |           |           |           | blur      |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-
+| | Tonga.Online | Akshaya  | Proyecto Cyberela – Radio Tel.| The World Starts with Me | canal*ACCESSI-BLE   | 
+|-----------|--------------|--------------|--------------|-------------|--------------| 
+| Source of boundaries            | Cultural heritage and traditions (Tonga people)                                                             | Geopolitical/administrative (local communities in Kerala)                                          | Statistics (gender)                                          | Statistic (age and, partially, gender)                                                      | Social discrimination                                                     |                                                     |
+| Role of digital ICT              | Mediators (Alpha Smart triggers ‘msg and digital reflections’ creating associations with dispersed actants) | ICT-skills and data repository as goals. Wireless net, computers, scanners, etc. as intermediaries | ICT-skills are goals. Technical facilities as intermediaries | PC as intermediary (may be substituted). But ICT-skills as a competence. WSWM is a mediator | Mobile phones and digital photos as intermedi-aries; Internet alternatively as mediator or intermediary                      
+| Role of other tech-nologies      | Music as mediator that translates the cultural heritage into the digital age                                | /                                                                                                  | Radio as mediator                                            | Low-tech objects (i.e. paper&pencil, local materials) as intermediaries                     | Broadcast media as (anti-) mediators                                      |                                                     |
+| Mediators/intermediaries         | Many mediators, agency chain extends in many directions                                                     | One mediator, some intermedi-aries. Very short agency chain                                        | Few human mediators, some non-human intermediaries           | Many mediators                                                                              | Three mediators, some intermediaries                                      |                                                     |
+| Professionals                    | Journalist                                                                                                  | /                                                                                                  | /                                                            | Teachers                                                                                    | /                                                                         |                                                     |
+| Relationship Addresser/Addressee | No distinction                                                                                              | Clearly distinct (Service delivery business)                                                       | Fairly distinct after the advent of digital media            | Only during course: stu-dents who finish it become facilitators                             | Fairly distinct: ‘disadvantaged groups’ and project promoters do not blur |
 <small>Table 12 - Summary of the theories of action associated with
 'empowerment'</small>
 
@@ -859,117 +788,16 @@ words, the DIY ethics itself acts as a mediator that embeds concepts
 into artefacts in a course of action whose ultimate goal is transforming
 audience into citizenship. Table 13 summarizes the above analyses.
 
-+-----------------+-----------------+-----------------+-----------------+
-|                 | EFF             | FSF             | Telestreet      |
-+=================+=================+=================+=================+
-| Objective       | 'To defend      | 'To achieve sw  | To create       |
-|                 | freedom of      | freedom to      | relational      |
-|                 | expression,     | cooperate for   | networks and    |
-|                 | innovation and  | everyone'       | active          |
-|                 | privacy on the  |                 | citizenship     |
-|                 | electronic      |                 | through an      |
-|                 | frontier'       |                 | integrated use  |
-|                 |                 |                 | of              |
-|                 |                 |                 | communication   |
-|                 |                 |                 | tools           |
-+-----------------+-----------------+-----------------+-----------------+
-| Object of value | Public interest | Computer users  | Citizens right  |
-|                 | in digital      | rights to use,  | to access       |
-|                 | rights on a     | copy, study,    | communication   |
-|                 | global level    | modify and      | channels        |
-|                 |                 | redistribute    |                 |
-|                 |                 | computer        |                 |
-|                 |                 | programs        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Source of       | Freedom in the  | Community and   | Active          |
-| boundaries      | networked world | cooperation     | citizenship     |
-|                 |                 | (software       | (Freedom of     |
-|                 |                 | freedom is a    | expression is a |
-|                 |                 | condition for   | condition for   |
-|                 |                 | this)           | this)           |
-+-----------------+-----------------+-----------------+-----------------+
-| Addresser       | Different       | Richard         | Orfeo TV        |
-|                 | levels of       | Stallman made   | started it, but |
-|                 | participation:  | it start. Then  | everyone can    |
-|                 | EFF staff       | it proliferated | set up a street |
-|                 | (coordinators,  | through users   | TV.             |
-|                 | activists,      | and developers  | Participation   |
-|                 | techies,        | (see mediators) | is open and the |
-|                 | artists, policy |                 | aim is to       |
-|                 | analysts,       |                 | overcome the    |
-|                 | attorneys), EFF |                 | distinction     |
-|                 | members, nl     |                 | between sender  |
-|                 | subscribers,    |                 | and receiver    |
-|                 | users of Action |                 |                 |
-|                 | Center          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Addressee       | 'Those who      | see mediators   | see mediators   |
-|                 | create and      | (none is only   | (none is only   |
-|                 | communicate in  | addressee)      | addressee)      |
-|                 | the electronic  |                 |                 |
-|                 | world', those   |                 |                 |
-|                 | who are         |                 |                 |
-|                 | interested in   |                 |                 |
-|                 | technology      |                 |                 |
-|                 | policy covering |                 |                 |
-|                 | freedom         |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Anti-groups     | United States   | Pressure for    | Two mainstream  |
-|                 | Secret Service  | commercializati | broadcasting    |
-|                 |                 | on.             | networks        |
-|                 |                 |                 |                 |
-|                 |                 | Proprietary     |                 |
-|                 |                 | software        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Additional      | 'Action         | GNU OS *gives*  | Telestreet      |
-| mediators       | alerts',        | computer users  | *induces*       |
-|                 | *encourage*     | the *freedom*   | non-professiona |
-|                 | personal        | to cooperate.   | l               |
-|                 | political       | FSF itself      | people to       |
-|                 | involvement.    | *raises funds*  | experiment.     |
-|                 |                 | for GNU,        |                 |
-|                 | EFF as          | *promotes*      | Users are       |
-|                 | supporter and   | users freedom,  | mediators.      |
-|                 | enabler of      | is trusted      |                 |
-|                 | global digital  | copyright       | Article 21 of   |
-|                 | community.      | *holder*.       | Italian         |
-|                 |                 |                 | Constitution    |
-|                 |                 | Volunteer       | invoked to      |
-|                 |                 | developers from | assert          |
-|                 |                 | around the      | Telestreet      |
-|                 |                 | world. Kernel   | constitutionali |
-|                 |                 | Linux           | ty,             |
-|                 |                 | ('inspired by   | deputies        |
-|                 |                 | the community   | mobilized.      |
-|                 |                 | that we         |                 |
-|                 |                 | built').        | Media when      |
-|                 |                 |                 | combined or     |
-|                 |                 | Users: every    | disassembled:   |
-|                 |                 | software user   | Internet + DIY  |
-|                 |                 | is a mediator.  | TV *stimulates* |
-|                 |                 |                 | creativity,     |
-|                 |                 | Licenses        | *gives chance*  |
-|                 |                 | *guarantee*     | to become       |
-|                 |                 | freedom.        | active,         |
-|                 |                 |                 | *enables*       |
-|                 |                 |                 | people,         |
-|                 |                 |                 | *bridges*       |
-|                 |                 |                 | gender and age  |
-|                 |                 |                 | divide. DIY     |
-|                 |                 |                 | ethics          |
-+-----------------+-----------------+-----------------+-----------------+
-| Inter-mediaries | website, blog   | /               | Media when      |
-|                 | posts,          |                 | taken as single |
-|                 | podcasts,       |                 | channels        |
-|                 | online video    |                 | (satellite Tv,  |
-|                 | projects,       |                 | website)        |
-|                 | newsletter,     |                 |                 |
-|                 | online guides.  |                 |                 |
-|                 |                 |                 |                 |
-|                 | YouTube,        |                 |                 |
-|                 | MySpace, social |                 |                 |
-|                 | network sites   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| ﻿                     | EFF                                                                                                                                                                       | FSF                                                                                                                                                                                                                                                                           | Telestreet                                                                                                                                                                                                                                                                                                                                                  |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Objective            | ‘To defend freedom of expression, innovation and privacy on the electronic frontier’                                                                                      | ‘To achieve sw freedom to cooperate for everyone’                                                                                                                                                                                                                             | To create relational networks and active citizenship through an integrated use of communication tools                                                                                                                                                                                                                                                       |
+| Object of value      | Public interest in digital rights on a global level                                                                                                                       | Computer users rights to use, copy, study, modify and redistribute computer programs                                                                                                                                                                                          | Citizens right to access communication channels                                                                                                                                                                                                                                                                                                             |
+| Source of boundaries | Freedom in the networked world                                                                                                                                            | Community and cooperation (software freedom is a condition for this)                                                                                                                                                                                                          | Active citizenship (Freedom of expression is a condition for this)                                                                                                                                                                                                                                                                                          |
+| Addresser            | Different levels of participation: EFF staff (coordinators, activists, techies, artists, policy analysts, attorneys), EFF members, nl subscribers, users of Action Center | Richard Stallman made it start. Then it proliferated through users and developers (see mediators)                                                                                                                                                                             | Orfeo TV started it, but everyone can set up a street TV. Participation is open and the aim is to overcome the distinction between sender and receiver                                                                                                                                                                                                      |
+| Addressee            | ‘Those who create and communicate in the electronic world’, those who are interested in technology policy covering freedom                                                | see mediators (none is only addressee)                                                                                                                                                                                                                                        | see mediators (none is only addressee)                                                                                                                                                                                                                                                                                                                      |
+| Anti-groups          | United States Secret Service                                                                                                                                              | Pressure for commercialization. Proprietary software                                                                                                                                                                                                                          | Two mainstream broadcasting networks                                                                                                                                                                                                                                                                                                                        |
+| Additional mediators | ‘Action alerts’, encourage personal political involvement. EFF as supporter and enabler of global digital community.                                                      | GNU OS gives computer users the freedom to cooperate. FSF itself raises funds for GNU, promotes users freedom, is trusted copyright holder. Volunteer developers from around the world. Kernel Linux (‘inspired by the community that we built’). Licenses guarantee freedom. | Telestreet induces non-professional people to experiment. Users are mediators. Article 21 of Italian Constitution invoked to assert Telestreet constitutionality, deputies mobilized.Media when combined or disassembled: Internet + DIY TV stimulates creativity, gives chance to become active, enables people, bridges gender and age divide. DIY ethics |
+| Inter-mediaries      | website, blog posts, podcasts, online video projects, newsletter, online guides. YouTube, MySpace, social network sites                                                   | /                                                                                                                                                                                                                                                                             | Media when taken as single channels (satellite Tv, website)                                                                                                                                                                                                                                                                                                 |
 
 <small>Table 13 - Comparison among EFF, FSF, Telestreet</small>
 
@@ -1019,7 +847,7 @@ mainly embedded in software.
 
 ![](imgs/Figure17.png)
 
-<small>Figure 17 -- Visualization of the Overmundo network of mediators</small>
+<small>Figure 17 - Visualization of the Overmundo network of mediators</small>
 
 Initially, twenty-seven contributors (one in each of the Brazilian
 states) were hired by the designer group to regularly post about
@@ -1182,6 +1010,8 @@ fleeting assemblages.[^09chapter06_57] At the same time, I agree that there can 
 other lenses, that make use of different materials. The next chapter
 therefore tries to make sense of techno-social assemblages by addressing
 different types of accounts.
+
+##
 
 [^09chapter06_1]: "Noli me tangere" ("do not touch me") was the Latin transation of
     the words spoken by Jesus to Mary Magdalene when she recognized him

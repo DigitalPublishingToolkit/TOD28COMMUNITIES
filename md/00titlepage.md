@@ -45,7 +45,7 @@ This publication is licensed under the Creative Commons Attribution-NonCommercia
 
 This publication is available through various print on demand services and freely downloadable from http://networkcultures.org/publications
 
-#Contents
+#CONTENTS
 
 Foreword to 2018 edition
 

@@ -500,6 +500,7 @@ the concept 'work' remained frequent over the four years of the Digital
 Communities competition (Figure 11).
 
 ![](imgs/Figure11.png)
+
 <small>Figure 11 - Temporal trend for 'work'</small>
 
 The thematic circle *Work* includes the concepts 'work', 'cultural',
@@ -713,6 +714,8 @@ communities' is dropped -- i.e., when the concept is not 'sown' for
 analysis, narratives enlighten theories of action that account for
 peculiar roles of artefacts as mediators of human relations. In the next
 chapter we shall focus on some of these theories in more depth.
+
+##
 
 [^08chapter05_1]: Given the steps ahead -- and in parallel -- in the performativity
     debate, during the revision for the 2018 edition the author has

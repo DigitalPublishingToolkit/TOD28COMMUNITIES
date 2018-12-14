@@ -400,6 +400,8 @@ exactly the same job and participating in the same tasks of tracing
 social bonds, albeit with different instruments and for different
 professional callings'.[^07chapter04_10]
 
+##
+
 [^07chapter04_1]: Furthermore, *InfoRapid Search and Replace* and a statistical
     application were used to conduct the last analysis reported in this
     chapter, namely the comparison between 'groups' and 'networks'.

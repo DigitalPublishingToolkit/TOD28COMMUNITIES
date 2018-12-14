@@ -23,29 +23,29 @@ Rights: CC BY-NC 4.0
 
 ### Document 1 -- Model of entry form for the participation in the Prix Ars Electronica's Digital Communities competition
 
-  COMMUNITY PROJECT                                       
-  ------------------------------------------------------- ---------------------------------
-  Name of Project:                                        
-  Web Address of the Project:                             
-  Project Details                                         
-                                                          Objectives:
-                                                          Language and Context:
-                                                          Project History:
-                                                          People involved in the project:
-                                                          Lessons learned:
-  Technical Information                                   
-                                                          Technological basis:
-                                                          Solutions:
-                                                          Implementations:
-                                                          Users:
-                                                          Licence:
-  Statement of reasons:                                   
-  Planned use of the prize money:                         
-  Personal Information of Representative of the Project   
-                                                          Name:
-                                                          Address:
-                                                          Organization:
-                                                          Experiences:
+| COMMUNITY PROJECT                                     |
+|-------------------------------------------------------|
+| Name of Project                                       |
+| Web Address of the Project                            |
+| Project Details                                       |
+| -- Objectives                                         |
+| -- Language and Context                               |
+| -- Project History                                    |
+| -- People involved in the project                     |
+| -- Lessons learned                                    |
+| Technical Information                                 |
+| -- Technological basis                                |
+| -- Solutions                                          |
+| -- Implementations                                    |
+| -- Users                                              |
+| -- Licence                                            |
+| Statement of reasons                                  |
+| Planned use of the prize money                        |
+| Personal Information of Representative of the Project |
+| -- Name                                               |
+| -- Address                                            |
+| -- Organization                                       |
+| -- Experiences                                        |
 
 ### Document 2 -- Akshaya submission (http://www.akshaya.net)
 
@@ -1976,2159 +1976,299 @@ Figure 17 -- Visualization of the Overmundo network of mediators
 
 ## Annex C -- List of Tables
 
-### Table 1 -- Resume: from epistemological assumptions to techniques of data collection and analysis
+### Table 1 - Resume: from epistemological assumptions to techniques of data collection and analysis
 
-+-----------------+-----------------+-----------------+-----------------+
-| Epistemological | Choice of the   | Method          |                 |
-| assumptions     | sample          |                 |                 |
-+=================+=================+=================+=================+
-|                 |                 | Technique of    | Technique of    |
-|                 |                 | data collection | data analysis   |
-+-----------------+-----------------+-----------------+-----------------+
-| Performative    | Objects of      | Submissionsexpo | Quali-quantitat |
-| classification  | study are the   | rted            | ive             |
-| of digital      | projects        | from online     | (for N cases)   |
-| communities     | participating   | archive as txt  | and qualitative |
-| (DC): DC        | in Ars          | file with ASCII | (for n cases)   |
-| definition is   | Electronica's   | codification    | analysis of     |
-| the result of   | competition.    |                 | submissions     |
-| clustering      | They are *said* | Navigation of   |                 |
-| together        | and             | DCs' websites   | Profile         |
-| objects *said*  | *acknowledged*  |                 | analysis of     |
-| to be           | as DCs by       |                 | websites        |
-| occurrences of  | different       |                 |                 |
-| the concept.    | social actors:  |                 |                 |
-| Acknowledgement | the projects    |                 |                 |
-| as distributed  | authors + Prix  |                 |                 |
-| enuciative      | Ars             |                 |                 |
-| action          | Electronica's   |                 |                 |
-|                 | International   |                 |                 |
-|                 | Advisory Board  |                 |                 |
-|                 | + independent   |                 |                 |
-|                 | jury            |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Study of        | 1\) Prix Ars    |                 |                 |
-| controversies   | Electronica     |                 |                 |
-|                 | competition     |                 |                 |
-| 1\) Meaning     | as a form of    |                 |                 |
-| emerges from    | controversy,    |                 |                 |
-| comparison      | a situation     |                 |                 |
-| and/or          | where meaning   |                 |                 |
-| polemic         | emerges from    |                 |                 |
-| structures.     | comparison      |                 |                 |
-|                 | between         |                 |                 |
-| 2)              | different       |                 |                 |
-| Controversies   | projects        |                 |                 |
-| and agency are  | struggling to   |                 |                 |
-| made visible    | be defined as   |                 |                 |
-| into accounts   | successful      |                 |                 |
-|                 | DC.             |                 |                 |
-|                 |                 |                 |                 |
-|                 | 2\) Use of      |                 |                 |
-|                 | archived        |                 |                 |
-|                 | submission      |                 |                 |
-|                 | forms as        |                 |                 |
-|                 | accounts:       |                 |                 |
-|                 | meaning         |                 |                 |
-|                 | emerges also    |                 |                 |
-|                 | from distance   |                 |                 |
-|                 | in time         |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| ﻿Epistemological assumptions | Choice of the sample | Technique of data collection | Technique of data analysis |
+| -----------------------------| ----------------------------- | ----------------------------- | ----------------------------- |
+| Performative classification of digital communities (DC): DC definition is the result of clustering together objects said to be occurrences of the concept. Acknowledgement as distributed enuciative action | Objects of study are the projects participating in Ars Electronica’s competition. They are said and acknowledged as DCs by different social actors: the projects authors + Prix Ars Electronica’s International Advisory Board + independent jury | Submissions exported from online archive as txt file with ASCII codification | Quali-quantitative (for N cases) and qualitative (for n cases) analysis of submissions |
+| Study of controversies 1) Meaning emerges from comparison and/or polemic structures. 2) Controversies and agency are made visible into accounts | 1) Prix Ars Electronica competition as a form of controversy, a situation where meaning emerges from comparison between different projects struggling to be defined as successful DC. 2) Use of archived submission forms as accounts: meaning emerges also from distance in time | Navigation of DCs’ websites | Profile analysis of websites | 
 
 ### Table 2 -- Ranked Concept List for 'digital community'
 
-+-----------------+-----------------+-----------------+-----------------+
-| Concept         | Absolute Count  | Relative Count  |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [community](fi | 3446            | 100%            |   --            |
-| le:///C:\Users\ |                 |                 |   --            |
-| PelizzaA\AppDat |                 |                 |                 |
-| a\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\AppData\Ro |                 |                 |                 |
-| aming\Microsoft |                 |                 |                 |
-| \Word\Pubblicaz |                 |                 |                 |
-| ioni\Macintosh% |                 |                 |                 |
-| 20HD:\Users\nis |                 |                 |                 |
-| a\Desktop\Disse |                 |                 |                 |
-| rtation%203.4\C |                 |                 |                 |
-| hap.4-results\m |                 |                 |                 |
-| ateriale\Step1\ |                 |                 |                 |
-| 18.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [development]( | 818             | 23.7%           |   --            |
-| file:///C:\User |                 |                 |   --            |
-| s\PelizzaA\AppD |                 |                 |                 |
-| ata\AppData\Roa |                 |                 |                 |
-| ming\AppData\Ro |                 |                 |                 |
-| aming\AppData\R |                 |                 |                 |
-| oaming\AppData\ |                 |                 |                 |
-| Roaming\Microso |                 |                 |                 |
-| ft\Word\Pubblic |                 |                 |                 |
-| azioni\Macintos |                 |                 |                 |
-| h%20HD:\Users\n |                 |                 |                 |
-| isa\Desktop\Dis |                 |                 |                 |
-| sertation%203.4 |                 |                 |                 |
-| \Chap.4-results |                 |                 |                 |
-| \materiale\Step |                 |                 |                 |
-| 1\40.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [world](file:/ | 627             | 18.1%           |   --            |
-| //C:\Users\Peli |                 |                 |   --            |
-| zzaA\AppData\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\Microsoft\Wor |                 |                 |                 |
-| d\Pubblicazioni |                 |                 |                 |
-| \Macintosh%20HD |                 |                 |                 |
-| :\Users\nisa\De |                 |                 |                 |
-| sktop\Dissertat |                 |                 |                 |
-| ion%203.4\Chap. |                 |                 |                 |
-| 4-results\mater |                 |                 |                 |
-| iale\Step1\24.h |                 |                 |                 |
-| tml)            |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [local](file:/ | 573             | 16.6%           |   --            |
-| //C:\Users\Peli |                 |                 |   --            |
-| zzaA\AppData\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\Microsoft\Wor |                 |                 |                 |
-| d\Pubblicazioni |                 |                 |                 |
-| \Macintosh%20HD |                 |                 |                 |
-| :\Users\nisa\De |                 |                 |                 |
-| sktop\Dissertat |                 |                 |                 |
-| ion%203.4\Chap. |                 |                 |                 |
-| 4-results\mater |                 |                 |                 |
-| iale\Step1\9.ht |                 |                 |                 |
-| ml)             |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [social](file: | 491             | 14.2%           |   --            |
-| ///C:\Users\Pel |                 |                 |   --            |
-| izzaA\AppData\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\Microsoft\Wo |                 |                 |                 |
-| rd\Pubblicazion |                 |                 |                 |
-| i\Macintosh%20H |                 |                 |                 |
-| D:\Users\nisa\D |                 |                 |                 |
-| esktop\Disserta |                 |                 |                 |
-| tion%203.4\Chap |                 |                 |                 |
-| .4-results\mate |                 |                 |                 |
-| riale\Step1\20. |                 |                 |                 |
-| html)           |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [creating](fil | 490             | 14.2%           |   --            |
-| e:///C:\Users\P |                 |                 |   --            |
-| elizzaA\AppData |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\Microsoft\ |                 |                 |                 |
-| Word\Pubblicazi |                 |                 |                 |
-| oni\Macintosh%2 |                 |                 |                 |
-| 0HD:\Users\nisa |                 |                 |                 |
-| \Desktop\Disser |                 |                 |                 |
-| tation%203.4\Ch |                 |                 |                 |
-| ap.4-results\ma |                 |                 |                 |
-| teriale\Step1\3 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [members](file | 466             | 13.5%           |   --            |
-| :///C:\Users\Pe |                 |                 |   --            |
-| lizzaA\AppData\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\Microsoft\W |                 |                 |                 |
-| ord\Pubblicazio |                 |                 |                 |
-| ni\Macintosh%20 |                 |                 |                 |
-| HD:\Users\nisa\ |                 |                 |                 |
-| Desktop\Dissert |                 |                 |                 |
-| ation%203.4\Cha |                 |                 |                 |
-| p.4-results\mat |                 |                 |                 |
-| eriale\Step1\32 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [support](file | 441             | 12.7%           |   --            |
-| :///C:\Users\Pe |                 |                 |   --            |
-| lizzaA\AppData\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\Microsoft\W |                 |                 |                 |
-| ord\Pubblicazio |                 |                 |                 |
-| ni\Macintosh%20 |                 |                 |                 |
-| HD:\Users\nisa\ |                 |                 |                 |
-| Desktop\Dissert |                 |                 |                 |
-| ation%203.4\Cha |                 |                 |                 |
-| p.4-results\mat |                 |                 |                 |
-| eriale\Step1\26 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [digital](file | 436             | 12.6%           |   --            |
-| :///C:\Users\Pe |                 |                 |   --            |
-| lizzaA\AppData\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\Microsoft\W |                 |                 |                 |
-| ord\Pubblicazio |                 |                 |                 |
-| ni\Macintosh%20 |                 |                 |                 |
-| HD:\Users\nisa\ |                 |                 |                 |
-| Desktop\Dissert |                 |                 |                 |
-| ation%203.4\Cha |                 |                 |                 |
-| p.4-results\mat |                 |                 |                 |
-| eriale\Step1\13 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [tool](file:// | 435             | 12.6%           |   --            |
-| /C:\Users\Peliz |                 |                 |   --            |
-| zaA\AppData\App |                 |                 |                 |
-| Data\Roaming\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \Microsoft\Word |                 |                 |                 |
-| \Pubblicazioni\ |                 |                 |                 |
-| Macintosh%20HD: |                 |                 |                 |
-| \Users\nisa\Des |                 |                 |                 |
-| ktop\Dissertati |                 |                 |                 |
-| on%203.4\Chap.4 |                 |                 |                 |
-| -results\materi |                 |                 |                 |
-| ale\Step1\14.ht |                 |                 |                 |
-| ml)             |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [cultural](fil | 370             | 10.7%           |   --            |
-| e:///C:\Users\P |                 |                 |   --            |
-| elizzaA\AppData |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\Microsoft\ |                 |                 |                 |
-| Word\Pubblicazi |                 |                 |                 |
-| oni\Macintosh%2 |                 |                 |                 |
-| 0HD:\Users\nisa |                 |                 |                 |
-| \Desktop\Disser |                 |                 |                 |
-| tation%203.4\Ch |                 |                 |                 |
-| ap.4-results\ma |                 |                 |                 |
-| teriale\Step1\1 |                 |                 |                 |
-| 9.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [training](fil | 333             | 9.6%            |   --            |
-| e:///C:\Users\P |                 |                 |   --            |
-| elizzaA\AppData |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\Microsoft\ |                 |                 |                 |
-| Word\Pubblicazi |                 |                 |                 |
-| oni\Macintosh%2 |                 |                 |                 |
-| 0HD:\Users\nisa |                 |                 |                 |
-| \Desktop\Disser |                 |                 |                 |
-| tation%203.4\Ch |                 |                 |                 |
-| ap.4-results\ma |                 |                 |                 |
-| teriale\Step1\1 |                 |                 |                 |
-| 0.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [sharing](file | 331             | 9.6%            |   --            |
-| :///C:\Users\Pe |                 |                 |   --            |
-| lizzaA\AppData\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\Microsoft\W |                 |                 |                 |
-| ord\Pubblicazio |                 |                 |                 |
-| ni\Macintosh%20 |                 |                 |                 |
-| HD:\Users\nisa\ |                 |                 |                 |
-| Desktop\Dissert |                 |                 |                 |
-| ation%203.4\Cha |                 |                 |                 |
-| p.4-results\mat |                 |                 |                 |
-| eriale\Step1\12 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [resources](fi | 326             | 9.4%            |   --            |
-| le:///C:\Users\ |                 |                 |   --            |
-| PelizzaA\AppDat |                 |                 |                 |
-| a\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\AppData\Ro |                 |                 |                 |
-| aming\Microsoft |                 |                 |                 |
-| \Word\Pubblicaz |                 |                 |                 |
-| ioni\Macintosh% |                 |                 |                 |
-| 20HD:\Users\nis |                 |                 |                 |
-| a\Desktop\Disse |                 |                 |                 |
-| rtation%203.4\C |                 |                 |                 |
-| hap.4-results\m |                 |                 |                 |
-| ateriale\Step1\ |                 |                 |                 |
-| 4.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [rural](file:/ | 288             | 8.3%            |   --            |
-| //C:\Users\Peli |                 |                 |   --            |
-| zzaA\AppData\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\Microsoft\Wor |                 |                 |                 |
-| d\Pubblicazioni |                 |                 |                 |
-| \Macintosh%20HD |                 |                 |                 |
-| :\Users\nisa\De |                 |                 |                 |
-| sktop\Dissertat |                 |                 |                 |
-| ion%203.4\Chap. |                 |                 |                 |
-| 4-results\mater |                 |                 |                 |
-| iale\Step1\7.ht |                 |                 |                 |
-| ml)             |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [collaborative | 283             | 8.2%            |   --            |
-| ](file:///C:\Us |                 |                 |   --            |
-| ers\PelizzaA\Ap |                 |                 |                 |
-| pData\AppData\R |                 |                 |                 |
-| oaming\AppData\ |                 |                 |                 |
-| Roaming\AppData |                 |                 |                 |
-| \Roaming\AppDat |                 |                 |                 |
-| a\Roaming\Micro |                 |                 |                 |
-| soft\Word\Pubbl |                 |                 |                 |
-| icazioni\Macint |                 |                 |                 |
-| osh%20HD:\Users |                 |                 |                 |
-| \nisa\Desktop\D |                 |                 |                 |
-| issertation%203 |                 |                 |                 |
-| .4\Chap.4-resul |                 |                 |                 |
-| ts\materiale\St |                 |                 |                 |
-| ep1\22.html)    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [education](fi | 279             | 8%              |   --            |
-| le:///C:\Users\ |                 |                 |   --            |
-| PelizzaA\AppDat |                 |                 |                 |
-| a\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\AppData\Ro |                 |                 |                 |
-| aming\Microsoft |                 |                 |                 |
-| \Word\Pubblicaz |                 |                 |                 |
-| ioni\Macintosh% |                 |                 |                 |
-| 20HD:\Users\nis |                 |                 |                 |
-| a\Desktop\Disse |                 |                 |                 |
-| rtation%203.4\C |                 |                 |                 |
-| hap.4-results\m |                 |                 |                 |
-| ateriale\Step1\ |                 |                 |                 |
-| 39.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [build](file:/ | 267             | 7.7%            |   --            |
-| //C:\Users\Peli |                 |                 |   --            |
-| zzaA\AppData\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\Microsoft\Wor |                 |                 |                 |
-| d\Pubblicazioni |                 |                 |                 |
-| \Macintosh%20HD |                 |                 |                 |
-| :\Users\nisa\De |                 |                 |                 |
-| sktop\Dissertat |                 |                 |                 |
-| ion%203.4\Chap. |                 |                 |                 |
-| 4-results\mater |                 |                 |                 |
-| iale\Step1\38.h |                 |                 |                 |
-| tml)            |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [help](file:// | 258             | 7.4%            |   --            |
-| /C:\Users\Peliz |                 |                 |   --            |
-| zaA\AppData\App |                 |                 |                 |
-| Data\Roaming\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \Microsoft\Word |                 |                 |                 |
-| \Pubblicazioni\ |                 |                 |                 |
-| Macintosh%20HD: |                 |                 |                 |
-| \Users\nisa\Des |                 |                 |                 |
-| ktop\Dissertati |                 |                 |                 |
-| on%203.4\Chap.4 |                 |                 |                 |
-| -results\materi |                 |                 |                 |
-| ale\Step1\16.ht |                 |                 |                 |
-| ml)             |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [learning](fil | 228             | 6.6%            |   --            |
-| e:///C:\Users\P |                 |                 |   --            |
-| elizzaA\AppData |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\Microsoft\ |                 |                 |                 |
-| Word\Pubblicazi |                 |                 |                 |
-| oni\Macintosh%2 |                 |                 |                 |
-| 0HD:\Users\nisa |                 |                 |                 |
-| \Desktop\Disser |                 |                 |                 |
-| tation%203.4\Ch |                 |                 |                 |
-| ap.4-results\ma |                 |                 |                 |
-| teriale\Step1\3 |                 |                 |                 |
-| 6.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [youth](file:/ | 219             | 6.3%            |   --            |
-| //C:\Users\Peli |                 |                 |   --            |
-| zzaA\AppData\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\Microsoft\Wor |                 |                 |                 |
-| d\Pubblicazioni |                 |                 |                 |
-| \Macintosh%20HD |                 |                 |                 |
-| :\Users\nisa\De |                 |                 |                 |
-| sktop\Dissertat |                 |                 |                 |
-| ion%203.4\Chap. |                 |                 |                 |
-| 4-results\mater |                 |                 |                 |
-| iale\Step1\30.h |                 |                 |                 |
-| tml)            |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [global](file: | 198             | 5.7%            |   --            |
-| ///C:\Users\Pel |                 |                 |   --            |
-| izzaA\AppData\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\Microsoft\Wo |                 |                 |                 |
-| rd\Pubblicazion |                 |                 |                 |
-| i\Macintosh%20H |                 |                 |                 |
-| D:\Users\nisa\D |                 |                 |                 |
-| esktop\Disserta |                 |                 |                 |
-| tion%203.4\Chap |                 |                 |                 |
-| .4-results\mate |                 |                 |                 |
-| riale\Step1\31. |                 |                 |                 |
-| html)           |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [organizations | 189             | 5.4%            |   --            |
-| ](file:///C:\Us |                 |                 |   --            |
-| ers\PelizzaA\Ap |                 |                 |                 |
-| pData\AppData\R |                 |                 |                 |
-| oaming\AppData\ |                 |                 |                 |
-| Roaming\AppData |                 |                 |                 |
-| \Roaming\AppDat |                 |                 |                 |
-| a\Roaming\Micro |                 |                 |                 |
-| soft\Word\Pubbl |                 |                 |                 |
-| icazioni\Macint |                 |                 |                 |
-| osh%20HD:\Users |                 |                 |                 |
-| \nisa\Desktop\D |                 |                 |                 |
-| issertation%203 |                 |                 |                 |
-| .4\Chap.4-resul |                 |                 |                 |
-| ts\materiale\St |                 |                 |                 |
-| ep1\25.html)    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [groups](file: | 183             | 5.3%            |   --            |
-| ///C:\Users\Pel |                 |                 |   --            |
-| izzaA\AppData\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\Microsoft\Wo |                 |                 |                 |
-| rd\Pubblicazion |                 |                 |                 |
-| i\Macintosh%20H |                 |                 |                 |
-| D:\Users\nisa\D |                 |                 |                 |
-| esktop\Disserta |                 |                 |                 |
-| tion%203.4\Chap |                 |                 |                 |
-| .4-results\mate |                 |                 |                 |
-| riale\Step1\6.h |                 |                 |                 |
-| tml)            |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [international | 163             | 4.7%            |   --            |
-| ](file:///C:\Us |                 |                 |   --            |
-| ers\PelizzaA\Ap |                 |                 |                 |
-| pData\AppData\R |                 |                 |                 |
-| oaming\AppData\ |                 |                 |                 |
-| Roaming\AppData |                 |                 |                 |
-| \Roaming\AppDat |                 |                 |                 |
-| a\Roaming\Micro |                 |                 |                 |
-| soft\Word\Pubbl |                 |                 |                 |
-| icazioni\Macint |                 |                 |                 |
-| osh%20HD:\Users |                 |                 |                 |
-| \nisa\Desktop\D |                 |                 |                 |
-| issertation%203 |                 |                 |                 |
-| .4\Chap.4-resul |                 |                 |                 |
-| ts\materiale\St |                 |                 |                 |
-| ep1\2.html)     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [include](file | 161             | 4.6%            |   --            |
-| :///C:\Users\Pe |                 |                 |   --            |
-| lizzaA\AppData\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\Microsoft\W |                 |                 |                 |
-| ord\Pubblicazio |                 |                 |                 |
-| ni\Macintosh%20 |                 |                 |                 |
-| HD:\Users\nisa\ |                 |                 |                 |
-| Desktop\Dissert |                 |                 |                 |
-| ation%203.4\Cha |                 |                 |                 |
-| p.4-results\mat |                 |                 |                 |
-| eriale\Step1\8. |                 |                 |                 |
-| html)           |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [interest](fil | 160             | 4.6%            |   --            |
-| e:///C:\Users\P |                 |                 |   --            |
-| elizzaA\AppData |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\Microsoft\ |                 |                 |                 |
-| Word\Pubblicazi |                 |                 |                 |
-| oni\Macintosh%2 |                 |                 |                 |
-| 0HD:\Users\nisa |                 |                 |                 |
-| \Desktop\Disser |                 |                 |                 |
-| tation%203.4\Ch |                 |                 |                 |
-| ap.4-results\ma |                 |                 |                 |
-| teriale\Step1\4 |                 |                 |                 |
-| 1.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [model](file:/ | 159             | 4.6%            |   --            |
-| //C:\Users\Peli |                 |                 |   --            |
-| zzaA\AppData\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\Microsoft\Wor |                 |                 |                 |
-| d\Pubblicazioni |                 |                 |                 |
-| \Macintosh%20HD |                 |                 |                 |
-| :\Users\nisa\De |                 |                 |                 |
-| sktop\Dissertat |                 |                 |                 |
-| ion%203.4\Chap. |                 |                 |                 |
-| 4-results\mater |                 |                 |                 |
-| iale\Step1\34.h |                 |                 |                 |
-| tml)            |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [environment]( | 157             | 4.5%            |   --            |
-| file:///C:\User |                 |                 |   --            |
-| s\PelizzaA\AppD |                 |                 |                 |
-| ata\AppData\Roa |                 |                 |                 |
-| ming\AppData\Ro |                 |                 |                 |
-| aming\AppData\R |                 |                 |                 |
-| oaming\AppData\ |                 |                 |                 |
-| Roaming\Microso |                 |                 |                 |
-| ft\Word\Pubblic |                 |                 |                 |
-| azioni\Macintos |                 |                 |                 |
-| h%20HD:\Users\n |                 |                 |                 |
-| isa\Desktop\Dis |                 |                 |                 |
-| sertation%203.4 |                 |                 |                 |
-| \Chap.4-results |                 |                 |                 |
-| \materiale\Step |                 |                 |                 |
-| 1\21.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [real](file:// | 152             | 4.4%            |   --            |
-| /C:\Users\Peliz |                 |                 |   --            |
-| zaA\AppData\App |                 |                 |                 |
-| Data\Roaming\Ap |                 |                 |                 |
-| pData\Roaming\A |                 |                 |                 |
-| ppData\Roaming\ |                 |                 |                 |
-| AppData\Roaming |                 |                 |                 |
-| \Microsoft\Word |                 |                 |                 |
-| \Pubblicazioni\ |                 |                 |                 |
-| Macintosh%20HD: |                 |                 |                 |
-| \Users\nisa\Des |                 |                 |                 |
-| ktop\Dissertati |                 |                 |                 |
-| on%203.4\Chap.4 |                 |                 |                 |
-| -results\materi |                 |                 |                 |
-| ale\Step1\1.htm |                 |                 |                 |
-| l)              |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [networks](fil | 149             | 4.3%            |   --            |
-| e:///C:\Users\P |                 |                 |   --            |
-| elizzaA\AppData |                 |                 |                 |
-| \AppData\Roamin |                 |                 |                 |
-| g\AppData\Roami |                 |                 |                 |
-| ng\AppData\Roam |                 |                 |                 |
-| ing\AppData\Roa |                 |                 |                 |
-| ming\Microsoft\ |                 |                 |                 |
-| Word\Pubblicazi |                 |                 |                 |
-| oni\Macintosh%2 |                 |                 |                 |
-| 0HD:\Users\nisa |                 |                 |                 |
-| \Desktop\Disser |                 |                 |                 |
-| tation%203.4\Ch |                 |                 |                 |
-| ap.4-results\ma |                 |                 |                 |
-| teriale\Step1\2 |                 |                 |                 |
-| 7.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| Concept       | Absolute Count | Relative Count |
+|---------------|----------------|----------------|
+| community     | 3446           | 100%           |
+| development   | 818            | 23.70%         |
+| world         | 627            | 18.10%         |
+| local         | 573            | 16.60%         |
+| social        | 491            | 14.20%         |
+| creating      | 490            | 14.20%         |
+| members       | 466            | 13.50%         |
+| support       | 441            | 12.70%         |
+| digital       | 436            | 12.60%         |
+| tool          | 435            | 12.60%         |
+| cultural      | 370            | 10.70%         |
+| training      | 333            | 9.60%          |
+| sharing       | 331            | 9.60%          |
+| resources     | 326            | 9.40%          |
+| rural         | 288            | 8.30%          |
+| collaborative | 283            | 8.20%          |
+| education     | 279            | 8%             |
+| build         | 267            | 7.70%          |
+| help          | 258            | 7.40%          |
+| learning      | 228            | 6.60%          |
+| youth         | 219            | 6.30%          |
+| global        | 198            | 5.70%          |
+| organizations | 189            | 5.40%          |
+| groups        | 183            | 5.30%          |
+| international | 163            | 4.70%          |
+| include       | 161            | 4.60%          |
+| interest      | 160            | 4.60%          |
+| model         | 159            | 4.60%          |
+| environment   | 157            | 4.50%          |
+| real          | 152            | 4.40%          |
+| networks      | 149            | 4.30%          |
 
-### Table 3 -- Co-occurrence list for 'online community'
+### Table 3 - Co-occurrence list for 'online community'
 
 ![](imgs/Table03.png)
 
-### Table 4 -- InfoRapid Search & Replace's results for A = DIGCOM&group&!network (Hypothesis A \< B) 
+### Table 4 - InfoRapid Search & Replace's results for A = DIGCOM&group&!network (Hypothesis A \< B) 
 
-+-----------------+-----------------+-----------------+-----------------+
-| Searched for    | DIGCOM&group&!n |                 |                 |
-|                 | etwork          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Files        | \*.txt          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Directories  | C:\\Documents   |                 |                 |
-| +               | and             |                 |                 |
-|                 | Settings\\Anna\ |                 |                 |
-|                 | \Desktop\\Disse |                 |                 |
-|                 | rtation         |                 |                 |
-|                 | 3.3\\dati txt   |                 |                 |
-|                 | TOTALE          |                 |                 |
-|                 | 920\\English    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Search Options  | Pattern         |                 |                 |
-|                 | matching        |                 |                 |
-|                 |                 |                 |                 |
-|                 | Match whole     |                 |                 |
-|                 | words           |                 |                 |
-|                 |                 |                 |                 |
-|                 | Use internal    |                 |                 |
-|                 | converters      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Matches found   | 401             | Files found /   | 62 / 742        |
-|                 |                 | total           |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| Searched for     | DIGCOM&group&!network                                                               |                     |          |
+|------------------|-------------------------------------------------------------------------------------|---------------------|----------|
+| In Files         | *.txt                                                                               |                     |          |
+| In Directories + | C:\Documents and Settings\Anna\Desktop\Dissertation 3.3\dati txt TOTALE 920\English |                     |          |
+| Search Options   | Pattern matching Match whole words Use internal converters                          |                     |          |
+| Matches found    | 401                                                                                 | Files found / total | 62 / 742 |
 
-### Table 5 -- InfoRapid Search & Replace's results for B= DIGCOM&network&!group (Hypothesis A \< B) 
+### Table 5 - InfoRapid Search & Replace's results for B= DIGCOM&network&!group (Hypothesis A \< B) 
 
-+-----------------+-----------------+-----------------+-----------------+
-| Searched for    | DIGCOM&network& |                 |                 |
-|                 | !group          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Files        | \*.txt          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Directories  | C:\\Documents   |                 |                 |
-| +               | and             |                 |                 |
-|                 | Settings\\Anna\ |                 |                 |
-|                 | \Desktop\\Disse |                 |                 |
-|                 | rtation         |                 |                 |
-|                 | 3.3\\dati txt   |                 |                 |
-|                 | TOTALE          |                 |                 |
-|                 | 920\\English    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Search Options  | Pattern         |                 |                 |
-|                 | matching        |                 |                 |
-|                 |                 |                 |                 |
-|                 | Match whole     |                 |                 |
-|                 | words           |                 |                 |
-|                 |                 |                 |                 |
-|                 | Use internal    |                 |                 |
-|                 | converters      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Matches found   | 208             | Files found /   | 33 / 742        |
-|                 |                 | total           |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| Searched for     | DIGCOM&network&!group                                                               |                     |          |
+|------------------|-------------------------------------------------------------------------------------|---------------------|----------|
+| In Files         | *.txt                                                                               |                     |          |
+| In Directories + | C:\Documents and Settings\Anna\Desktop\Dissertation 3.3\dati txt TOTALE 920\English |                     |          |
+| Search Options   | Pattern matching Match whole words Use internal converters                          |                     |          |
+| Matches found    | 208                                                                                 | Files found / total | 33 / 742 |
 
-### Table 6 -- InfoRapid Search & Replace's results for C = group&network (Hypothesis C = 0) 
+### Table 6 - InfoRapid Search & Replace's results for C = group&network (Hypothesis C = 0) 
 
-+-----------------+-----------------+-----------------+-----------------+
-| Searched for    | group&network   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Files        | \*.txt          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Directories  | C:\\Documents   |                 |                 |
-| +               | and             |                 |                 |
-|                 | Settings\\Anna\ |                 |                 |
-|                 | \Desktop\\Disse |                 |                 |
-|                 | rtation         |                 |                 |
-|                 | 3.3\\dati txt   |                 |                 |
-|                 | TOTALE          |                 |                 |
-|                 | 920\\English    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Search Options  | Pattern         |                 |                 |
-|                 | matching        |                 |                 |
-|                 |                 |                 |                 |
-|                 | Match whole     |                 |                 |
-|                 | words           |                 |                 |
-|                 |                 |                 |                 |
-|                 | Use internal    |                 |                 |
-|                 | converters      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Matches found   | 3117            | Files found /   | 301 / 742       |
-|                 |                 | total           |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| Searched for     | group&network                                                                       |                     |           |
+|------------------|-------------------------------------------------------------------------------------|---------------------|-----------|
+| In Files         | *.txt                                                                               |                     |           |
+| In Directories + | C:\Documents and Settings\Anna\Desktop\Dissertation 3.3\dati txt TOTALE 920\English |                     |           |
+| Search Options   | Pattern matching Match whole words Use internal converters                          |                     |           |
+| Matches found    | 3117                                                                                | Files found / total | 301 / 742 |
 
-### Table 7 -- InfoRapid Search & Replace's results for C = group&network&DIGCOM (Hypothesis D = 0) 
+### Table 7 - InfoRapid Search & Replace's results for C = group&network&DIGCOM (Hypothesis D = 0) 
 
-+-----------------+-----------------+-----------------+-----------------+
-| Searched for    | group&network&D |                 |                 |
-|                 | IGCOM           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Files        | \*.txt          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| In Directories  | C:\\Documents   |                 |                 |
-| +               | and             |                 |                 |
-|                 | Settings\\Anna\ |                 |                 |
-|                 | \Desktop\\Disse |                 |                 |
-|                 | rtation         |                 |                 |
-|                 | 3.3\\dati txt   |                 |                 |
-|                 | TOTALE          |                 |                 |
-|                 | 920\\English    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Search Options  | Pattern         |                 |                 |
-|                 | matching        |                 |                 |
-|                 |                 |                 |                 |
-|                 | Match whole     |                 |                 |
-|                 | words           |                 |                 |
-|                 |                 |                 |                 |
-|                 | Use internal    |                 |                 |
-|                 | converters      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Matches found   | 2144            | Files found /   | 157 / 742       |
-|                 |                 | total           |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| Searched for     | group&network&DIGCOM                                                                |                     |           |
+|------------------|-------------------------------------------------------------------------------------|---------------------|-----------|
+| In Files         | *.txt                                                                               |                     |           |
+| In Directories + | C:\Documents and Settings\Anna\Desktop\Dissertation 3.3\dati txt TOTALE 920\English |                     |           |
+| Search Options   | Pattern matching Match whole words Use internal converters                          |                     |           |
+| Matches found    | 2144                                                                                | Files found / total | 157 / 742 |
 
-### Table 8 -- Leximancer settings for Task 2
+### Table 8 - Leximancer settings for Task 2
 
-+-----------------+-----------------+-----------------+-----------------+
-| Leximancer      |                 |                 |                 |
-| settings        |                 |                 |                 |
-+=================+=================+=================+=================+
-| Setting         | Description     | Value           | Explanation     |
-+-----------------+-----------------+-----------------+-----------------+
-| Pre-processing  |                 |                 |                 |
-| Phase           |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Stop-word       | Remove words in | yes             |                 |
-| removal         | the predefined  |                 |                 |
-| (yes/no)        | Stop List from  |                 |                 |
-|                 | the data        |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Edit stop-word  | It allows to    | no additional   |                 |
-| list            | check the words | changes in the  |                 |
-|                 | that were       | stop-word list  |                 |
-|                 | counted as      |                 |                 |
-|                 | stop-words and  |                 |                 |
-|                 | remove them     |                 |                 |
-|                 | from the Stop   |                 |                 |
-|                 | List            |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Make folder     | This parameter  | make folder     | Since the task  |
-| tags (do        | is very         | tags (folders   | is about        |
-| nothing/make    | important when  | named as year   | comparing the   |
-| folder          | comparing       | of submission   | textual         |
-| tags/make       | different       | from 2004 to    | documents by    |
-| folder and      | documents       | 2007)           | the year of     |
-| filename        |                 |                 | submission,     |
-|                 | based on their  |                 | this selection  |
-| tags)           | conceptual      |                 | allows the      |
-|                 | content. It     |                 | generation of   |
-|                 | causes each     |                 | year-related    |
-|                 | part of the     |                 | tags that will  |
-|                 | folder path to  |                 | appear in the   |
-|                 | a file, and     |                 | map             |
-|                 | optionally the  |                 |                 |
-|                 | filename        |                 |                 |
-|                 | itself, to be   |                 |                 |
-|                 | inserted as a   |                 |                 |
-|                 | tag on each     |                 |                 |
-|                 | sentence in the |                 |                 |
-|                 | file. These     |                 |                 |
-|                 | tags will be    |                 |                 |
-|                 | included as     |                 |                 |
-|                 | concepts in the |                 |                 |
-|                 | map. Thus,      |                 |                 |
-|                 | inspecting the  |                 |                 |
-|                 | links formed    |                 |                 |
-|                 | with the other  |                 |                 |
-|                 | concepts can    |                 |                 |
-|                 | allow the       |                 |                 |
-|                 | comparison of   |                 |                 |
-|                 | the content of  |                 |                 |
-|                 | the various     |                 |                 |
-|                 | folders         |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Automatic       |                 |                 |                 |
-| Concept         |                 |                 |                 |
-| Identification  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Automatically   | Enable/disable  | yes             | This selection  |
-| Identify        | the automatic   |                 | enables the     |
-| Concepts        | generation of   |                 | automatic       |
-| (yes/no)        | concepts. By    |                 | generation of   |
-|                 | disabling this  |                 | concepts on the |
-|                 | option, only    |                 | basis of        |
-|                 | concepts        |                 | frequency. This |
-|                 | defined by the  |                 | setting allows  |
-|                 | researcher will |                 | the researcher  |
-|                 | be shown on     |                 | not to set any  |
-|                 |                 |                 | pre-defined     |
-|                 | the map         |                 | concept in      |
-|                 |                 |                 | advance         |
-+-----------------+-----------------+-----------------+-----------------+
-| Total concept   | The number of   | automatic       |                 |
-| number          | automatically   |                 |                 |
-| (automatic/1-10 | selected        |                 |                 |
-| 00)             | concepts to be  |                 |                 |
-|                 | included in the |                 |                 |
-|                 | map             |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Number of names | Of the number   | automatic       | 'Automatic'     |
-| (automatic/1-10 | of concepts     |                 | allows a        |
-| 00)             | chosen, what is |                 | natural mixture |
-|                 | the minimum     |                 | by not forcing  |
-|                 | number of       |                 | names into the  |
-|                 |                 |                 | list            |
-|                 | concepts that   |                 |                 |
-|                 | should be       |                 |                 |
-|                 | forced to be    |                 |                 |
-|                 | names           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Concept Editing |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| TAB Auto        | It allows to    | \- Merge all    |                 |
-| Concepts        | delete, merge   | plurals and     |                 |
-|                 | and edit        | derived         |                 |
-|                 | automatically   | morphological   |                 |
-|                 | extracted       | forms           |                 |
-|                 | concepts        |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| TAB Auto Tags   | It allows to    | year-related    |                 |
-|                 | delete, merge   | tags            |                 |
-|                 | and edit folder |                 |                 |
-|                 | tags            |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| TAB User        | It allows to    | none            | I do not set    |
-| Defined         | create, delete, |                 | concepts in     |
-| Concepts        | merge and edit  |                 | advance         |
-|                 | manually        |                 |                 |
-|                 | defined         |                 |                 |
-|                 | concepts        |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| TAB User        | It allows to    | none            |                 |
-| defined tags    | delete, merge   |                 |                 |
-|                 | and edit user   |                 |                 |
-|                 | defined tags    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Thesaurus       |                 |                 |                 |
-| Learning        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Learn Concept   | Turning off the | yes             | Vast data se:   |
-| Thesaurus       | thesaurus       |                 | need not only   |
-| (yes/no)        | learning will   |                 | for simple      |
-|                 | prevent         |                 | keyword search, |
-|                 | Leximancer from |                 | but also        |
-|                 | adding          |                 | weighted        |
-|                 | additional      |                 | accumulation of |
-|                 | items to the    |                 | evidence        |
-|                 | concept         |                 |                 |
-|                 | definitions     |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Learning        | This setting    | 14 (normal)     |                 |
-| Threshold       | allows to       |                 |                 |
-| (1-21)          | control the     |                 |                 |
-|                 | generality of   |                 |                 |
-|                 | each learned    |                 |                 |
-|                 | concept.        |                 |                 |
-|                 | Increasing the  |                 |                 |
-|                 | level will      |                 |                 |
-|                 | increase the    |                 |                 |
-|                 | fuzziness of    |                 |                 |
-|                 | each concept    |                 |                 |
-|                 | definition by   |                 |                 |
-|                 | increasing the  |                 |                 |
-|                 | number of words |                 |                 |
-|                 | that will be    |                 |                 |
-|                 | included in     |                 |                 |
-|                 | each concept    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Sentences per   | This option     | 3               | value for most  |
-| Context Block   | allows to       |                 | circumstances   |
-| (1-5)           | specify the     |                 |                 |
-|                 | sentences       |                 |                 |
-|                 |                 |                 |                 |
-|                 | that appear in  |                 |                 |
-|                 | each learning   |                 |                 |
-|                 | block           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Break at        | This setting is | yes             |                 |
-| paragraph       | to prevent      |                 |                 |
-| (ignore/break   | context blocks  |                 |                 |
-| at paragraph)   | from crossing   |                 |                 |
-|                 | paragraph       |                 |                 |
-|                 | boundaries      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Learn Tag       | Turning it      | no              |                 |
-| Classes         |                 |                 |                 |
-| (yes/no)        | on will treat   |                 |                 |
-|                 | Tag classes as  |                 |                 |
-|                 | normal          |                 |                 |
-|                 | concepts,       |                 |                 |
-|                 | learning a      |                 |                 |
-|                 | thesaurus       |                 |                 |
-|                 |                 |                 |                 |
-|                 | definition for  |                 |                 |
-|                 | each            |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Concept         |                 |                 |                 |
-| Profiling       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Number to       | It indicates    | 0 (feature      |                 |
-| discover (0     | how many extra  | disabled)       |                 |
-| -1000)          | concepts should |                 |                 |
-|                 | be discovered   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Themed          | It selects how  |                 |                 |
-| discovery       | the discovered  |                 |                 |
-| (Concepts in    | concepts should |                 |                 |
-| ALL/ ANY/ EACH) | be related to   |                 |                 |
-|                 | the pre-defined |                 |                 |
-|                 |                 |                 |                 |
-|                 | concept set     |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Classification  |                 |                 |                 |
-| and Indexing    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Entities        | Entities are    | Concepts        |                 |
-|                 | the concepts    |                 |                 |
-|                 | that are        | Tag classes     |                 |
-|                 | actually shown  |                 |                 |
-|                 | on the          |                 |                 |
-|                 | conceptual map, |                 |                 |
-|                 | and represent   |                 |                 |
-|                 | the top-level   |                 |                 |
-|                 | of              |                 |                 |
-|                 | classification  |                 |                 |
-|                 | of the text     |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Properties      | Properties, in  |                 |                 |
-|                 | contrast to     |                 |                 |
-|                 | entities, are   |                 |                 |
-|                 | concepts that   |                 |                 |
-|                 | are checked for |                 |                 |
-|                 | co-occurrence   |                 |                 |
-|                 | with the        |                 |                 |
-|                 | entities, but   |                 |                 |
-|                 | are not         |                 |                 |
-|                 | displayed on    |                 |                 |
-|                 | the cluster map |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Kill classes    | Kill classes    |                 |                 |
-|                 | are concepts    |                 |                 |
-|                 | that if found   |                 |                 |
-|                 | in a classified |                 |                 |
-|                 | block of text,  |                 |                 |
-|                 | cause all other |                 |                 |
-|                 | classifications |                 |                 |
-|                 | of that block   |                 |                 |
-|                 | to be           |                 |                 |
-|                 | suppressed      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Required        | Required        |                 |                 |
-| classes         | classes are     |                 |                 |
-|                 | classifications |                 |                 |
-|                 | that must be    |                 |                 |
-|                 | found in blocks |                 |                 |
-|                 | of text, or     |                 |                 |
-|                 | else the blocks |                 |                 |
-|                 | are ignored     |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Classification  |                 |                 |                 |
-| Settings        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Sentences per   | Specify how     | 3 (default)     |                 |
-| context block   | many sentences  |                 |                 |
-| (1 -- 100)      | per tagged text |                 |                 |
-|                 | block           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Break at        | Prevent tagged  | yes             |                 |
-| paragraph       | context blocks  |                 |                 |
-| (yes/no)        | from crossing   |                 |                 |
-|                 | paragraph       |                 |                 |
-|                 | boundaries      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Word            | This threshold  | 2.4 (default)   |                 |
-| Classification  | specifies how   |                 |                 |
-| Threshold       | much cumulative |                 |                 |
-| (0.1-4.9)       | evidence *per   |                 |                 |
-|                 | sentence* is    |                 |                 |
-|                 | needed for a    |                 |                 |
-|                 | classification  |                 |                 |
-|                 | to be assigned  |                 |                 |
-|                 | to a context    |                 |                 |
-|                 | block           |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Name            | This threshold  | 4.5 (default)   |                 |
-| Classification  | specifies the   |                 |                 |
-| Threshold       | minimum         |                 |                 |
-| (2.6-5)         | strength of the |                 |                 |
-|                 | *maximally      |                 |                 |
-|                 | weighted* piece |                 |                 |
-|                 | of evidence to  |                 |                 |
-|                 | trigger         |                 |                 |
-|                 | classification  |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Blocks per      | A bucket        | 1               |                 |
-| Bucket (1-100)  | contains one or |                 |                 |
-|                 | more            |                 |                 |
-|                 | consecutive     |                 |                 |
-|                 | context blocks. |                 |                 |
-|                 | If the sum of   |                 |                 |
-|                 | the evidence of |                 |                 |
-|                 | a particular    |                 |                 |
-|                 | concept within  |                 |                 |
-|                 | the bucket is   |                 |                 |
-|                 | below a         |                 |                 |
-|                 | threshold, the  |                 |                 |
-|                 | specific        |                 |                 |
-|                 | concept tag     |                 |                 |
-|                 |                 |                 |                 |
-|                 | is removed from |                 |                 |
-|                 | all the         |                 |                 |
-|                 | sentences in    |                 |                 |
-|                 | the bucket      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Mapping and     |                 |                 |                 |
-| Statistic       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Conceptual Map  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Map Type        | The Gaussian    | Linear          |                 |
-| (Linear/Gaussia | map has a more  |                 |                 |
-| n)              | circular        |                 |                 |
-|                 | symmetry and    |                 |                 |
-|                 | emphasises the  |                 |                 |
-|                 | similarity      |                 |                 |
-|                 | between the     |                 |                 |
-|                 | conceptual      |                 |                 |
-|                 | context in      |                 |                 |
-|                 | which the words |                 |                 |
-|                 | appear. The     |                 |                 |
-|                 | linear map is   |                 |                 |
-|                 | more spread     |                 |                 |
-|                 | out,            |                 |                 |
-|                 | emphasising the |                 |                 |
-|                 | co-occurrence   |                 |                 |
-|                 | between items   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Concept         |                 |                 |                 |
-| Statistics      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Attribute       | It allows to    | 'art', 'city',  |                 |
-| Variables       | set attribute   | 'government',   |                 |
-|                 | variables from  | 'group',        |                 |
-|                 | the Concept     | 'local',        |                 |
-|                 | List            | 'mobile',       |                 |
-|                 |                 | 'network',      |                 |
-|                 |                 | 'open',         |                 |
-|                 |                 | 'political',    |                 |
-|                 |                 | 'public', 'web' |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Category        | It allows to    | TG\_2004\_TG    |                 |
-| Variables       | set category    |                 |                 |
-|                 | variables from  | TG\_2005\_TG    |                 |
-|                 | the Concept     |                 |                 |
-|                 | List            | TG\_2006\_TG    |                 |
-|                 |                 |                 |                 |
-|                 |                 | TG\_2007\_TG    |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| Leximancer settings                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Setting                                                                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                     | Value                                                                                                    | Explanation                                                                                                                                                              |
+| Pre-processing Phase                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Stop-word removal (yes/no)                                                   | Remove words in the predefined Stop List from the data                                                                                                                                                                                                                                                                                                                                                                          | yes                                                                                                      |                                                                                                                                                                          |
+| Edit stop-word list                                                          | It allows to check the words that were counted as stop-words and remove them from the Stop List                                                                                                                                                                                                                                                                                                                                 | no additional changes in the stop-word list                                                              |                                                                                                                                                                          |
+| Make folder tags (do nothing/make folder tags/make folder and filename tags) | This parameter is very important when comparing different documents based on their conceptual content. It causes each part of the folder path to a file, and optionally the filename itself, to be inserted as a tag on each sentence in the file. These tags will be included as concepts in the map. Thus, inspecting the links formed with the other concepts can allow the comparison of the content of the various folders | make folder tags (folders named as year of submission from 2004 to 2007)                                 | Since the task is about comparing the textual documents by the year of submission, this selection allows the generation of year-related tags that will appear in the map |
+|                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Automatic Concept Identification                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Automatically Identify Concepts (yes/no)                                     | Enable/disable the automatic generation of concepts. By disabling this option, only concepts defined by the researcher will be shown on the map                                                                                                                                                                                                                                                                                 | yes                                                                                                      | This selection enables the automatic generation of concepts on the basis of frequency. This setting allows the researcher not to set any pre-defined concept in advance  |
+| Total concept number (automatic/1-1000)                                      | The number of automatically selected concepts to be included in the map                                                                                                                                                                                                                                                                                                                                                         | automatic                                                                                                |                                                                                                                                                                          |
+| Number of names (automatic/1-1000)                                           | Of the number of concepts chosen, what is the minimum number of concepts that should be forced to be names                                                                                                                                                                                                                                                                                                                      | automatic                                                                                                | ‘Automatic’ allows a natural mixture by not forcing names into the list                                                                                                  |
+|                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Concept Editing                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| TAB Auto Concepts                                                            | It allows to delete, merge and edit automatically extracted concepts                                                                                                                                                                                                                                                                                                                                                            | - Merge all plurals and derived morphological forms                                                      |                                                                                                                                                                          |
+| TAB Auto Tags                                                                | It allows to delete, merge and edit folder tags                                                                                                                                                                                                                                                                                                                                                                                 | year-related tags                                                                                        |                                                                                                                                                                          |
+| TAB User Defined Concepts                                                    | It allows to create, delete, merge and edit manually defined concepts                                                                                                                                                                                                                                                                                                                                                           | none                                                                                                     | I do not set concepts in advance                                                                                                                                         |
+| TAB User defined tags                                                        | It allows to delete, merge and edit user defined tags                                                                                                                                                                                                                                                                                                                                                                           | none                                                                                                     |                                                                                                                                                                          |
+|                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Thesaurus Learning                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Learn Concept Thesaurus (yes/no)                                             | Turning off the thesaurus learning will prevent Leximancer from adding additional items to the concept definitions                                                                                                                                                                                                                                                                                                              | yes                                                                                                      | Vast data se: need not only for simple keyword search, but also weighted accumulation of evidence                                                                        |
+| Learning Threshold (1-21)                                                    | This setting allows to control the generality of each learned concept. Increasing the level will increase the fuzziness of each concept definition by increasing the number of words that will be included in each concept                                                                                                                                                                                                      | 14 (normal)                                                                                              |                                                                                                                                                                          |
+| Sentences per Context Block (1-5)                                            | This option allows to specify the sentences that appear in each learning block                                                                                                                                                                                                                                                                                                                                                  | 3                                                                                                        | value for most circumstances                                                                                                                                             |
+| Break at paragraph (ignore/break at paragraph)                               | This setting is to prevent context blocks from crossing paragraph boundaries                                                                                                                                                                                                                                                                                                                                                    | yes                                                                                                      |                                                                                                                                                                          |
+| Learn Tag Classes (yes/no)                                                   | Turning it on will treat Tag classes as normal concepts, learning a thesaurus definition for each                                                                                                                                                                                                                                                                                                                               | no                                                                                                       |                                                                                                                                                                          |
+| Concept Profiling                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Number to discover (0 -1000)                                                 | It indicates how many extra concepts should be discovered                                                                                                                                                                                                                                                                                                                                                                       | 0 (feature disabled)                                                                                     |                                                                                                                                                                          |
+| Themed discovery (Concepts in ALL/ ANY/ EACH)                                | It selects how the discovered concepts should be related to the pre-defined concept set                                                                                                                                                                                                                                                                                                                                         |                                                                                                          |                                                                                                                                                                          |
+|                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Classification and Indexing                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Entities                                                                     | Entities are the concepts that are actually shown on the conceptual map, and represent the top-level of classification of the text                                                                                                                                                                                                                                                                                              | Concepts Tag classes                                                                                     |                                                                                                                                                                          |
+| Properties                                                                   | Properties, in contrast to entities, are concepts that are checked for co-occurrence with the entities, but are not displayed on the cluster map                                                                                                                                                                                                                                                                                |                                                                                                          |                                                                                                                                                                          |
+| Kill classes                                                                 | Kill classes are concepts that if found in a classified block of text, cause all other classifications of that block to be suppressed                                                                                                                                                                                                                                                                                           |                                                                                                          |                                                                                                                                                                          |
+| Required classes                                                             | Required classes are classifications that must be found in blocks of text, or else the blocks are ignored                                                                                                                                                                                                                                                                                                                       |                                                                                                          |                                                                                                                                                                          |
+| Classification Settings                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Sentences per context block (1 – 100)                                        | Specify how many sentences per tagged text block                                                                                                                                                                                                                                                                                                                                                                                | 3 (default)                                                                                              |                                                                                                                                                                          |
+| Break at paragraph (yes/no)                                                  | Prevent tagged context blocks from crossing paragraph boundaries                                                                                                                                                                                                                                                                                                                                                                | yes                                                                                                      |                                                                                                                                                                          |
+| Word Classification Threshold (0.1-4.9)                                      | This threshold specifies how much cumulative evidence per sentence is needed for a classification to be assigned to a context block                                                                                                                                                                                                                                                                                             | 2.4 (default)                                                                                            |                                                                                                                                                                          |
+| Name Classification Threshold (2.6-5)                                        | This threshold specifies the minimum strength of the maximally weighted piece of evidence to trigger classification                                                                                                                                                                                                                                                                                                             | 4.5 (default)                                                                                            |                                                                                                                                                                          |
+| Blocks per Bucket (1-100)                                                    | A bucket contains one or more consecutive context blocks. If the sum of the evidence of a particular concept within the bucket is below a threshold, the specific concept tag is removed from all the sentences in the bucket                                                                                                                                                                                                   | 1                                                                                                        |                                                                                                                                                                          |
+|                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Mapping and Statistic                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Conceptual Map                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Map Type (Linear/Gaussian)                                                   | The Gaussian map has a more circular symmetry and emphasises the similarity between the conceptual context in which the words appear. The linear map is more spread out, emphasising the co-occurrence between items                                                                                                                                                                                                            | Linear                                                                                                   |                                                                                                                                                                          |
+| Concept Statistics                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |                                                                                                                                                                          |
+| Attribute Variables                                                          | It allows to set attribute variables from the Concept List                                                                                                                                                                                                                                                                                                                                                                      | ‘art’, ‘city’, ‘government’, ‘group’, ‘local’, ‘mobile’, ‘network’, ‘open’, ‘political’, ‘public’, ‘web’ |                                                                                                                                                                          |
+| Category Variables                                                           | It allows to set category variables from the Concept List                                                                                                                                                                                                                                                                                                                                                                       | TG_2004_TG TG_2005_TG TG_2006_TG TG_2007_TG                                                              |                                                                                                                                                                          |
 
-### Table 9 -- Ranked Concept List for the whole data set without word seed
+### Table 9 - Ranked Concept List for the whole data set without word seed
 
-+-----------------+-----------------+-----------------+-----------------+
-| Concept         | Absolute Count  | Relative Count  |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [site](file:// | 720             | 22.3%           |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\2 |                 |                 |                 |
-| 4.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [art](file:/// | 608             | 18.8%           |   --            |
-| C:\Users\nisa\L |                 |                 |   --            |
-| eximancerProjec |                 |                 |                 |
-| ts\Step2\Map\36 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [work](file:// | 537             | 16.6%           |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\4 |                 |                 |                 |
-| 0.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [information]( | 457             | 14.1%           |   --            |
-| file:///C:\User |                 |                 |   --            |
-| s\nisa\Leximanc |                 |                 |                 |
-| erProjects\Step |                 |                 |                 |
-| 2\Map\26.html)  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [software](fil | 451             | 13.9%           |   --            |
-| e:///C:\Users\n |                 |                 |   --            |
-| isa\LeximancerP |                 |                 |                 |
-| rojects\Step2\M |                 |                 |                 |
-| ap\27.html)     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [media](file:/ | 375             | 11.6%           |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 11.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [development]( | 298             | 9.2%            |   --            |
-| file:///C:\User |                 |                 |   --            |
-| s\nisa\Leximanc |                 |                 |                 |
-| erProjects\Step |                 |                 |                 |
-| 2\Map\32.html)  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [local](file:/ | 277             | 8.5%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 12.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [system](file: | 259             | 8%              |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \55.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [mobile](file: | 237             | 7.3%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \17.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [cultural](fil | 235             | 7.2%            |   --            |
-| e:///C:\Users\n |                 |                 |   --            |
-| isa\LeximancerP |                 |                 |                 |
-| rojects\Step2\M |                 |                 |                 |
-| ap\14.html)     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [social](file: | 226             | 7%              |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \29.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [open](file:// | 218             | 6.7%            |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\4 |                 |                 |                 |
-| 6.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [technology](f | 211             | 6.5%            |   --            |
-| ile:///C:\Users |                 |                 |   --            |
-| \nisa\Leximance |                 |                 |                 |
-| rProjects\Step2 |                 |                 |                 |
-| \Map\53.html)   |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [world](file:/ | 189             | 5.8%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 64.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [online](file: | 187             | 5.8%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \1.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [video](file:/ | 173             | 5.3%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 43.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [members](file | 172             | 5.3%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\7.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [network](file | 149             | 4.6%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\47.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [org](file:/// | 144             | 4.4%            |   --            |
-| C:\Users\nisa\L |                 |                 |   --            |
-| eximancerProjec |                 |                 |                 |
-| ts\Step2\Map\28 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [group](file:/ | 133             | 4.1%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 2.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [free](file:// | 133             | 4.1%            |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\1 |                 |                 |                 |
-| 6.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [digital](file | 127             | 3.9%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\51.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [money](file:/ | 125             | 3.8%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 41.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [services](fil | 114             | 3.5%            |   --            |
-| e:///C:\Users\n |                 |                 |   --            |
-| isa\LeximancerP |                 |                 |                 |
-| rojects\Step2\M |                 |                 |                 |
-| ap\6.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [public](file: | 114             | 3.5%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \35.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [students](fil | 102             | 3.1%            |   --            |
-| e:///C:\Users\n |                 |                 |   --            |
-| isa\LeximancerP |                 |                 |                 |
-| rojects\Step2\M |                 |                 |                 |
-| ap\34.html)     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [support](file | 101             | 3.1%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\20.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [research](fil | 96              | 2.9%            |   --            |
-| e:///C:\Users\n |                 |                 |   --            |
-| isa\LeximancerP |                 |                 |                 |
-| rojects\Step2\M |                 |                 |                 |
-| ap\58.html)     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [rural](file:/ | 95              | 2.9%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 42.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [web](file:/// | 95              | 2.9%            |   --            |
-| C:\Users\nisa\L |                 |                 |   --            |
-| eximancerProjec |                 |                 |                 |
-| ts\Step2\Map\62 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [health](file: | 92              | 2.8%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \33.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [learned](file | 87              | 2.6%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\22.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [time](file:// | 80              | 2.4%            |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\4 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [radio](file:/ | 76              | 2.3%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 13.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [political](fi | 72              | 2.2%            |   --            |
-| le:///C:\Users\ |                 |                 |   --            |
-| nisa\Leximancer |                 |                 |                 |
-| Projects\Step2\ |                 |                 |                 |
-| Map\48.html)    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [program](file | 71              | 2.2%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\60.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [space](file:/ | 68              | 2.1%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 50.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [music](file:/ | 64              | 1.9%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 5.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [design](file: | 63              | 1.9%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \21.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [government](f | 63              | 1.9%            |   --            |
-| ile:///C:\Users |                 |                 |   --            |
-| \nisa\Leximance |                 |                 |                 |
-| rProjects\Step2 |                 |                 |                 |
-| \Map\37.html)   |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [city](file:// | 62              | 1.9%            |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\1 |                 |                 |                 |
-| 8.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [youth](file:/ | 62              | 1.9%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 39.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [including](fi | 61              | 1.8%            |   --            |
-| le:///C:\Users\ |                 |                 |   --            |
-| nisa\Leximancer |                 |                 |                 |
-| Projects\Step2\ |                 |                 |                 |
-| Map\65.html)    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [school](file: | 43              | 1.3%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \15.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [countries](fi | 43              | 1.3%            |   --            |
-| le:///C:\Users\ |                 |                 |   --            |
-| nisa\Leximancer |                 |                 |                 |
-| Projects\Step2\ |                 |                 |                 |
-| Map\23.html)    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [team](file:// | 42              | 1.3%            |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\1 |                 |                 |                 |
-| 9.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [server](file: | 39              | 1.2%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \57.html)       |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [text](file:// | 33              | 1%              |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\6 |                 |                 |                 |
-| 3.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [internet](fil | 32              | 0.9%            |   --            |
-| e:///C:\Users\n |                 |                 |   --            |
-| isa\LeximancerP |                 |                 |                 |
-| rojects\Step2\M |                 |                 |                 |
-| ap\54.html)     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [human](file:/ | 31              | 0.9%            |   --            |
-| //C:\Users\nisa |                 |                 |   --            |
-| \LeximancerProj |                 |                 |                 |
-| ects\Step2\Map\ |                 |                 |                 |
-| 31.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [global](file: | 30              | 0.9%            |   --            |
-| ///C:\Users\nis |                 |                 |   --            |
-| a\LeximancerPro |                 |                 |                 |
-| jects\Step2\Map |                 |                 |                 |
-| \8.html)        |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [international | 27              | 0.8%            |   --            |
-| ](file:///C:\Us |                 |                 |   --            |
-| ers\nisa\Lexima |                 |                 |                 |
-| ncerProjects\St |                 |                 |                 |
-| ep2\Map\25.html |                 |                 |                 |
-| )               |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [created](file | 25              | 0.7%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\44.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [life](file:// | 21              | 0.6%            |   --            |
-| /C:\Users\nisa\ |                 |                 |   --            |
-| LeximancerProje |                 |                 |                 |
-| cts\Step2\Map\3 |                 |                 |                 |
-| 0.html)         |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [map](file:/// | 15              | 0.4%            |   --            |
-| C:\Users\nisa\L |                 |                 |   --            |
-| eximancerProjec |                 |                 |                 |
-| ts\Step2\Map\59 |                 |                 |                 |
-| .html)          |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [database](fil | 14              | 0.4%            |   --            |
-| e:///C:\Users\n |                 |                 |   --            |
-| isa\LeximancerP |                 |                 |                 |
-| rojects\Step2\M |                 |                 |                 |
-| ap\49.html)     |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [collaboration | 14              | 0.4%            |   --            |
-| ](file:///C:\Us |                 |                 |   --            |
-| ers\nisa\Lexima |                 |                 |                 |
-| ncerProjects\St |                 |                 |                 |
-| ep2\Map\52.html |                 |                 |                 |
-| )               |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [concept](file | 13              | 0.4%            |   --            |
-| :///C:\Users\ni |                 |                 |   --            |
-| sa\LeximancerPr |                 |                 |                 |
-| ojects\Step2\Ma |                 |                 |                 |
-| p\10.html)      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [collective](f | 10              | 0.3%            |   --            |
-| ile:///C:\Users |                 |                 |   --            |
-| \nisa\Leximance |                 |                 |                 |
-| rProjects\Step2 |                 |                 |                 |
-| \Map\9.html)    |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|  [environment]( | 10              | 0.3%            |   --            |
-| file:///C:\User |                 |                 |   --            |
-| s\nisa\Leximanc |                 |                 |                 |
-| erProjects\Step |                 |                 |                 |
-| 2\Map\56.html)  |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| Concept       | Absolute Count | Relative Count |
+|---------------|----------------|----------------|
+| site          | 720            | 22.30%         |
+| art           | 608            | 18.80%         |
+| work          | 537            | 16.60%         |
+| information   | 457            | 14.10%         |
+| software      | 451            | 13.90%         |
+| media         | 375            | 11.60%         |
+| development   | 298            | 9.20%          |
+| local         | 277            | 8.50%          |
+| system        | 259            | 8%             |
+| mobile        | 237            | 7.30%          |
+| cultural      | 235            | 7.20%          |
+| social        | 226            | 7%             |
+| open          | 218            | 6.70%          |
+| technology    | 211            | 6.50%          |
+| world         | 189            | 5.80%          |
+| online        | 187            | 5.80%          |
+| video         | 173            | 5.30%          |
+| members       | 172            | 5.30%          |
+| network       | 149            | 4.60%          |
+| org           | 144            | 4.40%          |
+| group         | 133            | 4.10%          |
+| free          | 133            | 4.10%          |
+| digital       | 127            | 3.90%          |
+| money         | 125            | 3.80%          |
+| services      | 114            | 3.50%          |
+| public        | 114            | 3.50%          |
+| students      | 102            | 3.10%          |
+| support       | 101            | 3.10%          |
+| research      | 96             | 2.90%          |
+| rural         | 95             | 2.90%          |
+| web           | 95             | 2.90%          |
+| health        | 92             | 2.80%          |
+| learned       | 87             | 2.60%          |
+| time          | 80             | 2.40%          |
+| radio         | 76             | 2.30%          |
+| political     | 72             | 2.20%          |
+| program       | 71             | 2.20%          |
+| space         | 68             | 2.10%          |
+| music         | 64             | 1.90%          |
+| design        | 63             | 1.90%          |
+| government    | 63             | 1.90%          |
+| city          | 62             | 1.90%          |
+| youth         | 62             | 1.90%          |
+| including     | 61             | 1.80%          |
+| school        | 43             | 1.30%          |
+| countries     | 43             | 1.30%          |
+| team          | 42             | 1.30%          |
+| server        | 39             | 1.20%          |
+| text          | 33             | 1%             |
+| internet      | 32             | 0.90%          |
+| human         | 31             | 0.90%          |
+| global        | 30             | 0.90%          |
+| international | 27             | 0.80%          |
+| created       | 25             | 0.70%          |
+| life          | 21             | 0.60%          |
+| map           | 15             | 0.40%          |
+| database      | 14             | 0.40%          |
+| collaboration | 14             | 0.40%          |
+| concept       | 13             | 0.40%          |
+| collective    | 10             | 0.30%          |
+| environment   | 10             | 0.30%          |
 
-### Table 10 -- Analysis sheet 
+### Table 10 - Analysis sheet 
 
-+-----------------------+-----------------------+-----------------------+
-| Descriptive           | Operative questions   | Index                 |
-| categories            |                       |                       |
-+=======================+=======================+=======================+
-| Project objective(s)  |                       | A                     |
-+-----------------------+-----------------------+-----------------------+
-| Goals                 | What is the goal(s)   | A1                    |
-|                       | that the project aims |                       |
-|                       | at achieving?         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Source of boundaries  | To what element does  | A2                    |
-|                       | the application       |                       |
-|                       | appeal in order to    |                       |
-|                       | depict the community  |                       |
-|                       | as a stable, taken    |                       |
-|                       | for granted           |                       |
-|                       | assemblage?           |                       |
-+-----------------------+-----------------------+-----------------------+
-| Actors involved       |                       | B                     |
-+-----------------------+-----------------------+-----------------------+
-| Addresser             | Is there any entity   | B1                    |
-|                       | that                  |                       |
-|                       | designed/developed    |                       |
-|                       | the project?          |                       |
-+-----------------------+-----------------------+-----------------------+
-| Addressee             | Is there any          | B2a                   |
-|                       | identifiable target   |                       |
-|                       | of the action of the  | B2b                   |
-|                       | Addresser?            |                       |
-|                       |                       |                       |
-|                       | Are Addresser and     |                       |
-|                       | Addressee clearly     |                       |
-|                       | distinguishable?      |                       |
-+-----------------------+-----------------------+-----------------------+
-| Anti-groups/anti-acta | Are there             | B3                    |
-| nts                   | anti-actants that     |                       |
-|                       | interfere with the    |                       |
-|                       | course of action in a |                       |
-|                       | negative way?         |                       |
-+-----------------------+-----------------------+-----------------------+
-| Actants as mediators  | Is there any entity   | B4                    |
-| Vs. intermediaries    | that contributes with |                       |
-|                       | some competences to   | B4a                   |
-|                       | the course of action? |                       |
-|                       |                       | B4b                   |
-|                       | Does the actant       |                       |
-|                       | trigger further       | B4c                   |
-|                       | actions/mediations?   |                       |
-|                       |                       | B4d                   |
-|                       | Does it activate new  |                       |
-|                       | participants?         | B4e                   |
-|                       |                       |                       |
-|                       | Does it introduce a   | B4f                   |
-|                       | bifurcation in the    |                       |
-|                       | course of action?     | B4g                   |
-|                       |                       |                       |
-|                       | Does it 'transport'   |                       |
-|                       | (shift) or            |                       |
-|                       | 'translate' (modify)  |                       |
-|                       | what it is supposed   |                       |
-|                       | to carry?             |                       |
-|                       |                       |                       |
-|                       | Is the output         |                       |
-|                       | predictable starting  |                       |
-|                       | from the input?       |                       |
-|                       |                       |                       |
-|                       | Does the actant       |                       |
-|                       | determines some other |                       |
-|                       | event?                |                       |
-|                       |                       |                       |
-|                       | How long is the chain |                       |
-|                       | of action? How many   |                       |
-|                       | passages can be       |                       |
-|                       | counted?              |                       |
-+-----------------------+-----------------------+-----------------------+
-| Professional          | Are there             | B5                    |
-| mobilized             | professionals         |                       |
-|                       | (journalists, social  |                       |
-|                       | scientists,           |                       |
-|                       | statisticians) quoted |                       |
-|                       | as part of what makes |                       |
-|                       | possible the durable  |                       |
-|                       | definition of the     |                       |
-|                       | community?            |                       |
-+-----------------------+-----------------------+-----------------------+
-| Spokesperson          | Do the spokespersons  | B6                    |
-|                       | that speak for the    |                       |
-|                       | group existence --    |                       |
-|                       | namely, the author of |                       |
-|                       | the application --    |                       |
-|                       | appear as agents in   |                       |
-|                       | the account?          |                       |
-+-----------------------+-----------------------+-----------------------+
+| Descriptive categories                  | Operative questions                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Index                              |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| Project objective(s)                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | A                                  |
+| Goals                                   | What is the goal(s) that the project aims at achieving?                                                                                                                                                                                                                                                                                                                                                                                                                                  | A1                                 |
+| Source of boundaries                    | To what element does the application appeal in order to depict the community as a stable, taken for granted assemblage?                                                                                                                                                                                                                                                                                                                                                                  | A2                                 |
+| Actors involved                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | B                                  |
+| Addresser                               | Is there any entity that designed/developed the project?                                                                                                                                                                                                                                                                                                                                                                                                                                 | B1                                 |
+| Addressee                               | Is there any identifiable target of the action of the Addresser? Are Addresser and Addressee clearly distinguishable?                                                                                                                                                                                                                                                                                                                                                                    | B2a  B2b                           |
+| Anti-groups/anti-actants                | Are there anti-actants that interfere with the course of action in a negative way?                                                                                                                                                                                                                                                                                                                                                                                                       | B3                                 |
+| Actants as mediators Vs. intermediaries | Is there any entity that contributes with some competences to the course of action? Does the actant trigger further actions/mediations? Does it activate new participants? Does it introduce a bifurcation in the course of action? Does it ‘transport’ (shift) or ‘translate’ (modify) what it is supposed to carry? Is the output predictable starting from the input? Does the actant determines some other event? How long is the chain of action? How many passages can be counted? | B4  B4a B4b  B4c  B4d  B4e B4f B4g |
+| Professional mobilized                  | Are there professionals (journalists, social scientists, statisticians) quoted as part of what makes possible the durable definition of the community?                                                                                                                                                                                                                                                                                                                                   | B5                                 |
+| Spokesperson                            | Do the spokespersons that speak for the group existence – namely, the author of the application – appear as agents in the account?                                                                                                                                                                                                                                                                                                                                                       | B6                                 |
 
-### Table 11 -- Proyecto Cyberela -- Radio Telecentros. Variations in the role of radio, ICT and gender concerns following the advent of digital media
+### Table 11 - Proyecto Cyberela -- Radio Telecentros. Variations in the role of radio, ICT and gender concerns following the advent of digital media
 
-+-----------------------+-----------------------+-----------------------+
-|                       | Before the advent of  | With advent of the    |
-|                       | the digital domain    | digital domain        |
-+=======================+=======================+=======================+
-| Radio                 | (Analogue)            | (Internet radio)      |
-|                       |                       |                       |
-|                       | Mediator              | Mediator              |
-+-----------------------+-----------------------+-----------------------+
-| ICT                   | (correspond to        | (Seen as 'skills')    |
-|                       | analogue radio)       |                       |
-|                       |                       | Goal to be reached    |
-+-----------------------+-----------------------+-----------------------+
-| Gender and human      | (Attention)           | (Becomes 'Contents')  |
-| rights commitment     |                       |                       |
-|                       | Result of policies    | Intermediary          |
-+-----------------------+-----------------------+-----------------------+
+| ﻿                                   | Before the advent of the digital domain | With advent of the digital domain |
+|------------------------------------|-----------------------------------------|-----------------------------------|
+| Radio                              | (Analogue)                              | (Internet radio)                  |
+|                                    | Mediator                                | Mediator                          |
+| ICT                                | (correspond to analogue radio)          | (Seen as ‘skills’)                |
+|                                    |                                         | Goal to be reached                |
+| Gender and human rights commitment | (Attention)                             | (Becomes ‘Contents’)              |
+|                                    | Result of policies                      | Intermediary                      |
 
-### Table 12 -- Summary of the theories of action associated with 'empowerment'
+### Table 12 - Summary of the theories of action associated with 'empowerment'
 
-+-----------+-----------+-----------+-----------+-----------+-----------+
-|           | Tonga.On- | Akshaya   | Proyecto  | The World | canal\*   |
-|           | line      |           | Cyberela  | Starts    |           |
-|           |           |           | -- Radio  | with Me   | ACCESSI-B |
-|           |           |           | Tel.      |           | LE        |
-+===========+===========+===========+===========+===========+===========+
-| Source of | Cultural  | Geopoliti | Statistic | Statistic | Social    |
-| bound-ari | heritage  | cal/      | s         |           | discrimin |
-| es        | and       |           |           | (age and, | ation     |
-|           | tradition | administr | (gender)  | partially |           |
-|           | s         | ative     |           | ,         |           |
-|           |           | (local    |           | gender)   |           |
-|           | (Tonga    | communiti |           |           |           |
-|           | people)   | es        |           |           |           |
-|           |           | in        |           |           |           |
-|           |           | Kerala)   |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Role of   | Mediators | ICT-skill | ICT-skill | Pc as     | Mobile    |
-| digital   |           | s         | s         | intermedi | phones    |
-| ICT       | (Alpha    | and data  | are       | ary       | and       |
-|           | Smart     | repositor | goals.    | (may be   | digital   |
-|           | triggers  | y         | Technical | substitut | photos as |
-|           | 'msg and  | as goals. | facilitie | ed).      | intermedi |
-|           | digital   | Wireless  | s         | But       | -aries;   |
-|           | reflectio | net,      | as        | ICT-skill | Internet  |
-|           | ns'       | computers | intermedi | s         | alternati |
-|           | creating  | ,         | aries     | as a      | vely      |
-|           | associati | scanners, |           | competenc | as        |
-|           | ons       | etc. as   |           | e.        | mediator  |
-|           | with      | intermedi |           | WSWM is a | or        |
-|           | dispersed | aries     |           | mediator  | intermedi |
-|           | actants)  |           |           |           | ary       |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Role of   | Music as  | /         | Radio as  | Low-tech  | Broadcast |
-| other     | mediator  |           | mediator  | objects   | media as  |
-| tech-nolo | that      |           |           | (i.e.     | (anti-)   |
-| gies      | translate |           |           | paper&pen | mediators |
-|           | s         |           |           | cil,      |           |
-|           | the       |           |           | local     |           |
-|           | cultural  |           |           | materials |           |
-|           | heritage  |           |           | )         |           |
-|           | into the  |           |           | as        |           |
-|           | digital   |           |           | intermedi |           |
-|           | age       |           |           | aries     |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Medi-ator | Many      | One       | Few human | Many      | Three     |
-| s/        | mediators | mediator, | mediators | mediators | mediators |
-|           | ,         | some      | ,         |           | ,         |
-| inter-med |           | intermedi | some      |           | some      |
-| i-aries   | agency    | -aries.   | non-human |           | intermedi |
-|           | chain     | Very      | intermedi |           | aries     |
-|           | extends   | short     | aries     |           |           |
-|           | in many   | agency    |           |           |           |
-|           | direction | chain     |           |           |           |
-|           | s         |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Profes-si | Journalis | /         | /         | Teachers  | /         |
-| onals     | t         |           |           |           |           |
-+-----------+-----------+-----------+-----------+-----------+-----------+
-| Relation- | No        | Clearly   | Fairly    | Only      | Fairly    |
-| ship      | distincti | distinct  | distinct  | during    | distinct: |
-| Address-e | on        |           | after the | course:   | 'disadvan |
-| r/Ad-dres |           | (Service  | advent of | stu-dents | taged     |
-| see       |           | delivery  | digital   | who       | groups'   |
-|           |           | business) | media     | finish it | and       |
-|           |           |           |           | become    | project   |
-|           |           |           |           | facilitat | promoters |
-|           |           |           |           | ors       | do not    |
-|           |           |           |           |           | blur      |
-+-----------+-----------+-----------+-----------+-----------+-----------+
+| | Tonga.On-line | Akshaya  | Proyecto Cyberela – Radio Tel.| The World Starts with Me | canal*ACCESSI-BLE   | 
+|-----------|----------- |----------- |----------- |----------- |----------- | 
+| Source of boundaries            | Cultural heritage and traditions (Tonga people)                                                             | Geopolitical/administrative (local communities in Kerala)                                          | Statistics (gender)                                          | Statistic (age and, partially, gender)                                                      | Social discrimination                                                     |                                                     |
+| Role of digital ICT              | Mediators (Alpha Smart triggers ‘msg and digital reflections’ creating associations with dispersed actants) | ICT-skills and data repository as goals. Wireless net, computers, scanners, etc. as intermediaries | ICT-skills are goals. Technical facilities as intermediaries | PC as intermediary (may be substituted). But ICT-skills as a competence. WSWM is a mediator | Mobile phones and digital photos as intermedi-aries; Internet alternatively as mediator or intermediary                      
+| Role of other tech-nologies      | Music as mediator that translates the cultural heritage into the digital age                                | /                                                                                                  | Radio as mediator                                            | Low-tech objects (i.e. paper&pencil, local materials) as intermediaries                     | Broadcast media as (anti-) mediators                                      |                                                     |
+| Mediators/intermediaries         | Many mediators, agency chain extends in many directions                                                     | One mediator, some intermedi-aries. Very short agency chain                                        | Few human mediators, some non-human intermediaries           | Many mediators                                                                              | Three mediators, some intermediaries                                      |                                                     |
+| Professionals                    | Journalist                                                                                                  | /                                                                                                  | /                                                            | Teachers                                                                                    | /                                                                         |                                                     |
+| Relationship Addresser/Addressee | No distinction                                                                                              | Clearly distinct (Service delivery business)                                                       | Fairly distinct after the advent of digital media            | Only during course: stu-dents who finish it become facilitators                             | Fairly distinct: ‘disadvantaged groups’ and project promoters do not blur |
 
-### Table 13 -- Comparison among EFF, FSF, Telestreet/NGV
 
-+-----------------+-----------------+-----------------+-----------------+
-|                 | EFF             | FSF             | Telestreet      |
-+=================+=================+=================+=================+
-| Objective       | 'To defend      | 'To achieve sw  | To create       |
-|                 | freedom of      | freedom to      | relational      |
-|                 | expression,     | cooperate for   | networks and    |
-|                 | innovation and  | everyone'       | active          |
-|                 | privacy on the  |                 | citizenship     |
-|                 | electronic      |                 | through an      |
-|                 | frontier'       |                 | integrated use  |
-|                 |                 |                 | of              |
-|                 |                 |                 | communication   |
-|                 |                 |                 | tools           |
-+-----------------+-----------------+-----------------+-----------------+
-| Object of value | Public interest | Computer users  | Citizens right  |
-|                 | in digital      | rights to use,  | to access       |
-|                 | rights on a     | copy, study,    | communication   |
-|                 | global level    | modify and      | channels        |
-|                 |                 | redistribute    |                 |
-|                 |                 | computer        |                 |
-|                 |                 | programs        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Source of       | Freedom in the  | Community and   | Active          |
-| boundaries      | networked world | cooperation     | citizenship     |
-|                 |                 | (software       | (Freedom of     |
-|                 |                 | freedom is a    | expression is a |
-|                 |                 | condition for   | condition for   |
-|                 |                 | this)           | this)           |
-+-----------------+-----------------+-----------------+-----------------+
-| Addresser       | Different       | Richard         | Orfeo TV        |
-|                 | levels of       | Stallman made   | started it, but |
-|                 | participation:  | it start. Then  | everyone can    |
-|                 | EFF staff       | it proliferated | set up a street |
-|                 | (coordinators,  | through users   | TV.             |
-|                 | activists,      | and developers  | Participation   |
-|                 | techies,        | (see mediators) | is open and the |
-|                 | artists, policy |                 | aim is to       |
-|                 | analysts,       |                 | overcome the    |
-|                 | attorneys), EFF |                 | distinction     |
-|                 | members, nl     |                 | between sender  |
-|                 | subscribers,    |                 | and receiver    |
-|                 | users of Action |                 |                 |
-|                 | Center          |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Addressee       | 'Those who      | see mediators   | see mediators   |
-|                 | create and      | (none is only   | (none is only   |
-|                 | communicate in  | addressee)      | addressee)      |
-|                 | the electronic  |                 |                 |
-|                 | world', those   |                 |                 |
-|                 | who are         |                 |                 |
-|                 | interested in   |                 |                 |
-|                 | technology      |                 |                 |
-|                 | policy covering |                 |                 |
-|                 | freedom         |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Anti-groups     | United States   | Pressure for    | Two mainstream  |
-|                 | Secret Service  | commercializati | broadcasting    |
-|                 |                 | on.             | networks        |
-|                 |                 |                 |                 |
-|                 |                 | Proprietary     |                 |
-|                 |                 | software        |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Additional      | 'Action         | GNU OS *gives*  | Telestreet      |
-| mediators       | alerts',        | computer users  | *induces*       |
-|                 | *encourage*     | the *freedom*   | non-professiona |
-|                 | personal        | to cooperate.   | l               |
-|                 | political       | FSF itself      | people to       |
-|                 | involvement.    | *raises funds*  | experiment.     |
-|                 |                 | for GNU,        |                 |
-|                 | EFF as          | *promotes*      | Users are       |
-|                 | supporter and   | users freedom,  | mediators.      |
-|                 | enabler of      | is trusted      |                 |
-|                 | global digital  | copyright       | Article 21 of   |
-|                 | community.      | *holder*.       | Italian         |
-|                 |                 |                 | Constitution    |
-|                 |                 | Volunteer       | invoked to      |
-|                 |                 | developers from | assert          |
-|                 |                 | around the      | Telestreet      |
-|                 |                 | world. Kernel   | constitutionali |
-|                 |                 | Linux           | ty,             |
-|                 |                 | ('inspired by   | deputies        |
-|                 |                 | the community   | mobilized.      |
-|                 |                 | that we         |                 |
-|                 |                 | built').        | Media when      |
-|                 |                 |                 | combined or     |
-|                 |                 | Users: every    | disassembled:   |
-|                 |                 | software user   | Internet + DIY  |
-|                 |                 | is a mediator.  | TV *stimulates* |
-|                 |                 |                 | creativity,     |
-|                 |                 | Licenses        | *gives chance*  |
-|                 |                 | *guarantee*     | to become       |
-|                 |                 | freedom.        | active,         |
-|                 |                 |                 | *enables*       |
-|                 |                 |                 | people,         |
-|                 |                 |                 | *bridges*       |
-|                 |                 |                 | gender and age  |
-|                 |                 |                 | divide. DIY     |
-|                 |                 |                 | ethics          |
-+-----------------+-----------------+-----------------+-----------------+
-| Inter-mediaries | website, blog   | /               | Media when      |
-|                 | posts,          |                 | taken as single |
-|                 | podcasts,       |                 | channels        |
-|                 | online video    |                 | (satellite Tv,  |
-|                 | projects,       |                 | website)        |
-|                 | newsletter,     |                 |                 |
-|                 | online guides.  |                 |                 |
-|                 |                 |                 |                 |
-|                 | YouTube,        |                 |                 |
-|                 | MySpace, social |                 |                 |
-|                 | network sites   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
+### Table 13 - Comparison among EFF, FSF, Telestreet/NGV
 
-### Table 14 -- Classification of winning projects according to orientation to business, relationship between online and offline interaction, focus of interest, centralized/distributed technology used
+| ﻿                     | EFF                                                                                                                                                                       | FSF                                                                                                                                                                                                                                                                           | Telestreet                                                                                                                                                                                                                                                                                                                                                  |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Objective            | ‘To defend freedom of expression, innovation and privacy on the electronic frontier’                                                                                      | ‘To achieve sw freedom to cooperate for everyone’                                                                                                                                                                                                                             | To create relational networks and active citizenship through an integrated use of communication tools                                                                                                                                                                                                                                                       |
+| Object of value      | Public interest in digital rights on a global level                                                                                                                       | Computer users rights to use, copy, study, modify and redistribute computer programs                                                                                                                                                                                          | Citizens right to access communication channels                                                                                                                                                                                                                                                                                                             |
+| Source of boundaries | Freedom in the networked world                                                                                                                                            | Community and cooperation (software freedom is a condition for this)                                                                                                                                                                                                          | Active citizenship (Freedom of expression is a condition for this)                                                                                                                                                                                                                                                                                          |
+| Addresser            | Different levels of participation: EFF staff (coordinators, activists, techies, artists, policy analysts, attorneys), EFF members, nl subscribers, users of Action Center | Richard Stallman made it start. Then it proliferated through users and developers (see mediators)                                                                                                                                                                             | Orfeo TV started it, but everyone can set up a street TV. Participation is open and the aim is to overcome the distinction between sender and receiver                                                                                                                                                                                                      |
+| Addressee            | ‘Those who create and communicate in the electronic world’, those who are interested in technology policy covering freedom                                                | see mediators (none is only addressee)                                                                                                                                                                                                                                        | see mediators (none is only addressee)                                                                                                                                                                                                                                                                                                                      |
+| Anti-groups          | United States Secret Service                                                                                                                                              | Pressure for commercialization. Proprietary software                                                                                                                                                                                                                          | Two mainstream broadcasting networks                                                                                                                                                                                                                                                                                                                        |
+| Additional mediators | ‘Action alerts’, encourage personal political involvement. EFF as supporter and enabler of global digital community.                                                      | GNU OS gives computer users the freedom to cooperate. FSF itself raises funds for GNU, promotes users freedom, is trusted copyright holder. Volunteer developers from around the world. Kernel Linux (‘inspired by the community that we built’). Licenses guarantee freedom. | Telestreet induces non-professional people to experiment. Users are mediators. Article 21 of Italian Constitution invoked to assert Telestreet constitutionality, deputies mobilized.Media when combined or disassembled: Internet + DIY TV stimulates creativity, gives chance to become active, enables people, bridges gender and age divide. DIY ethics |
+| Inter-mediaries      | website, blog posts, podcasts, online video projects, newsletter, online guides. YouTube, MySpace, social network sites                                                   | /                                                                                                                                                                                                                                                                             | Media when taken as single channels (satellite Tv, website)                                                                                                                                                                                                                                                                                                 |
 
-                                           Profit/Non-profit   Only online/Also offline interaction   Specific focus of interest   Centralized/decentralized technology[^12annexes_1]
-  ---------------------------------------- ------------------- -------------------------------------- ---------------------------- ------------------------------------------
-  Tonga.Online *--* smart X tension        Non-profit          Also offline                           No                           Centralized
-  Akshaya                                  Profit              Also offline                           No                           Centralized
-  Projecto Cyberela -- Radio Telecentros   Non-profit          Also offline                           Yes                          Centralized
-  The World Starts With Me                 Non-profit          Also offline                           Yes                          Centralized
-  canal\*ACCESSIBLE                        Non-profit          Mainly online                          No                           Centralized
-  Electronic Frontier Foundation           Non-profit          Mainly online                          Yes                          Centralized
-  Free Software Foundation                 Non-profit          Mainly online                          Yes                          Decentralized
-  Telestreet/NGV                           Non-profit          Also offline                           No                           Decentralized
-  Overmundo                                Non-profit          Mainly online                          No                           Centralized
-  Open Clothes                             Profit              Mainly online                          Yes                          Centralized
-  dotSUB                                   Profit              Mainly online                          Yes                          Centralized
 
-### Table 15 -- Analysis of the websites of the winning projects according to the degree of visibility of the Outside allowed by the technologies used
+### Table 14 - Classification of winning projects according to orientation to business, relationship between online and offline interaction, focus of interest, centralized/distributed technology used
 
-+-------------+-------------+-------------+-------------+-------------+
-|             | Technologie | Interactive | Inscribed   | Degree of   |
-|             | s           | technologie | users       | visibility  |
-|             | used        | s           |             | of the      |
-|             |             | that allow  |             | Outside     |
-|             |             | users to    |             |             |
-|             |             | leave       |             |             |
-|             |             | publicly    |             |             |
-|             |             | visible     |             |             |
-|             |             | traces      |             |             |
-+=============+=============+=============+=============+=============+
-| Akshaya     | **Textual   | None        | 1. Passive, | Invisible,  |
-|             | web pages** |             | invisible   | no online   |
-| www.akshaya | (read       |             | guest       | registra-ti |
-| .net        | only);      |             |             | on          |
-|             | **Guestbook |             |             |             |
-|             | form**      |             |             |             |
-|             | (does not   |             |             |             |
-|             | work);      |             |             |             |
-|             | **'Contact  |             |             |             |
-|             | us' link**: |             |             |             |
-|             | list of     |             |             |             |
-|             | phone       |             |             |             |
-|             | numbers;    |             |             |             |
-|             | **Restricte |             |             |             |
-|             | d           |             |             |             |
-|             | area**: it  |             |             |             |
-|             | is not      |             |             |             |
-|             | possible to |             |             |             |
-|             | register    |             |             |             |
-|             | online      |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Proyecto    | Textual web | None        | 1. Passive, | Invisible,  |
-| Cyberela -- | pages (read |             | invisible   | no online   |
-| Radio       | only);      |             | guest       | registra-ti |
-| Telecentros | Video       |             |             | on          |
-|             | streaming;  |             |             |             |
-| www.cemina. |             |             |             |             |
-| org.br      | PDF         |             |             |             |
-|             | documents'  |             |             |             |
-|             | publishing; |             |             |             |
-|             |             |             |             |             |
-|             | Radio       |             |             |             |
-|             | streaming/d |             |             |             |
-|             | ownload;    |             |             |             |
-|             |             |             |             |             |
-|             | Contact     |             |             |             |
-|             | form        |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| The World   | **Flash     | Students    | 1. Members  | Invisible,  |
-| Starts With | animations* | **forum**   | interacting | no online   |
-| Me          | *           | accessible  | with each   | registra-ti |
-|             | accessible  | only by     | other       | on          |
-| www.theworl | only to     | registered  |             |             |
-| dstarts.org | students    | students.   |             |             |
-|             | and         | Online      |             |             |
-|             | teachers;   | registratio |             |             |
-|             |             | n           |             |             |
-|             | Contact     | is not      |             |             |
-|             | **e-mail**  | allowed     |             |             |
-|             | addresses;  |             |             |             |
-|             |             |             |             |             |
-|             | Students    |             |             |             |
-|             | **forum**   |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Tonga.Onlin | Textual web | **Discussio | 1. Members  | Invisible,  |
-| e           | pages (read | n           | interacting | but low     |
-| *--* smart  | only); News | forum**:    | with each   | barriers to |
-| X tension   | feed;       | read-only   | other; 2.   | member-ship |
-|             |             | for guests, | Passive,    |             |
-| www.mulonga | Discussion  | submission- | invisible   |             |
-| .net        | forum;      | open        | guest       |             |
-|             |             | for         |             |             |
-|             | Contact     | members.    |             |             |
-|             | form;       | Online      |             |             |
-|             |             | registratio |             |             |
-|             | Newsletter; | n           |             |             |
-|             |             | is allowed  |             |             |
-|             | A/V         |             |             |             |
-|             | streaming   |             |             |             |
-|             | and         |             |             |             |
-|             | download    |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| dotSUB      | Video       | Video       | 1. Members  | Invisible,  |
-|             | **screening | **uploading | as experts; | but low     |
-| dotsub.com  | **          | **          | 2. Passive, | barriers to |
-|             | is open;    | and         | invisible   | member-ship |
-|             |             | **subtitlin | guest       |             |
-|             | To          | g**         |             |             |
-|             | **upload**  | is          |             |             |
-|             | one's own   | restricted  |             |             |
-|             | videos and  | to members. |             |             |
-|             | **subtitle* | But online  |             |             |
-|             | *           | registratio |             |             |
-|             | other       | n           |             |             |
-|             | people's    | is allowed  |             |             |
-|             | videos      |             |             |             |
-|             | registratio |             |             |             |
-|             | n           |             |             |             |
-|             | is required |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Canal\*ACCE | Photo, map  | Open        | 1.          | Visible     |
-| SSIBLE      | and video   | discussion  | Interactive |             |
-|             | **database* | **forum**:  | visible     |             |
-| www.zexe.ne | *           | it does not | guest       |             |
-| t/barcelona | searchable  | need        |             |             |
-|             | by date,    | registratio |             |             |
-|             | name of     | n           |             |             |
-|             | submitter,  |             |             |             |
-|             | city area,  |             |             |             |
-|             | type of     |             |             |             |
-|             | obstacle;   |             |             |             |
-|             |             |             |             |             |
-|             | Open        |             |             |             |
-|             | discussion  |             |             |             |
-|             | **forum**   |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Electronic  | Contact     | EFF         | 1. Passive, | Invisible   |
-| Frontier    | **e-mail**  | software    | invisible   |             |
-| Foundation  | addresses.; | projects    | Other       |             |
-|             |             | make use of |             |             |
-| www.eff.org | Newsletter; | **wikis**   | 2. Engaged  |             |
-|             |             | for         | citizens    |             |
-|             | RSS Feeds;  | coordinatio |             |             |
-|             |             | n,          | 3.          |             |
-|             | 'Send a     | **mailing   | Developers  |             |
-|             | postcard'   | lists** and |             |             |
-|             | **form**;   | Sourceforge |             |             |
-|             |             | 's          |             |             |
-|             | 'Send your  | **tracker** |             |             |
-|             | message to  | for         |             |             |
-|             | decision    | development |             |             |
-|             | makers'     |             |             |             |
-|             | **form**:   |             |             |             |
-|             | restricted  |             |             |             |
-|             | to U.S.     |             |             |             |
-|             | citizens;   |             |             |             |
-|             |             |             |             |             |
-|             | **HTML/PDF  |             |             |             |
-|             | guides**    |             |             |             |
-|             | for         |             |             |             |
-|             | Internet    |             |             |             |
-|             | users;      |             |             |             |
-|             |             |             |             |             |
-|             | 'Line       |             |             |             |
-|             | Noise'      |             |             |             |
-|             | **Podcast** |             |             |             |
-|             | ;           |             |             |             |
-|             |             |             |             |             |
-|             | 'Submit     |             |             |             |
-|             | prior Art'  |             |             |             |
-|             | **form**;   |             |             |             |
-|             |             |             |             |             |
-|             | **EFF       |             |             |             |
-|             | software    |             |             |             |
-|             | projects**: |             |             |             |
-|             | wikis,      |             |             |             |
-|             | mailing     |             |             |             |
-|             | lists and   |             |             |             |
-|             | Sourceforge |             |             |             |
-|             | 's          |             |             |             |
-|             | tracker;    |             |             |             |
-|             |             |             |             |             |
-|             | 'Deeplinks' |             |             |             |
-|             | **blog**:   |             |             |             |
-|             | no comment  |             |             |             |
-|             | facilities  |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Free        | Newsletter; | **Mailing   | 1. Passive, | Guest       |
-| Software    |             | lists** on  | invisible   | develop-per |
-| Foundation  | **News      | specific    | Other 2.    | s           |
-|             | section**   | campaigns   | Engaged     | are visible |
-| www.fsf.org | (read       | restricted  | citizens 3. |             |
-|             | only);      | to members, | Guest       |             |
-| www.gnu.org |             | but         | developers  |             |
-|             | **Mailing   | registratio | 4. Member   |             |
-|             | lists** on  | n           | develop-per |             |
-|             | specific    | is allowed  | s           |             |
-|             | campaigns;  | online;     |             |             |
-|             |             |             |             |             |
-|             | '**Contact  | **Mailing   |             |             |
-|             | us**'       | lists** of  |             |             |
-|             | e-mail      | code        |             |             |
-|             | address;    | development |             |             |
-|             |             | open also   |             |             |
-|             | **Free      | to          |             |             |
-|             | Software    | non-members |             |             |
-|             | Directory** | ;           |             |             |
-|             | (db on all  |             |             |             |
-|             | existing    | **Free      |             |             |
-|             | free sw):   | Software    |             |             |
-|             | users can   | Directory** |             |             |
-|             | download    | :           |             |             |
-|             | and rate    | non-members |             |             |
-|             | sw, submit  | can rate    |             |             |
-|             | a level,    | sw,         |             |             |
-|             | subscribe   | subscribe   |             |             |
-|             | to          | to          |             |             |
-|             | development | development |             |             |
-|             | -focused    | -focused    |             |             |
-|             | mailing     | mailing     |             |             |
-|             | lists and   | lists and   |             |             |
-|             | IRC         | IRC         |             |             |
-|             | channels,   | channels;   |             |             |
-|             | view VCS    |             |             |             |
-|             | repository; | **FSF       |             |             |
-|             |             | Groups      |             |             |
-|             | **Campaigns | Wiki** open |             |             |
-|             | center**:   | to guests   |             |             |
-|             | information | too;        |             |             |
-|             | on          |             |             |             |
-|             | campaigns   | **Code      |             |             |
-|             | and access  | contributio |             |             |
-|             | to 'take    | n**:        |             |             |
-|             | action'     | open to     |             |             |
-|             | tools       | members,    |             |             |
-|             | hosted by   | but online  |             |             |
-|             | partner     | registratio |             |             |
-|             | organizatio | n           |             |             |
-|             | n           | is allowed  |             |             |
-|             | like EFF's  | on Savannah |             |             |
-|             | action      | servers     |             |             |
-|             | alert;      |             |             |             |
-|             |             |             |             |             |
-|             | FSF Groups  |             |             |             |
-|             | Wiki;       |             |             |             |
-|             |             |             |             |             |
-|             | **FSF       |             |             |             |
-|             | Blogs**     |             |             |             |
-|             | publishes   |             |             |             |
-|             | blog        |             |             |             |
-|             | entries by  |             |             |             |
-|             | 'people in  |             |             |             |
-|             | the         |             |             |             |
-|             | community', |             |             |             |
-|             | no comments |             |             |             |
-|             | allowed,    |             |             |             |
-|             | but it      |             |             |             |
-|             | possible to |             |             |             |
-|             | suggest     |             |             |             |
-|             | one's own   |             |             |             |
-|             | blog;       |             |             |             |
-|             |             |             |             |             |
-|             | **Events**  |             |             |             |
-|             | section:    |             |             |             |
-|             | RSS feed;   |             |             |             |
-|             |             |             |             |             |
-|             | **Code      |             |             |             |
-|             | contributio |             |             |             |
-|             | n**:        |             |             |             |
-|             | open to     |             |             |             |
-|             | members     |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Telestreet  | **News**    | Open        | 1.          | Visible     |
-|             | section run | **comments* | Interactive |             |
-| www.telestr | by          | *           | visible     |             |
-| eet.it      | editorial   | on news;    | Other 2.    |             |
-|             | team,       |             | Low         |             |
-| www.ngvisio | guests'     | Open        | barriers    |             |
-| n.org       | comments    | mailing     | member-ship |             |
-|             | allowed;    | list;       |             |             |
-|             |             |             |             |             |
-|             | Open a      | Discussion  |             |             |
-|             | posteriori  | **forum**   |             |             |
-|             | moderated   | (need       |             |             |
-|             | **mailing   | registratio |             |             |
-|             | list**      | n           |             |             |
-|             | (Telestreet | which is    |             |             |
-|             | );          | allowed     |             |             |
-|             |             | online);    |             |             |
-|             | Closed      |             |             |             |
-|             | **mailing   | **Peer-to-p |             |             |
-|             | list**      | eer**       |             |             |
-|             | (NGV);      | distributio |             |             |
-|             |             | n           |             |             |
-|             | Discussion  | and **ftp   |             |             |
-|             | forum;      | upload**    |             |             |
-|             |             | open to     |             |             |
-|             | Video       | guests      |             |             |
-|             | download;   |             |             |             |
-|             |             |             |             |             |
-|             | **Peer-to-p |             |             |             |
-|             | eer**       |             |             |             |
-|             | video       |             |             |             |
-|             | distributio |             |             |             |
-|             | n;          |             |             |             |
-|             |             |             |             |             |
-|             | **Ftp       |             |             |             |
-|             | upload** of |             |             |             |
-|             | videos      |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Overmundo   | **Blog**:   | **Blog**:   | 1.          | Invisible,  |
-|             | open to     | only        | Invisible   | barriers to |
-| www.overmun | read, only  | members can | Other       | member-ship |
-| do.com.br   | members can | comment,    |             | posed by    |
-|             | comment,    | propose,    | 2\. Entry   | time,       |
-|             | submit,     | revise and  | members     | commit-ment |
-|             | revise,     | vote        | 3.          | and ID      |
-|             | vote        | articles to | Established |             |
-|             | articles;   | be          | members     |             |
-|             |             | published.  | 4. Senior   |             |
-|             | **Contact   | Online      | members     |             |
-|             | form** to   | registratio |             |             |
-|             | contact the | n           |             |             |
-|             | core team   | is allowed  |             |             |
-|             |             | BUT         |             |             |
-|             |             | requires    |             |             |
-|             |             | sensitive   |             |             |
-|             |             | data.       |             |             |
-|             |             | Members     |             |             |
-|             |             | have        |             |             |
-|             |             | different   |             |             |
-|             |             | voting      |             |             |
-|             |             | weights     |             |             |
-|             |             | according   |             |             |
-|             |             | to the      |             |             |
-|             |             | length of   |             |             |
-|             |             | their       |             |             |
-|             |             | participati |             |             |
-|             |             | on          |             |             |
-|             |             | in the      |             |             |
-|             |             | community   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Open        | Read-only   | **Bulletin  | 1./2./3./4D | Invisible,  |
-| Clothes     | **news**    | board:**    | iverse      | barriers to |
-|             | section;    | posting     | forms of    | member-ship |
-| www.open-cl |             | requires    | member-ship | posed by    |
-| othes.com   | Bulletin    | membership; |             | time,       |
-|             | board;      |             |             | commit-ment |
-|             |             | B2B and B2C |             | and ID      |
-|             | 'Recipe'    | **selling   |             |             |
-|             | **download* | platform:** |             |             |
-|             | *;          | access      |             |             |
-|             |             | requires    |             |             |
-|             | **Database* | membership; |             |             |
-|             | *           |             |             |             |
-|             | on members  | Members     |             |             |
-|             | ('Harbour') | **showcase* |             |             |
-|             | ;           | *           |             |             |
-|             |             | requires    |             |             |
-|             | B2B and B2C | membership; |             |             |
-|             | selling     |             |             |             |
-|             | platform;   | **Newsmagaz |             |             |
-|             |             | ine**       |             |             |
-|             | Members     | open to     |             |             |
-|             | **showcase* | contributio |             |             |
-|             | *           | ns          |             |             |
-|             | ('Dejima'); | by members  |             |             |
-|             |             |             |             |             |
-|             | Newsmagazin |             |             |             |
-|             | e;          |             |             |             |
-|             |             |             |             |             |
-|             | **Database* |             |             |             |
-|             | *           |             |             |             |
-|             | of fashion  |             |             |             |
-|             | schools;    |             |             |             |
-|             |             |             |             |             |
-|             | 'Production |             |             |             |
-|             | journal'    |             |             |             |
-|             | **showcase* |             |             |             |
-|             | *           |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+|                                       | Profit/Non-profit | Only online/Also offline interaction | Specific focus of interest | Centralized/decentralized technology [^12annexes_1]|
+|---------------------------------------|-------------------|--------------------------------------|----------------------------|--------------------------------------|
+| Tonga.Online â smart X tension        | Non-profit        | Also offline                         | No                         | Centralized                          |
+| Akshaya                               | Profit            | Also offline                         | No                         | Centralized                          |
+| Projecto Cyberela â Radio Telecentros | Non-profit        | Also offline                         | Yes                        | Centralized                          |
+| The World Starts With Me              | Non-profit        | Also offline                         | Yes                        | Centralized                          |
+| canal*ACCESSIBLE                      | Non-profit        | Mainly online                        | No                         | Centralized                          |
+| Electronic Frontier Foundation        | Non-profit        | Mainly online                        | Yes                        | Centralized                          |
+| Free Software Foundation              | Non-profit        | Mainly online                        | Yes                        | Decentralized                        |
+| Telestreet                            | Non-profit        | Also offline                         | No                         | Decentralized                        |
+| Overmundo                             | Non-profit        | Mainly online                        | No                         | Centralized                          |
+| Open Clothes                          | Profit            | Mainly online                        | Yes                        | Centralized                          |
+| dotSUB                                | Profit            | Mainly online                        | Yes                        | Centralized                          |
 
-### Table 16 -- Map of communities according to degree of permeability entailed by self accounts (rows) and software (columns)
 
-+-------------+-------------+-------------+-------------+-------------+
-| Application | Invisible   | High        | Low         | Visible     |
-| /Software   | Other       | barriers to | barriers to | Other       |
-|             |             | membership  | membership  |             |
-+=============+=============+=============+=============+=============+
-| More        | The World   | Overmundo   | Tonga.Onlin | Free        |
-| mediators   | Starts With |             | e-smart     | Software    |
-| than        | Me          |             | X tension   | Foundation  |
-| intermediar |             |             |             |             |
-| ies         |             |             |             | Telestreet  |
-+-------------+-------------+-------------+-------------+-------------+
-| More        | Akshaya     | Open        | dotSUB      | Canal\*ACCE |
-| intermediar |             | Clothes     |             | SSIBLE      |
-| ies         | Proyecto    |             |             |             |
-| than        | Cyberela-Ra |             |             |             |
-| mediators   | dio         |             |             |             |
-|             | Telecentros |             |             |             |
-|             |             |             |             |             |
-|             | Electronic  |             |             |             |
-|             | Frontier    |             |             |             |
-|             | Foundation  |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+### Table 15 - Analysis of the websites of the winning projects according to the degree of visibility of the Outside allowed by the technologies used
+
+|                                                         | Technologies used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Interactive technologies that allow users to leave publicly visible traces                                                                                                                                                                                                                                                                                                                                   | Inscribed users                                                                            | Degree of visibility of the Outside                                  |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Akshaya www.akshaya.net                                 | Textual web pages (read only); Guestbook form (does not work); ‘Contact us’ link: list of phone numbers; Restricted area: it is not possible to register online                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | None                                                                                                                                                                                                                                                                                                                                                                                                         | 1. Passive, invisible guest                                                                | Invisible, no online registra-tion                                   |
+| Proyecto Cyberela – Radio Telecentros www.cemina.org.br | Textual web pages (read only); Video streaming; PDF documents’ publishing; Radio streaming/download; Contact form                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | None                                                                                                                                                                                                                                                                                                                                                                                                         | 1. Passive, invisible guest                                                                | Invisible, no online registra-tion                                   |
+| The World Starts With Me www.theworldstarts.org         | Flash animations accessible only to students and teachers; Contact e-mail addresses; Students forum                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Students forum accessible only by registered students. Online registration is not allowed                                                                                                                                                                                                                                                                                                                    | 1. Members interacting with each other                                                     | Invisible, no online registra-tion                                   |
+| Tonga.Online – smart X tension www.mulonga.net          | Textual web pages (read only); News feed; Discussion forum; Contact form; Newsletter; A/V streaming and download                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Discussion forum: read-only for guests, submission-open for members. Online registration is allowed                                                                                                                                                                                                                                                                                                          | 1. Members interacting with each other; 2. Passive, invisible guest                        | Invisible, but low barriers to member-ship                           |
+| dotSUB dotsub.com                                       | Video screening is open; To upload one’s own videos and subtitle other people’s videos registration is required                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Video uploading and subtitling is restricted to members. But online registration is allowed                                                                                                                                                                                                                                                                                                                  | 1. Members as experts; 2. Passive, invisible guest                                         | Invisible, but low barriers to member-ship                           |
+| Canal*ACCESSIBLE www.zexe.net/barcelona                 | Photo, map and video database searchable by date, name of submitter, city area, type of obstacle; Open discussion forum                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Open discussion forum: it does not need registration                                                                                                                                                                                                                                                                                                                                                         | 1. Interactivevisible guest                                                                | Visible                                                              |
+| Electronic Frontier Foundation www.eff.org              | Contact e-mail addresses.; Newsletter; RSS Feeds; ‘Send a postcard’ form; ‘Send your message to decision makers’ form: restricted to U.S. citizens; HTML/PDF guides for Internet users; ‘Line Noise’ Podcast; ‘Submit prior Art’ form; EFF software projects: wikis, mailing lists and Sourceforge’s tracker; ‘Deeplinks’ blog: no comment facilities                                                                                                                                                                                                                                                                                                 | EFF software projects make use of wikis for coordination, mailing lists and Sourceforge’s tracker for development                                                                                                                                                                                                                                                                                            | 1. Passive, invisible Other 2. Engaged citizens 3. Developers                              | Invisible                                                            |
+| Free Software Foundation www.fsf.org www.gnu.org        | Newsletter; News section (read only); Mailing lists on specific campaigns; ‘Contact us’ e-mail address; Free Software Directory (db on all existing free sw): users can download and rate sw, submit a level, subscribe to development-focused mailing lists and IRC channels, view VCS repository; Campaigns center: information on campaigns and access to ‘take action’ tools hosted by partner organization like EFF’s action alert; FSF Groups Wiki; FSF Blogs publishes blog entries by ‘people in the community’, no comments allowed, but it possible to suggest one’s own blog; Events section: RSS feed; Code contribution: open to members | Mailing lists on specific campaigns restricted to members, but registration is allowed online; Mailing lists of code development open also to non-members; Free Software Directory: non-members can rate sw, subscribe to development-focused mailing lists and IRC channels; FSF Groups Wiki open to guests too; Code contribution: open to members, but online registration is allowed on Savannah servers | 1. Passive, invisible Other 2. Engaged citizens 3. Guest developers 4. Member develop-pers | Guest develop-pers are visible                                       |
+| Telestreet www.telestreet.it www.ngvision.org           | News section run by editorial team, guests’ comments allowed; Open a posteriori moderated mailing list (Telestreet); Closed mailing list (NGV); Discussion forum; Video download; Peer-to-peer video distribution; Ftp upload of videos                                                                                                                                                                                                                                                                                                                                                                                                               | Open comments on news; Open mailing list; Discussion forum (need registration which is allowed online); Peer-to-peer distribution and ftp upload open to guests                                                                                                                                                                                                                                              | 1. Interactivevisible Other 2. Low barriers member-ship                                    | Visible                                                              |
+| Overmundo www.overmundo.com.br                          | Blog: open to read, only members can comment, submit, revise, vote articles; Contact form to contact the core team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Blog: only members can comment, propose, revise and vote articles to be published. Online registration is allowed BUT requires sensitive data. Members have different voting weights according to the length of their participation in the community                                                                                                                                                         | 1. Invisible Other 2. Entry members 3. Established members 4. Senior members               | Invisible, barriers to member-ship posed by time, commit-ment and ID |
+| Open Clothes www.open-clothes.com                       | Read-only news section; Bulletin board; ‘Recipe’ download; Database on members (‘Harbour’); B2B and B2C selling platform; Members showcase (‘Dejima’); Newsmagazine; Database of fashion schools; ‘Production journal’ showcase                                                                                                                                                                                                                                                                                                                                                                                                                       | Bulletin board: posting requires membership; B2B and B2C selling platform: access requires membership; Members showcase requires membership; Newsmagazine open to contributions by members                                                                                                                                                                                                                   | 1./2./3./4Diverse forms of member-ship                                                     | Invisible, barriers to member-ship posed by time, commit-ment and ID |
+
+
+### Table 16 - Map of communities according to degree of permeability entailed by self accounts (rows) and software (columns)
+
+| Application/Software               | Invisible Other                                                            | High barriers to membership | Low barriers to membership   | Visible Other                       |
+|------------------------------------|----------------------------------------------------------------------------|-----------------------------|------------------------------|-------------------------------------|
+| More mediators than intermediaries | The World Starts With Me                                                   | Overmundo                   | Tonga.Online-smart X tension | Free Software Foundation Telestreet |
+| More intermediaries than mediators | Akshaya Proyecto Cyberela-Radio Telecentros Electronic Frontier Foundation | Open Clothes                | dotSUB                       | Canal*ACCESSIBLE                    |
+
+##
 
 [^12annexes_1]: With 'centralized' we consider those technologies that allow a
     few-to-many or one-to-many pattern of communication through a unique

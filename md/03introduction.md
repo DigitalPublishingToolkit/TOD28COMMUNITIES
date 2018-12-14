@@ -633,6 +633,8 @@ suggests a system of classification for digital communities based on two
 diverse forms of materiality, while chapter 8 draws conclusions and
 proposes further directions of analysis.
 
+##
+
 [^03introduction_1]: Note from the 2018 Edition. As mentioned in the Foreword, the
     research underpinning this book was conducted on a data set created
     in the period 2004-2007. Ethnographic observation and participation

@@ -48,19 +48,19 @@ criteria used to identify online assemblages as 'communities' (Table 14)
 and eventually suggests abandoning the attempt to single out any
 ecumenical definition of 'digital communites'.
 
-                                           Profit/Non-profit   Only online/Also offline interaction   Specific focus of interest   Centralized/decentralized technology[^10chapter07_5]
-  ---------------------------------------- ------------------- -------------------------------------- ---------------------------- ------------------------------------------
-  Tonga.Online *--* smart X tension        Non-profit          Also offline                           No                           Centralized
-  Akshaya                                  Profit              Also offline                           No                           Centralized
-  Projecto Cyberela -- Radio Telecentros   Non-profit          Also offline                           Yes                          Centralized
-  The World Starts With Me                 Non-profit          Also offline                           Yes                          Centralized
-  canal\*ACCESSIBLE                        Non-profit          Mainly online                          No                           Centralized
-  Electronic Frontier Foundation           Non-profit          Mainly online                          Yes                          Centralized
-  Free Software Foundation                 Non-profit          Mainly online                          Yes                          Decentralized
-  Telestreet                               Non-profit          Also offline                           No                           Decentralized
-  Overmundo                                Non-profit          Mainly online                          No                           Centralized
-  Open Clothes                             Profit              Mainly online                          Yes                          Centralized
-  dotSUB                                   Profit              Mainly online                          Yes                          Centralized
+|                                       | Profit/Non-profit | Only online/Also offline interaction | Specific focus of interest | Centralized/decentralized technology [^10chapter07_5]|
+|---------------------------------------|-------------------|--------------------------------------|----------------------------|--------------------------------------|
+| Tonga.Online *--* smart X tension        | Non-profit        | Also offline                         | No                         | Centralized                          |
+| Akshaya                               | Profit            | Also offline                         | No                         | Centralized                          |
+| Projecto Cyberela â Radio Telecentros | Non-profit        | Also offline                         | Yes                        | Centralized                          |
+| The World Starts With Me              | Non-profit        | Also offline                         | Yes                        | Centralized                          |
+| canal*ACCESSIBLE                      | Non-profit        | Mainly online                        | No                         | Centralized                          |
+| Electronic Frontier Foundation        | Non-profit        | Mainly online                        | Yes                        | Centralized                          |
+| Free Software Foundation              | Non-profit        | Mainly online                        | Yes                        | Decentralized                        |
+| Telestreet                            | Non-profit        | Also offline                         | No                         | Decentralized                        |
+| Overmundo                             | Non-profit        | Mainly online                        | No                         | Centralized                          |
+| Open Clothes                          | Profit            | Mainly online                        | Yes                        | Centralized                          |
+| dotSUB                                | Profit            | Mainly online                        | Yes                        | Centralized                          |
 
 <small>Table 14 - Classification of winning projects according to orientation
 to business, relationship between online and offline interaction, focus
@@ -335,368 +335,19 @@ for the diverse entrance barriers for guests to register as members. I
 thus had to stick to descriptions, rather than using measurements.
 Results are reported in Table 15.
 
-+-------------+-------------+-------------+-------------+-------------+
-|             | Technologie | Interactive | Inscribed   | Degree of   |
-|             | s           | technologie | users       | visibility  |
-|             | used        | s           |             | of the      |
-|             |             | that allow  |             | Outside     |
-|             |             | users to    |             |             |
-|             |             | leave       |             |             |
-|             |             | publicly    |             |             |
-|             |             | visible     |             |             |
-|             |             | traces      |             |             |
-+=============+=============+=============+=============+=============+
-| Akshaya     | **Textual   | None        | 1. Passive, | Invisible,  |
-|             | web pages** |             | invisible   | no online   |
-| www.akshaya | (read       |             | guest       | registra-ti |
-| .net        | only);      |             |             | on          |
-|             | **Guestbook |             |             |             |
-|             | form**      |             |             |             |
-|             | (does not   |             |             |             |
-|             | work);      |             |             |             |
-|             | **'Contact  |             |             |             |
-|             | us' link**: |             |             |             |
-|             | list of     |             |             |             |
-|             | phone       |             |             |             |
-|             | numbers;    |             |             |             |
-|             | **Restricte |             |             |             |
-|             | d           |             |             |             |
-|             | area**: it  |             |             |             |
-|             | is not      |             |             |             |
-|             | possible to |             |             |             |
-|             | register    |             |             |             |
-|             | online      |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Proyecto    | Textual web | None        | 1. Passive, | Invisible,  |
-| Cyberela -- | pages (read |             | invisible   | no online   |
-| Radio       | only);      |             | guest       | registra-ti |
-| Telecentros | Video       |             |             | on          |
-|             | streaming;  |             |             |             |
-| www.cemina. |             |             |             |             |
-| org.br      | PDF         |             |             |             |
-|             | documents'  |             |             |             |
-|             | publishing; |             |             |             |
-|             |             |             |             |             |
-|             | Radio       |             |             |             |
-|             | streaming/d |             |             |             |
-|             | ownload;    |             |             |             |
-|             |             |             |             |             |
-|             | Contact     |             |             |             |
-|             | form        |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| The World   | **Flash     | Students    | 1. Members  | Invisible,  |
-| Starts With | animations* | **forum**   | interacting | no online   |
-| Me          | *           | accessible  | with each   | registra-ti |
-|             | accessible  | only by     | other       | on          |
-| www.theworl | only to     | registered  |             |             |
-| dstarts.org | students    | students.   |             |             |
-|             | and         | Online      |             |             |
-|             | teachers;   | registratio |             |             |
-|             |             | n           |             |             |
-|             | Contact     | is not      |             |             |
-|             | **e-mail**  | allowed     |             |             |
-|             | addresses;  |             |             |             |
-|             |             |             |             |             |
-|             | Students    |             |             |             |
-|             | **forum**   |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Tonga.Onlin | Textual web | **Discussio | 1. Members  | Invisible,  |
-| e           | pages (read | n           | interacting | but low     |
-| *--* smart  | only); News | forum**:    | with each   | barriers to |
-| X tension   | feed;       | read-only   | other; 2.   | member-ship |
-|             |             | for guests, | Passive,    |             |
-| www.mulonga | Discussion  | submission- | invisible   |             |
-| .net        | forum;      | open        | guest       |             |
-|             |             | for         |             |             |
-|             | Contact     | members.    |             |             |
-|             | form;       | Online      |             |             |
-|             |             | registratio |             |             |
-|             | Newsletter; | n           |             |             |
-|             |             | is allowed  |             |             |
-|             | A/V         |             |             |             |
-|             | streaming   |             |             |             |
-|             | and         |             |             |             |
-|             | download    |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| dotSUB      | Video       | Video       | 1. Members  | Invisible,  |
-|             | **screening | **uploading | as experts; | but low     |
-| dotsub.com  | **          | **          | 2. Passive, | barriers to |
-|             | is open;    | and         | invisible   | member-ship |
-|             |             | **subtitlin | guest       |             |
-|             | To          | g**         |             |             |
-|             | **upload**  | is          |             |             |
-|             | one's own   | restricted  |             |             |
-|             | videos and  | to members. |             |             |
-|             | **subtitle* | But online  |             |             |
-|             | *           | registratio |             |             |
-|             | other       | n           |             |             |
-|             | people's    | is allowed  |             |             |
-|             | videos      |             |             |             |
-|             | registratio |             |             |             |
-|             | n           |             |             |             |
-|             | is required |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Canal\*ACCE | Photo, map  | Open        | 1.          | Visible     |
-| SSIBLE      | and video   | discussion  | Interactive |             |
-|             | **database* | **forum**:  | visible     |             |
-| www.zexe.ne | *           | it does not | guest       |             |
-| t/barcelona | searchable  | need        |             |             |
-|             | by date,    | registratio |             |             |
-|             | name of     | n           |             |             |
-|             | submitter,  |             |             |             |
-|             | city area,  |             |             |             |
-|             | type of     |             |             |             |
-|             | obstacle;   |             |             |             |
-|             |             |             |             |             |
-|             | Open        |             |             |             |
-|             | discussion  |             |             |             |
-|             | **forum**   |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Electronic  | Contact     | EFF         | 1. Passive, | Invisible   |
-| Frontier    | **e-mail**  | software    | invisible   |             |
-| Foundation  | addresses.; | projects    | Other       |             |
-|             |             | make use of |             |             |
-| www.eff.org | Newsletter; | **wikis**   | 2. Engaged  |             |
-|             |             | for         | citizens    |             |
-|             | RSS Feeds;  | coordinatio |             |             |
-|             |             | n,          | 3.          |             |
-|             | 'Send a     | **mailing   | Developers  |             |
-|             | postcard'   | lists** and |             |             |
-|             | **form**;   | Sourceforge |             |             |
-|             |             | 's          |             |             |
-|             | 'Send your  | **tracker** |             |             |
-|             | message to  | for         |             |             |
-|             | decision    | development |             |             |
-|             | makers'     |             |             |             |
-|             | **form**:   |             |             |             |
-|             | restricted  |             |             |             |
-|             | to U.S.     |             |             |             |
-|             | citizens;   |             |             |             |
-|             |             |             |             |             |
-|             | **HTML/PDF  |             |             |             |
-|             | guides**    |             |             |             |
-|             | for         |             |             |             |
-|             | Internet    |             |             |             |
-|             | users;      |             |             |             |
-|             |             |             |             |             |
-|             | 'Line       |             |             |             |
-|             | Noise'      |             |             |             |
-|             | **Podcast** |             |             |             |
-|             | ;           |             |             |             |
-|             |             |             |             |             |
-|             | 'Submit     |             |             |             |
-|             | prior Art'  |             |             |             |
-|             | **form**;   |             |             |             |
-|             |             |             |             |             |
-|             | **EFF       |             |             |             |
-|             | software    |             |             |             |
-|             | projects**: |             |             |             |
-|             | wikis,      |             |             |             |
-|             | mailing     |             |             |             |
-|             | lists and   |             |             |             |
-|             | Sourceforge |             |             |             |
-|             | 's          |             |             |             |
-|             | tracker;    |             |             |             |
-|             |             |             |             |             |
-|             | 'Deeplinks' |             |             |             |
-|             | **blog**:   |             |             |             |
-|             | no comment  |             |             |             |
-|             | facilities  |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Free        | Newsletter; | **Mailing   | 1. Passive, | Guest       |
-| Software    |             | lists** on  | invisible   | develop-per |
-| Foundation  | **News      | specific    | Other 2.    | s           |
-|             | section**   | campaigns   | Engaged     | are visible |
-| www.fsf.org | (read       | restricted  | citizens 3. |             |
-|             | only);      | to members, | Guest       |             |
-| www.gnu.org |             | but         | developers  |             |
-|             | **Mailing   | registratio | 4. Member   |             |
-|             | lists** on  | n           | develop-per |             |
-|             | specific    | is allowed  | s           |             |
-|             | campaigns;  | online;     |             |             |
-|             |             |             |             |             |
-|             | '**Contact  | **Mailing   |             |             |
-|             | us**'       | lists** of  |             |             |
-|             | e-mail      | code        |             |             |
-|             | address;    | development |             |             |
-|             |             | open also   |             |             |
-|             | **Free      | to          |             |             |
-|             | Software    | non-members |             |             |
-|             | Directory** | ;           |             |             |
-|             | (db on all  |             |             |             |
-|             | existing    | **Free      |             |             |
-|             | free sw):   | Software    |             |             |
-|             | users can   | Directory** |             |             |
-|             | download    | :           |             |             |
-|             | and rate    | non-members |             |             |
-|             | sw, submit  | can rate    |             |             |
-|             | a level,    | sw,         |             |             |
-|             | subscribe   | subscribe   |             |             |
-|             | to          | to          |             |             |
-|             | development | development |             |             |
-|             | -focused    | -focused    |             |             |
-|             | mailing     | mailing     |             |             |
-|             | lists and   | lists and   |             |             |
-|             | IRC         | IRC         |             |             |
-|             | channels,   | channels;   |             |             |
-|             | view VCS    |             |             |             |
-|             | repository; | **FSF       |             |             |
-|             |             | Groups      |             |             |
-|             | **Campaigns | Wiki** open |             |             |
-|             | center**:   | to guests   |             |             |
-|             | information | too;        |             |             |
-|             | on          |             |             |             |
-|             | campaigns   | **Code      |             |             |
-|             | and access  | contributio |             |             |
-|             | to 'take    | n**:        |             |             |
-|             | action'     | open to     |             |             |
-|             | tools       | members,    |             |             |
-|             | hosted by   | but online  |             |             |
-|             | partner     | registratio |             |             |
-|             | organizatio | n           |             |             |
-|             | n           | is allowed  |             |             |
-|             | like EFF's  | on Savannah |             |             |
-|             | action      | servers     |             |             |
-|             | alert;      |             |             |             |
-|             |             |             |             |             |
-|             | FSF Groups  |             |             |             |
-|             | Wiki;       |             |             |             |
-|             |             |             |             |             |
-|             | **FSF       |             |             |             |
-|             | Blogs**     |             |             |             |
-|             | publishes   |             |             |             |
-|             | blog        |             |             |             |
-|             | entries by  |             |             |             |
-|             | 'people in  |             |             |             |
-|             | the         |             |             |             |
-|             | community', |             |             |             |
-|             | no comments |             |             |             |
-|             | allowed,    |             |             |             |
-|             | but it      |             |             |             |
-|             | possible to |             |             |             |
-|             | suggest     |             |             |             |
-|             | one's own   |             |             |             |
-|             | blog;       |             |             |             |
-|             |             |             |             |             |
-|             | **Events**  |             |             |             |
-|             | section:    |             |             |             |
-|             | RSS feed;   |             |             |             |
-|             |             |             |             |             |
-|             | **Code      |             |             |             |
-|             | contributio |             |             |             |
-|             | n**:        |             |             |             |
-|             | open to     |             |             |             |
-|             | members     |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Telestreet  | **News**    | Open        | 1.          | Visible     |
-|             | section run | **comments* | Interactive |             |
-| www.telestr | by          | *           | visible     |             |
-| eet.it      | editorial   | on news;    | Other 2.    |             |
-|             | team,       |             | Low         |             |
-| www.ngvisio | guests'     | Open        | barriers    |             |
-| n.org       | comments    | mailing     | member-ship |             |
-|             | allowed;    | list;       |             |             |
-|             |             |             |             |             |
-|             | Open a      | Discussion  |             |             |
-|             | posteriori  | **forum**   |             |             |
-|             | moderated   | (need       |             |             |
-|             | **mailing   | registratio |             |             |
-|             | list**      | n           |             |             |
-|             | (Telestreet | which is    |             |             |
-|             | );          | allowed     |             |             |
-|             |             | online);    |             |             |
-|             | Closed      |             |             |             |
-|             | **mailing   | **Peer-to-p |             |             |
-|             | list**      | eer**       |             |             |
-|             | (NGV);      | distributio |             |             |
-|             |             | n           |             |             |
-|             | Discussion  | and **ftp   |             |             |
-|             | forum;      | upload**    |             |             |
-|             |             | open to     |             |             |
-|             | Video       | guests      |             |             |
-|             | download;   |             |             |             |
-|             |             |             |             |             |
-|             | **Peer-to-p |             |             |             |
-|             | eer**       |             |             |             |
-|             | video       |             |             |             |
-|             | distributio |             |             |             |
-|             | n;          |             |             |             |
-|             |             |             |             |             |
-|             | **Ftp       |             |             |             |
-|             | upload** of |             |             |             |
-|             | videos      |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Overmundo   | **Blog**:   | **Blog**:   | 1.          | Invisible,  |
-|             | open to     | only        | Invisible   | barriers to |
-| www.overmun | read, only  | members can | Other       | member-ship |
-| do.com.br   | members can | comment,    |             | posed by    |
-|             | comment,    | propose,    | 2\. Entry   | time,       |
-|             | submit,     | revise and  | members     | commit-ment |
-|             | revise,     | vote        | 3.          | and ID      |
-|             | vote        | articles to | Established |             |
-|             | articles;   | be          | members     |             |
-|             |             | published.  | 4. Senior   |             |
-|             | **Contact   | Online      | members     |             |
-|             | form** to   | registratio |             |             |
-|             | contact the | n           |             |             |
-|             | core team   | is allowed  |             |             |
-|             |             | BUT         |             |             |
-|             |             | requires    |             |             |
-|             |             | sensitive   |             |             |
-|             |             | data.       |             |             |
-|             |             | Members     |             |             |
-|             |             | have        |             |             |
-|             |             | different   |             |             |
-|             |             | voting      |             |             |
-|             |             | weights     |             |             |
-|             |             | according   |             |             |
-|             |             | to the      |             |             |
-|             |             | length of   |             |             |
-|             |             | their       |             |             |
-|             |             | participati |             |             |
-|             |             | on          |             |             |
-|             |             | in the      |             |             |
-|             |             | community   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Open        | Read-only   | **Bulletin  | 1./2./3./4D | Invisible,  |
-| Clothes     | **news**    | board:**    | iverse      | barriers to |
-|             | section;    | posting     | forms of    | member-ship |
-| www.open-cl |             | requires    | member-ship | posed by    |
-| othes.com   | Bulletin    | membership; |             | time,       |
-|             | board;      |             |             | commit-ment |
-|             |             | B2B and B2C |             | and ID      |
-|             | 'Recipe'    | **selling   |             |             |
-|             | **download* | platform:** |             |             |
-|             | *;          | access      |             |             |
-|             |             | requires    |             |             |
-|             | **Database* | membership; |             |             |
-|             | *           |             |             |             |
-|             | on members  | Members     |             |             |
-|             | ('Harbour') | **showcase* |             |             |
-|             | ;           | *           |             |             |
-|             |             | requires    |             |             |
-|             | B2B and B2C | membership; |             |             |
-|             | selling     |             |             |             |
-|             | platform;   | **Newsmagaz |             |             |
-|             |             | ine**       |             |             |
-|             | Members     | open to     |             |             |
-|             | **showcase* | contributio |             |             |
-|             | *           | ns          |             |             |
-|             | ('Dejima'); | by members  |             |             |
-|             |             |             |             |             |
-|             | Newsmagazin |             |             |             |
-|             | e;          |             |             |             |
-|             |             |             |             |             |
-|             | **Database* |             |             |             |
-|             | *           |             |             |             |
-|             | of fashion  |             |             |             |
-|             | schools;    |             |             |             |
-|             |             |             |             |             |
-|             | 'Production |             |             |             |
-|             | journal'    |             |             |             |
-|             | **showcase* |             |             |             |
-|             | *           |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+|                                                         | Technologies used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Interactive technologies that allow users to leave publicly visible traces                                                                                                                                                                                                                                                                                                                                   | Inscribed users                                                                            | Degree of visibility of the Outside                                  |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Akshaya www.akshaya.net                                 | Textual web pages (read only); Guestbook form (does not work); ‘Contact us’ link: list of phone numbers; Restricted area: it is not possible to register online                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | None                                                                                                                                                                                                                                                                                                                                                                                                         | 1. Passive, invisible guest                                                                | Invisible, no online registra-tion                                   |
+| Proyecto Cyberela – Radio Telecentros www.cemina.org.br | Textual web pages (read only); Video streaming; PDF documents’ publishing; Radio streaming/download; Contact form                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | None                                                                                                                                                                                                                                                                                                                                                                                                         | 1. Passive, invisible guest                                                                | Invisible, no online registra-tion                                   |
+| The World Starts With Me www.theworldstarts.org         | Flash animations accessible only to students and teachers; Contact e-mail addresses; Students forum                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Students forum accessible only by registered students. Online registration is not allowed                                                                                                                                                                                                                                                                                                                    | 1. Members interacting with each other                                                     | Invisible, no online registra-tion                                   |
+| Tonga.Online – smart X tension www.mulonga.net          | Textual web pages (read only); News feed; Discussion forum; Contact form; Newsletter; A/V streaming and download                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Discussion forum: read-only for guests, submission-open for members. Online registration is allowed                                                                                                                                                                                                                                                                                                          | 1. Members interacting with each other; 2. Passive, invisible guest                        | Invisible, but low barriers to member-ship                           |
+| dotSUB dotsub.com                                       | Video screening is open; To upload one’s own videos and subtitle other people’s videos registration is required                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Video uploading and subtitling is restricted to members. But online registration is allowed                                                                                                                                                                                                                                                                                                                  | 1. Members as experts; 2. Passive, invisible guest                                         | Invisible, but low barriers to member-ship                           |
+| Canal*ACCESSIBLE www.zexe.net/barcelona                 | Photo, map and video database searchable by date, name of submitter, city area, type of obstacle; Open discussion forum                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Open discussion forum: it does not need registration                                                                                                                                                                                                                                                                                                                                                         | 1. Interactivevisible guest                                                                | Visible                                                              |
+| Electronic Frontier Foundation www.eff.org              | Contact e-mail addresses.; Newsletter; RSS Feeds; ‘Send a postcard’ form; ‘Send your message to decision makers’ form: restricted to U.S. citizens; HTML/PDF guides for Internet users; ‘Line Noise’ Podcast; ‘Submit prior Art’ form; EFF software projects: wikis, mailing lists and Sourceforge’s tracker; ‘Deeplinks’ blog: no comment facilities                                                                                                                                                                                                                                                                                                 | EFF software projects make use of wikis for coordination, mailing lists and Sourceforge’s tracker for development                                                                                                                                                                                                                                                                                            | 1. Passive, invisible Other 2. Engaged citizens 3. Developers                              | Invisible                                                            |
+| Free Software Foundation www.fsf.org www.gnu.org        | Newsletter; News section (read only); Mailing lists on specific campaigns; ‘Contact us’ e-mail address; Free Software Directory (db on all existing free sw): users can download and rate sw, submit a level, subscribe to development-focused mailing lists and IRC channels, view VCS repository; Campaigns center: information on campaigns and access to ‘take action’ tools hosted by partner organization like EFF’s action alert; FSF Groups Wiki; FSF Blogs publishes blog entries by ‘people in the community’, no comments allowed, but it possible to suggest one’s own blog; Events section: RSS feed; Code contribution: open to members | Mailing lists on specific campaigns restricted to members, but registration is allowed online; Mailing lists of code development open also to non-members; Free Software Directory: non-members can rate sw, subscribe to development-focused mailing lists and IRC channels; FSF Groups Wiki open to guests too; Code contribution: open to members, but online registration is allowed on Savannah servers | 1. Passive, invisible Other 2. Engaged citizens 3. Guest developers 4. Member develop-pers | Guest develop-pers are visible                                       |
+| Telestreet www.telestreet.it www.ngvision.org           | News section run by editorial team, guests’ comments allowed; Open a posteriori moderated mailing list (Telestreet); Closed mailing list (NGV); Discussion forum; Video download; Peer-to-peer video distribution; Ftp upload of videos                                                                                                                                                                                                                                                                                                                                                                                                               | Open comments on news; Open mailing list; Discussion forum (need registration which is allowed online); Peer-to-peer distribution and ftp upload open to guests                                                                                                                                                                                                                                              | 1. Interactivevisible Other 2. Low barriers member-ship                                    | Visible                                                              |
+| Overmundo www.overmundo.com.br                          | Blog: open to read, only members can comment, submit, revise, vote articles; Contact form to contact the core team                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Blog: only members can comment, propose, revise and vote articles to be published. Online registration is allowed BUT requires sensitive data. Members have different voting weights according to the length of their participation in the community                                                                                                                                                         | 1. Invisible Other 2. Entry members 3. Established members 4. Senior members               | Invisible, barriers to member-ship posed by time, commit-ment and ID |
+| Open Clothes www.open-clothes.com                       | Read-only news section; Bulletin board; ‘Recipe’ download; Database on members (‘Harbour’); B2B and B2C selling platform; Members showcase (‘Dejima’); Newsmagazine; Database of fashion schools; ‘Production journal’ showcase                                                                                                                                                                                                                                                                                                                                                                                                                       | Bulletin board: posting requires membership; B2B and B2C selling platform: access requires membership; Members showcase requires membership; Newsmagazine open to contributions by members                                                                                                                                                                                                                   | 1./2./3./4Diverse forms of member-ship                                                     | Invisible, barriers to member-ship posed by time, commit-ment and ID |
 
 <small>Table 15 - Analysis of the websites of the winning projects according
 to the degree of visibility of the Outside</small>
@@ -866,28 +517,10 @@ between Addresser and Addressees, Members and Outside entailed by self
 accounts (section 7.2) and software (section 7.3). Table 16 visualizes
 the two criteria and maps communities accordingly.
 
-+-------------+-------------+-------------+-------------+-------------+
-| Application | Invisible   | High        | Low         | Visible     |
-| /Software   | Other       | barriers to | barriers to | Other       |
-|             |             | membership  | membership  |             |
-+=============+=============+=============+=============+=============+
-| More        | The World   | Overmundo   | Tonga.Onlin | Free        |
-| mediators   | Starts With |             | e-smart     | Software    |
-| than        | Me          |             | X tension   | Foundation  |
-| intermediar |             |             |             |             |
-| ies         |             |             |             | Telestreet  |
-+-------------+-------------+-------------+-------------+-------------+
-| More        | Akshaya     | Open        | dotSUB      | Canal\*ACCE |
-| intermediar |             | Clothes     |             | SSIBLE      |
-| ies         | Proyecto    |             |             |             |
-| than        | Cyberela-Ra |             |             |             |
-| mediators   | dio         |             |             |             |
-|             | Telecentros |             |             |             |
-|             |             |             |             |             |
-|             | Electronic  |             |             |             |
-|             | Frontier    |             |             |             |
-|             | Foundation  |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+| Application/Software               | Invisible Other                                                            | High barriers to membership | Low barriers to membership   | Visible Other                       |
+|------------------------------------|----------------------------------------------------------------------------|-----------------------------|------------------------------|-------------------------------------|
+| More mediators than intermediaries | The World Starts With Me                                                   | Overmundo                   | Tonga.Online-smart X tension | Free Software Foundation Telestreet |
+| More intermediaries than mediators | Akshaya Proyecto Cyberela-Radio Telecentros Electronic Frontier Foundation | Open Clothes                | dotSUB                       | Canal*ACCESSIBLE                    |
 
 <small>Table 16 - Map of communities according to degree of permeability
 entailed by applications (rows) and software (columns)</small>
@@ -1055,6 +688,8 @@ mind that the second criterion focuses on cases in which the Outside is
 to guests, there are of course other non-digital ways to include the
 Other in the course of action, as *The World Starts With Me*'s blended
 learning model demonstrates.
+
+##
 
 [^10chapter07_1]: A revised version of this chapter was presented at the 6^th^
     Wikisym Conference in Dansk in 2010 and published as Pelizza,
